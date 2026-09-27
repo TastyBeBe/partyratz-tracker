@@ -176,7 +176,7 @@ section { margin-top: 14px; }
 .st.pixel svg { color: var(--serious); }
 .st.in-progress svg { color: var(--accent); }
 .st.todo svg { color: var(--axis); }
-.st.removed { text-decoration: line-through; }
+.st.removed { color: var(--muted); }
 
 /* ---------- now */
 .now-phase { font-size: 15px; margin: 0 0 10px; }
@@ -189,6 +189,7 @@ section { margin-top: 14px; }
 .list .what { font-weight: 550; }
 .list .where { color: var(--ink-2); font-size: 12.5px; }
 .list .quote { color: var(--ink-2); font-size: 12.5px; font-style: italic; }
+.act-top { display: flex; align-items: center; justify-content: space-between; gap: 8px; margin-bottom: 2px; }
 .empty { color: var(--muted); font-size: 13.5px; padding: 6px 0; }
 .waiting { margin-top: 12px; padding: 10px 12px; border-radius: 10px; background: var(--surface-2); font-size: 13.5px; }
 .waiting b { font-weight: 650; }

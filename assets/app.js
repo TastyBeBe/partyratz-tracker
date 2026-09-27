@@ -72,7 +72,10 @@
     if (unit === false) return txt;
     return txt + (txt === "1" ? " day" : " days");
   }
-  function pct(x) { return (x >= 99.5 && x < 100 ? Math.floor(x) : Math.round(x)) + "%"; }
+  function pct(x) {
+    if (x > 0 && x < 10) return (Math.round(x * 10) / 10).toFixed(1).replace(/\.0$/, "") + "%";
+    return (x >= 99.5 && x < 100 ? Math.floor(x) : Math.round(x)) + "%";
+  }
   function rel(ms, now) {
     var m = Math.round((now - ms) / 60000);
     if (m < 1) return "just now";
@@ -92,6 +95,43 @@
     return c ? c.name : id;
   }
   function gameNo(g) { var m = /^7\.(\d+)/.exec(g); return m ? +m[1] : null; }
+
+  // ------------------------------------------------------------------ activity helpers
+  // Events that were undone, and the undo events themselves, are noise on the page.
+  function liveEvents() {
+    var d = state.data, undone = {};
+    d.events.forEach(function (e) { if (e.act === "undo" && e.undoes) undone[e.undoes] = true; });
+    return d.events.filter(function (e) { return e.act !== "undo" && !(e.op && undone[e.op]); });
+  }
+  function dayKey(ms) { return dyFmt.format(new Date(ms)); }
+  function actChip(e) {
+    if (e.act === "approve") return chip("approved", "Approved");
+    if (e.act === "reopen") return chip("awaiting", "Taken back");
+    if (e.act === "remove") return chip("removed", "Cut");
+    if (e.act === "add") return chip(e.to === "awaiting" ? "awaiting" : "todo", "New");
+    if (e.act === "plan") return chip("in-progress", "Estimate changed");
+    if (e.to === "awaiting") return chip("awaiting", "Ready for your eye");
+    if (e.to === "in-progress") return chip("in-progress", "In progress");
+    return chip(e.to || "todo", STATUS_LABEL[e.to] || e.to);
+  }
+  function chip(cls, text) { return h("span", { class: "st " + cls }, icon(ICON[cls] || ICON.todo), text); }
+  // one line per day: what moved
+  function daySummary(evs) {
+    var ok = {}, ready = {}, added = {}, cut = {};
+    evs.forEach(function (e) {
+      if (e.act === "approve") ok[e.id] = 1;
+      else if (e.act === "add") added[e.id] = 1;
+      else if (e.act === "remove") cut[e.id] = 1;
+      else if (e.act === "mark" && e.to === "awaiting") ready[e.id] = 1;
+    });
+    Object.keys(ok).forEach(function (k) { delete ready[k]; });
+    var parts = [], n;
+    if ((n = Object.keys(ok).length)) parts.push(n + " approved");
+    if ((n = Object.keys(ready).length)) parts.push(n + " ready for your eye");
+    if ((n = Object.keys(added).length)) parts.push(n + " new");
+    if ((n = Object.keys(cut).length)) parts.push(n + " cut");
+    return { text: parts.join(" · "), approved: Object.keys(ok).length, ready: Object.keys(ready).length };
+  }
 
   // ------------------------------------------------------------------ data
   function load() {
@@ -136,11 +176,16 @@
     n.appendChild(h("div", { class: "chip " + v.cls }, icon(CHIP_ICON[v.cls]), v.label));
     var zero = Math.abs(st.variance_days) < 0.05;
     n.appendChild(h("div", { class: "hero-figure" },
-      zero ? "0" : (ahead ? "+" : "−") + days(st.variance_days, false),
+      zero ? "0" : days(st.variance_days, false),
       h("small", null, zero ? "days off the plan" :
         (days(st.variance_days, false) === "1" ? "day " : "days ") + (ahead ? "ahead" : "behind"))));
     n.appendChild(h("p", null, "You've done ", h("b", null, days(st.earned_days)), " of the ",
       h("b", null, days(st.total_work_days)), " of work in your plan; by now the plan expects ", h("b", null, days(st.planned_days)), "."));
+    var todayEvs = liveEvents().filter(function (e) { return dayKey(S.parseTime(e.ts)) === dayKey(Date.now()); });
+    if (todayEvs.length) {
+      var sm = daySummary(todayEvs);
+      n.appendChild(h("p", null, "Today: ", h("b", null, sm.text || "no changes yet"), "."));
+    }
     var gap = (st.deadline_end - finish) / DAY;
     n.appendChild(h("p", null, "At the plan's pace of one work-day a day you finish on ", h("b", null, wFmt.format(new Date(finish))),
       gap >= 0 ? [", ", h("b", null, days(gap)), " before the ", date(deadline), " deadline."]
@@ -156,8 +201,11 @@
     n.appendChild(tile("Until the deadline", String(Math.max(0, Math.ceil(st.days_to_deadline))), "days", dyFmt.format(new Date(st.deadline_end - 1))));
     n.appendChild(tile("Spare days", (st.spare_days < 0 ? "−" : "") + days(st.spare_days, false), null,
       st.spare_days < 0 ? "short of the deadline" : "left over at plan pace"));
+    var weekAgo = Date.now() - 7 * DAY;
+    var wk = daySummary(liveEvents().filter(function (e) { return S.parseTime(e.ts) > weekAgo; }));
     n.appendChild(tile("Approved this week", String(st.approved_7d), st.approved_7d === 1 ? "item" : "items",
-      st.pace_7d != null ? days(st.pace_7d, false) + " work-days a day lately" : "since the tracker started"));
+      wk.ready ? "+ " + wk.ready + " built or redone for your eye" :
+      (st.pace_7d != null ? days(st.pace_7d, false) + " work-days a day lately" : "since the tracker started")));
   }
 
   // ------------------------------------------------------------------ right now
@@ -183,12 +231,19 @@
         n.appendChild(ul);
       } else n.appendChild(h("p", { class: "empty" }, "Everything in this area is approved."));
     }
-    var waiting = d.items.filter(function (i) { return i.status === "awaiting"; });
+    var lastTouch = {};
+    liveEvents().forEach(function (e) { lastTouch[e.id] = S.parseTime(e.ts); });
+    var waiting = d.items.filter(function (i) { return i.status === "awaiting"; })
+      .sort(function (a, b) { return (lastTouch[b.id] || 0) - (lastTouch[a.id] || 0); });
     var box = h("div", { class: "waiting" });
     if (waiting.length) {
-      box.appendChild(h("div", null, h("b", null, String(waiting.length)), waiting.length === 1 ? " thing is" : " things are", " waiting for your verdict."));
-      var names = waiting.slice(0, 3).map(function (i) { return i.group + ": " + i.name; });
-      box.appendChild(h("div", { class: "where", style: "margin-top:4px;color:var(--ink-2);font-size:12.5px" }, names.join(" · ") + (waiting.length > 3 ? " · …" : "")));
+      box.appendChild(h("div", null, h("b", null, String(waiting.length)), waiting.length === 1 ? " thing is" : " things are", " waiting for your verdict. Newest first:"));
+      var ul2 = h("ul", { class: "list", style: "margin-top:4px" });
+      waiting.slice(0, 5).forEach(function (i) {
+        ul2.appendChild(h("li", null, h("span", { class: "grow" }, h("div", { class: "what" }, i.name), h("div", { class: "where" }, i.group)),
+          h("span", { class: "when" }, lastTouch[i.id] ? when(lastTouch[i.id], Date.now()) : "before 27 Sep")));
+      });
+      box.appendChild(ul2);
       box.appendChild(h("button", { class: "linkbtn", type: "button", style: "margin-top:6px", onclick: function () {
         state.filter = { q: "", cat: "all", status: "awaiting" }; state.showAll = false; renderAll();
         document.getElementById("all").scrollIntoView({ behavior: "smooth", block: "start" });
@@ -197,30 +252,51 @@
     n.appendChild(box);
   }
 
-  // ------------------------------------------------------------------ latest approvals
+  // ------------------------------------------------------------------ latest activity
   function renderRecent(now) {
     var n = mount("recent"), d = state.data;
-    n.appendChild(h("h2", null, "Latest approvals"));
-    n.appendChild(h("p", { class: "sub" }, "Every time you say yes to something, it lands here."));
+    n.appendChild(h("h2", null, "Latest activity"));
+    n.appendChild(h("p", { class: "sub" }, "Everything that moved: your approvals, and what the agents built or redid for your eye. Only an approval counts toward the numbers."));
     var byId = {}; d.items.forEach(function (i) { byId[i.id] = i; });
-    var evs = d.events.filter(function (e) { return e.act === "approve" || e.act === "reopen"; }).slice(-12).reverse();
+    var evs = liveEvents();
     if (!evs.length) {
-      n.appendChild(h("p", { class: "empty" }, "Nothing approved since the tracker started. Your next yes shows up here within a minute or two."));
+      n.appendChild(h("p", { class: "empty" }, "Nothing has moved since the tracker started. Your next yes shows up here within a minute or two."));
       return;
     }
-    var ul = h("ul", { class: "list" });
-    evs.forEach(function (e) {
-      var i = byId[e.id] || { name: e.id, group: "", cat: "" };
-      var t = S.parseTime(e.ts);
-      ul.appendChild(h("li", null,
-        e.act === "approve" ? badge("approved") : badge("awaiting"),
-        h("span", { class: "grow" },
-          h("div", { class: "what" }, (e.act === "reopen" ? "Taken back: " : "") + i.name),
-          h("div", { class: "where" }, [i.group, catName(i.cat)].filter(Boolean).join(" · ")),
-          e.note ? h("div", { class: "quote" }, "“" + e.note + "”") : null),
-        h("span", { class: "when" }, when(t, now))));
+    // newest first; an item touched several times in one day shows once, with its latest state
+    var dayList = [], byDay = {};
+    evs.slice().reverse().forEach(function (e) {
+      var t = S.parseTime(e.ts), k = dayKey(t);
+      if (!byDay[k]) { byDay[k] = { key: k, t: t, evs: [], rows: [], seen: {} }; dayList.push(byDay[k]); }
+      byDay[k].evs.push(e);
+      var rowKey = e.id + (e.act === "approve" ? "#ok" : "");
+      if (!byDay[k].seen[rowKey]) { byDay[k].seen[rowKey] = 1; byDay[k].rows.push(e); }
     });
-    n.appendChild(ul);
+    var shown = 0, cap = state.showAllActivity ? 1e9 : 14;
+    dayList.forEach(function (day) {
+      if (shown >= cap) return;
+      var label = day.key === dayKey(now) ? "Today" : day.key === dayKey(now - DAY) ? "Yesterday" : wFmt.format(new Date(day.t));
+      n.appendChild(h("div", { class: "igroup", style: "margin-top:10px" }, label + " — " + daySummary(day.evs).text));
+      var ul = h("ul", { class: "list" });
+      day.rows.forEach(function (e) {
+        if (shown >= cap) return;
+        shown++;
+        var i = byId[e.id] || { name: e.act === "plan" ? (e.id === "deadline" ? "The deadline" : catName(e.id)) : e.id, group: "", cat: "" };
+        ul.appendChild(h("li", null,
+          h("span", { class: "grow" },
+            h("div", { class: "act-top" }, actChip(e), h("span", { class: "when" }, tFmt.format(new Date(S.parseTime(e.ts))))),
+            h("div", { class: "what" }, i.name),
+            h("div", { class: "where" }, [i.group, catName(i.cat)].filter(Boolean).join(" · ")),
+            e.note ? h("div", { class: "quote" }, e.act === "approve" ? "“" + e.note + "”" : e.note) : null)));
+      });
+      n.appendChild(ul);
+    });
+    var total = dayList.reduce(function (a, dd) { return a + dd.rows.length; }, 0);
+    if (total > cap) {
+      var more = h("button", { class: "linkbtn more", type: "button" }, "Show all " + total);
+      more.addEventListener("click", function () { state.showAllActivity = true; renderRecent(Date.now()); });
+      n.appendChild(more);
+    }
   }
 
   // ------------------------------------------------------------------ categories
