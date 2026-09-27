@@ -8739,5 +8739,21 @@
   "approved_at": null,
   "note": "",
   "added_at": "2026-09-27T13:37:00+02:00"
+ },
+ {
+  "id": "tracker-live-test",
+  "cat": "marketing",
+  "group": "Tracker test",
+  "name": "Live update test (removed straight after)",
+  "kind": "task",
+  "status": "todo",
+  "weight": 1.0,
+  "days": 0.0,
+  "count": null,
+  "baseline": false,
+  "approved_at": null,
+  "note": "A check that the page updates by itself.",
+  "added_at": "2026-09-27T13:46:45+02:00",
+  "updated_at": "2026-09-27T13:46:45+02:00"
  }
 ]
