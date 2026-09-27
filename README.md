@@ -50,6 +50,25 @@ python3 track.py status
 The developer agent in the game project is reminded on every prompt (a hook), and the game's
 `CLAUDE.md` carries the law. A launchd job re-pushes anything a failed push left behind.
 
+## Setting it up on a Mac
+
+```bash
+bash ops/install.sh
+```
+
+That installs the launchd job and copies the hook to `~/.claude/hooks/`. Then add it to
+`~/.claude/settings.json` under `hooks.UserPromptSubmit`:
+`{"hooks":[{"type":"command","command":"python3 \"$HOME/.claude/hooks/progress_tracker_hook.py\"","timeout":5}]}`.
+The hook speaks only in a project whose `CLAUDE.md` names `partyratz-tracker`. The evidence behind
+each item (`tracker/private.json`) is local to the Mac that built the baseline and is never pushed.
+
+## Tests
+
+```bash
+python3 tests/test_parity.py   # the page and the tool compute the same numbers
+python3 tests/test_cli.py      # every command, on a throwaway copy
+```
+
 ## Layout
 
 | path | what |
