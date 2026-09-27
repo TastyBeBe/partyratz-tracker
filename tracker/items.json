@@ -8771,9 +8771,9 @@
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "Done (27 Sep): the arms go up the moment she walks, the hands get their own hitbox; filmed, waiting for his eye.",
+  "note": "Redone (27 Sep night): every rat's hands now land on the same spot; one hitbox per hand that grows and shrinks with the arms. Filmed, waiting for his eye.",
   "added_at": "2026-09-27T18:40:37+02:00",
-  "updated_at": "2026-09-27T21:31:27+02:00"
+  "updated_at": "2026-09-27T22:33:37+02:00"
  },
  {
   "id": "su-head-hitbox",
