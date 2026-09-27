@@ -8740,5 +8740,21 @@
   "approved_at": null,
   "note": "",
   "added_at": "2026-09-27T13:37:00+02:00"
+ },
+ {
+  "id": "mole-eye-dots",
+  "cat": "art-primary",
+  "group": "Mole (lobby)",
+  "name": "Mole eyes with white highlight dots like the rats (a test)",
+  "kind": "character",
+  "status": "awaiting",
+  "weight": 1.0,
+  "days": 0.0476,
+  "count": null,
+  "baseline": false,
+  "approved_at": null,
+  "note": "A test drawing shown beside today's mole in the running lobby; nothing installed until he says so.",
+  "added_at": "2026-09-27T17:15:26+02:00",
+  "updated_at": "2026-09-27T17:15:26+02:00"
  }
 ]
