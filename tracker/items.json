@@ -8782,14 +8782,14 @@
   "game": "7.10 Sumo",
   "name": "Sumo: the hitbox a circle round the head",
   "kind": "fix",
-  "status": "awaiting",
+  "status": "approved",
   "weight": 1.0,
   "days": 0.0476,
   "count": null,
   "baseline": false,
-  "approved_at": null,
-  "note": "His request (27 Sep): circular, round her head, not her feet or tail; done, filmed, waiting for his eye.",
+  "approved_at": "2026-09-27T21:16:00+02:00",
+  "note": "The hitboxes seem fine.",
   "added_at": "2026-09-27T18:40:38+02:00",
-  "updated_at": "2026-09-27T18:40:38+02:00"
+  "updated_at": "2026-09-27T21:16:00+02:00"
  }
 ]
