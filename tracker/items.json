@@ -2957,9 +2957,9 @@
   "count": 1,
   "baseline": false,
   "approved_at": null,
-  "note": "No-outline options filmed (27 Sep evening): today's, fully solid, and three stronger shades that read over the cream panels; his pick.",
+  "note": "A SLASH dev button on the main menu now lets him try all ten strokes in the game (27 Sep); his pick.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-09-27T18:40:37+02:00"
+  "updated_at": "2026-09-27T21:31:28+02:00"
  },
  {
   "id": "rat-portraits",
@@ -8765,15 +8765,15 @@
   "group": "Top-down rats (all four)",
   "name": "Sumo: push animation, hands in front while pushing",
   "kind": "character",
-  "status": "in-progress",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.0476,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "His spec (27 Sep): the arms go up and forward the moment she starts walking, as if about to push; the hitbox grows to cover the hands.",
+  "note": "Done (27 Sep): the arms go up the moment she walks, the hands get their own hitbox; filmed, waiting for his eye.",
   "added_at": "2026-09-27T18:40:37+02:00",
-  "updated_at": "2026-09-27T21:16:03+02:00"
+  "updated_at": "2026-09-27T21:31:27+02:00"
  },
  {
   "id": "su-head-hitbox",
