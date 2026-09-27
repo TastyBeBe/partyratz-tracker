@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!-- The launch tracker's safety net: every change already publishes itself the moment it is
+     recorded; this re-pushes anything a failed push (no network, a timeout) left behind.
+     It never writes data of its own: `publish` rewrites the page data only when the
+     tracker's own files changed. Installed at ~/Library/LaunchAgents/. -->
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.tastybebe.partyratz-tracker</string>
+  <key>ProgramArguments</key>
+  <array>
+    <string>/usr/bin/python3</string>
+    <string>__HOME__/Gamesky/partyratz-tracker/track.py</string>
+    <string>publish</string>
+    <string>--if-needed</string>
+    <string>--quiet</string>
+  </array>
+  <key>StartInterval</key>
+  <integer>900</integer>
+  <key>RunAtLoad</key>
+  <true/>
+  <key>LowPriorityIO</key>
+  <true/>
+  <key>Nice</key>
+  <integer>10</integer>
+  <key>EnvironmentVariables</key>
+  <dict>
+    <key>PATH</key>
+    <string>/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin</string>
+  </dict>
+  <key>StandardOutPath</key>
+  <string>__HOME__/Library/Logs/partyratz-tracker.log</string>
+  <key>StandardErrorPath</key>
+  <string>__HOME__/Library/Logs/partyratz-tracker.log</string>
+</dict>
+</plist>

@@ -1,0 +1,74 @@
+{
+ "schema": 1,
+ "game": "Party Ratz 4 Life",
+ "start": "2026-09-27T13:37:00+02:00",
+ "deadline": "2026-11-23",
+ "estimates_given": "2026-09-27",
+ "rule": "Only Albert's own yes completes an item. Days are his estimates; the plan is one work-day per calendar day, the categories in his order.",
+ "categories": [
+  {
+   "id": "art-primary",
+   "name": "Primary art",
+   "desc": "The characters and their animation: the four rats from the side and from above, the mole, the cat statues and what they wear. You estimated about 90% done with one day of work left.",
+   "days": 1,
+   "his_pct": 90,
+   "pct_mode": "items"
+  },
+  {
+   "id": "art-secondary",
+   "name": "Secondary art",
+   "desc": "Everything else you see: every minigame's backgrounds, props, pickups and effects, the lobby and the piñata screen, the flowers and small pieces, and the UI and HUD art. A piece an agent made counts only once you've checked and approved it in a live session.",
+   "days": 20,
+   "his_pct": 30,
+   "pct_mode": "items"
+  },
+  {
+   "id": "mechanics",
+   "name": "Mechanics",
+   "desc": "The core gameplay of the minigames and the party around them. You estimated it 99% done; what is left here are the adjustments and the known bugs.",
+   "days": 5,
+   "his_pct": 99,
+   "pct_mode": "given"
+  },
+  {
+   "id": "music",
+   "name": "Music",
+   "desc": "About thirty tracks: the menus, the lobby, the screens between games and one for each minigame, each picked by your ear.",
+   "days": 5,
+   "his_pct": 0,
+   "pct_mode": "items"
+  },
+  {
+   "id": "sfx",
+   "name": "Sound effects",
+   "desc": "Every sound the game makes, family by family: buttons, countdowns, the rats, the lobby, the score screen, the piñata and each minigame.",
+   "days": 3,
+   "his_pct": null,
+   "pct_mode": "items"
+  },
+  {
+   "id": "feel",
+   "name": "Game feel",
+   "desc": "The final polish on how everything feels: shake, hit pauses, flashes, haptics, transitions and the big payoff moments.",
+   "days": 5,
+   "his_pct": null,
+   "pct_mode": "items"
+  },
+  {
+   "id": "playtesting",
+   "name": "Playtesting",
+   "desc": "The game on real phones with real players, and the fixes that turns up.",
+   "days": 3,
+   "his_pct": null,
+   "pct_mode": "items"
+  },
+  {
+   "id": "marketing",
+   "name": "Marketing",
+   "desc": "Everything that has to exist before the game can earn: the icon and key art, store pages, screenshots and trailer, socials, the dev vlog and the launch itself.",
+   "days": 10,
+   "his_pct": null,
+   "pct_mode": "items"
+  }
+ ]
+}
