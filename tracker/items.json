@@ -425,14 +425,15 @@
   "group": "Top-down rats (all four)",
   "name": "Arena games' standing turn (stepping, 60° a step)",
   "kind": "animation",
-  "status": "awaiting",
+  "status": "removed",
   "weight": 1.0,
   "days": 0.0345,
   "count": 4,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "Your ruling (27 Sep): the stepping turn only where a rat turns on the spot by herself, and only Sumo does that.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-09-27T23:47:15+02:00"
  },
  {
   "id": "td-red-feet-walk",
@@ -440,14 +441,15 @@
   "group": "Red Rat (top-down)",
   "name": "Red Rat top-down walk following your straightened legs",
   "kind": "animation",
-  "status": "in-progress",
+  "status": "approved",
   "weight": 1.0,
   "days": 0.0345,
   "count": 1,
   "baseline": false,
-  "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "approved_at": "2026-09-27T18:40:00+02:00",
+  "note": "The small foot scuff is fine, we can leave it.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-09-27T23:47:14+02:00"
  },
  {
   "id": "td-sumo-push",
@@ -3823,9 +3825,9 @@
   "count": 1,
   "baseline": false,
   "approved_at": null,
-  "note": "The podium now has a ChatGPT-drawn cut-out curtain stage, cut-out blocks and the lobby's balloons and bunting; no pixel art left (27 Sep). Block variant pick open.",
+  "note": "Cut-out stage, blocks, balloons and bunting; no pixel art left. You said we will get to the podium later.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-09-27T15:16:43+02:00"
+  "updated_at": "2026-09-27T23:47:15+02:00"
  },
  {
   "id": "screen-pinata-menu",
@@ -8719,14 +8721,15 @@
   "group": "Podium",
   "name": "Podium theatre-stage backdrop",
   "kind": "backdrop",
-  "status": "pixel",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.0617,
   "count": 1,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "Drawn as a cut-out curtain stage (27 Sep, a labelled stand-in); you said we will get to the podium later.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-09-27T23:47:15+02:00"
  },
  {
   "id": "podium-plinth",
@@ -8734,14 +8737,15 @@
   "group": "Podium",
   "name": "Podium plinth",
   "kind": "prop",
-  "status": "pixel",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.0617,
   "count": 1,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "Cut-out blocks drawn in three variants (27 Sep); your pick, later.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-09-27T23:47:15+02:00"
  },
  {
   "id": "mole-eye-dots",
