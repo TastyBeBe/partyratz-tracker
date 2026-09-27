@@ -853,15 +853,15 @@
   "group": "Minigame rats",
   "name": "Podium winner's victory dance, one per rat",
   "kind": "animation",
-  "status": "todo",
+  "status": "awaiting",
   "weight": 2.0,
   "days": 0.069,
   "count": 4,
   "baseline": false,
   "approved_at": null,
-  "note": "His ruling (27 Sep): definitely needed; for now one dance, the same for all rats.",
+  "note": "Done (27 Sep night): one dance for all four - a hop with both arms up, then a groove with the arms waving; the podium winner dances it. Filmed, waiting for his eye.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-09-27T18:40:37+02:00"
+  "updated_at": "2026-09-27T23:06:31+02:00"
  },
  {
   "id": "cosmetic-dances",
