@@ -8753,15 +8753,15 @@
   "group": "Mole (lobby)",
   "name": "Mole eyes with white highlight dots like the rats (a test)",
   "kind": "character",
-  "status": "approved",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.0476,
   "count": null,
   "baseline": false,
-  "approved_at": "2026-09-27T18:40:37+02:00",
-  "note": "The mole pupils are fine, but make them about ten percent larger (done: the blink redrawn to match).",
+  "approved_at": null,
+  "note": "Your rule (28 Sep): 'great, but' waits for your yes on the changed version. The dots are now ten percent larger; waiting for your yes.",
   "added_at": "2026-09-27T17:15:26+02:00",
-  "updated_at": "2026-09-27T18:40:37+02:00"
+  "updated_at": "2026-09-28T00:05:29+02:00"
  },
  {
   "id": "td-sumo-push-anim",
