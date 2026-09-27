@@ -3798,15 +3798,15 @@
   "group": "Screens: between games",
   "name": "Score screen between games",
   "kind": "ui-screen",
-  "status": "in-progress",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.0617,
   "count": 1,
   "baseline": false,
   "approved_at": null,
-  "note": "The rats are cut-out now; the ground is still a flat placeholder.",
+  "note": "The score screen now stands in the lobby's own backyard (sky, clouds, fence, lawn, flowers) with the cut-out rats on the lawn (27 Sep); waiting for your eye.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-09-27T13:45:11+02:00"
+  "updated_at": "2026-09-27T14:12:50+02:00"
  },
  {
   "id": "screen-flow-podium",
