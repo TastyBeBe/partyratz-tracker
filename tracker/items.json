@@ -461,8 +461,9 @@
   "count": 4,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "His yes to try it (27 Sep): a pushed rat's tail now keeps a walking pace, feet unchanged; he checks and says keep or revert.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-09-27T18:40:37+02:00"
  },
  {
   "id": "td-held-bat",
@@ -858,8 +859,9 @@
   "count": 4,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "His ruling (27 Sep): definitely needed; for now one dance, the same for all rats.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-09-27T18:40:37+02:00"
  },
  {
   "id": "cosmetic-dances",
@@ -2955,9 +2957,9 @@
   "count": 1,
   "baseline": false,
   "approved_at": null,
-  "note": "Redrawn by ChatGPT without the outline, slightly see-through, with a soft grey-blue shade (27 Sep); three strokes filmed for his pick.",
+  "note": "No-outline options filmed (27 Sep evening): today's, fully solid, and three stronger shades that read over the cream panels; his pick.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-09-27T17:15:24+02:00"
+  "updated_at": "2026-09-27T18:40:37+02:00"
  },
  {
   "id": "rat-portraits",
@@ -8747,14 +8749,47 @@
   "group": "Mole (lobby)",
   "name": "Mole eyes with white highlight dots like the rats (a test)",
   "kind": "character",
+  "status": "approved",
+  "weight": 1.0,
+  "days": 0.0476,
+  "count": null,
+  "baseline": false,
+  "approved_at": "2026-09-27T18:40:37+02:00",
+  "note": "The mole pupils are fine, but make them about ten percent larger (done: the blink redrawn to match).",
+  "added_at": "2026-09-27T17:15:26+02:00",
+  "updated_at": "2026-09-27T18:40:37+02:00"
+ },
+ {
+  "id": "td-sumo-push-anim",
+  "cat": "art-primary",
+  "group": "Top-down rats (all four)",
+  "name": "Sumo: push animation, hands in front while pushing",
+  "kind": "character",
+  "status": "todo",
+  "weight": 1.0,
+  "days": 0.0476,
+  "count": null,
+  "baseline": false,
+  "approved_at": null,
+  "note": "His request (27 Sep): when a rat pushes another she holds her hands in front of her and pushes.",
+  "added_at": "2026-09-27T18:40:37+02:00",
+  "updated_at": "2026-09-27T18:40:37+02:00"
+ },
+ {
+  "id": "su-head-hitbox",
+  "cat": "art-primary",
+  "group": "7.10 Sumo",
+  "game": "7.10 Sumo",
+  "name": "Sumo: the hitbox a circle round the head",
+  "kind": "fix",
   "status": "awaiting",
   "weight": 1.0,
   "days": 0.0476,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "A test drawing shown beside today's mole in the running lobby; nothing installed until he says so.",
-  "added_at": "2026-09-27T17:15:26+02:00",
-  "updated_at": "2026-09-27T17:15:26+02:00"
+  "note": "His request (27 Sep): circular, round her head, not her feet or tail; done, filmed, waiting for his eye.",
+  "added_at": "2026-09-27T18:40:38+02:00",
+  "updated_at": "2026-09-27T18:40:38+02:00"
  }
 ]
