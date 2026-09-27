@@ -2951,15 +2951,15 @@
   "group": "UI art: backgrounds & disco floor",
   "name": "White slash trail that follows the finger on the floor",
   "kind": "ui-art",
-  "status": "awaiting",
+  "status": "approved",
   "weight": 1.0,
   "days": 0.0617,
   "count": 1,
   "baseline": false,
-  "approved_at": null,
-  "note": "A SLASH dev button on the main menu now lets him try all ten strokes in the game (27 Sep); his pick.",
+  "approved_at": "2026-09-27T21:47:59+02:00",
+  "note": "His pick (27 Sep): the plain one - 'I think I like it the most'; plain (code) at 85%, to be made the default.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-09-27T21:31:28+02:00"
+  "updated_at": "2026-09-27T21:47:59+02:00"
  },
  {
   "id": "rat-portraits",
