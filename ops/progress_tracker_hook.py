@@ -66,6 +66,7 @@ def main():
     lines.append(f"    {TOOL} approve \"<id or words from its name>\" --note \"<his words>\"   (a whole batch: approve --all --group \"7.10 Sumo\" --cat art-secondary)")
     lines.append(f"  Look up: {TOOL} find <words> · new deliverable: add · cut: remove · he changed an estimate: plan --days <cat> <n> · mistake: undo")
     lines.append("  Only HIS yes approves. Your own finished work waiting for his eye is `mark <id> --as awaiting`. Rats by colour only, no links or paths (the page is public).")
+    lines.append("  \"Great, but <change>\" is NOT his yes (his rule, 28 Sep): make the change, `mark --as awaiting`, approve only when he says yes to the changed version.")
     lines.append("  He reads every note on his phone: write it TO him (\"you asked\", \"your pick\"), never \"he\" or \"his\".")
     print("\n".join(lines))
 
