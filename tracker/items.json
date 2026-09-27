@@ -3814,15 +3814,15 @@
   "group": "Screens: between games",
   "name": "Podium / final party results",
   "kind": "ui-screen",
-  "status": "in-progress",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.0617,
   "count": 1,
   "baseline": false,
   "approved_at": null,
-  "note": "The rats are cut-out; the new curtain stage and plinths are prompted and waiting for ChatGPT (logged out in Chrome, 27 Sep).",
+  "note": "The podium now has a ChatGPT-drawn cut-out curtain stage, cut-out blocks and the lobby's balloons and bunting; no pixel art left (27 Sep). Block variant pick open.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-09-27T14:12:52+02:00"
+  "updated_at": "2026-09-27T15:16:43+02:00"
  },
  {
   "id": "screen-pinata-menu",
