@@ -3217,14 +3217,15 @@
   "group": "Screens: lobby & selection",
   "name": "Lobby HUD",
   "kind": "ui-screen",
-  "status": "in-progress",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.0617,
   "count": 1,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "You asked (28 Sep): the texts inside their boxes. The corner controls step aside while the rat cards or the setup screens are up; every caption measured centred. Waiting for your eye.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-09-28T11:34:30+02:00"
  },
  {
   "id": "screen-character-select",
@@ -3238,8 +3239,9 @@
   "count": 1,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "You asked (28 Sep): the texts inside their boxes. The four names now sit centred in the blue band, in dark ink; the corner controls no longer sit on the green card. Waiting for your eye.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-09-28T11:34:30+02:00"
  },
  {
   "id": "screen-overlay-wall",
