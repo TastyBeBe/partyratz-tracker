@@ -8861,15 +8861,15 @@
   "group": "Effects",
   "name": "Double jump poof",
   "kind": "task",
-  "status": "awaiting",
+  "status": "approved",
   "weight": 1.0,
   "days": 0.0797,
   "count": null,
   "baseline": false,
-  "approved_at": null,
-  "note": "Built as you asked (28 Sep): the ring you liked, or half the time one of ten cloud words (POOF!, PUFF!, PUUU!, FWOOP!, WHOOSH!, PFFT!, FOOM!, HUP!), all with the ring's animation and its outline thickness.",
+  "approved_at": "2026-09-28T23:40:00+02:00",
+  "note": "You kept the ring (28 Sep).",
   "added_at": "2026-09-28T16:45:53+02:00",
-  "updated_at": "2026-09-28T23:47:51+02:00"
+  "updated_at": "2026-09-29T00:07:10+02:00"
  },
  {
   "id": "side-landing-flow-flip",
@@ -8947,8 +8947,24 @@
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "You said the shake felt out of sync (28 Sep). Measured: it jolted the screen up against her fall, then buzzed. Rebuilt as one thud with her landing, only on high falls.",
+  "note": "Rebuilt as you asked (29 Sep): no shake on a normal jump; it grows from nothing with the height of the fall. Waiting for your eye.",
   "added_at": "2026-09-28T23:47:51+02:00",
-  "updated_at": "2026-09-28T23:47:51+02:00"
+  "updated_at": "2026-09-29T00:07:10+02:00"
+ },
+ {
+  "id": "fx-doublejump-words",
+  "cat": "art-secondary",
+  "group": "Effects",
+  "name": "Double jump cloud words (POOF!, PUFF! and the others)",
+  "kind": "effect",
+  "status": "in-progress",
+  "weight": 1.0,
+  "days": 0.0797,
+  "count": null,
+  "baseline": false,
+  "approved_at": null,
+  "note": "Great, but the letters are cramped (28 Sep): each word now bursts with the ring, at its own size and tilt; the words are being redrawn with the letters spaced.",
+  "added_at": "2026-09-29T00:07:10+02:00",
+  "updated_at": "2026-09-29T00:07:10+02:00"
  }
 ]
