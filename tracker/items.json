@@ -8867,9 +8867,9 @@
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "You are leaning towards the ring (number 4). A cloud-letter word board (POOF! and PUFF!, upright and tilted) is ready for your pick; it will pop at the double jump like the POW in the short you sent.",
+  "note": "Built as you asked (28 Sep): the ring you liked, or half the time one of ten cloud words (POOF!, PUFF!, PUUU!, FWOOP!, WHOOSH!, PFFT!, FOOM!, HUP!), all with the ring's animation and its outline thickness.",
   "added_at": "2026-09-28T16:45:53+02:00",
-  "updated_at": "2026-09-28T22:38:21+02:00"
+  "updated_at": "2026-09-28T23:47:51+02:00"
  },
  {
   "id": "side-landing-flow-flip",
@@ -8877,15 +8877,15 @@
   "group": "Side rats (all four)",
   "name": "Landing straight into the walk, and a double-jump flip (tests)",
   "kind": "task",
-  "status": "awaiting",
+  "status": "approved",
   "weight": 1.0,
   "days": 0.0482,
   "count": null,
   "baseline": false,
-  "approved_at": null,
-  "note": "Your picks are built (28 Sep): the double jump is usually the star jump, and 1 time in 4 a tuck or a cartwheel (3 in 4 off the trampoline). Landings now throw dust by the height of the fall (just a little for a normal jump) with a small camera shake on high falls. Waiting on your look.",
+  "approved_at": "2026-09-28T23:47:51+02:00",
+  "note": "You said (28 Sep): the tuck and the cartwheel feel very good, keep them; the dust landing feels great, keep that too.",
   "added_at": "2026-09-28T16:45:53+02:00",
-  "updated_at": "2026-09-28T22:38:21+02:00"
+  "updated_at": "2026-09-28T23:47:51+02:00"
  },
  {
   "id": "fx-trampoline-impact",
@@ -8909,15 +8909,15 @@
   "group": "Effects",
   "name": "Comic speed lines on jumps",
   "kind": "task",
-  "status": "todo",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.0797,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "You asked (28 Sep) for comic lines behind her when she jumps.",
+  "note": "A test, as you asked (28 Sep): a few short comic lines left under her shoes when she jumps from the ground.",
   "added_at": "2026-09-28T22:38:21+02:00",
-  "updated_at": "2026-09-28T22:38:21+02:00"
+  "updated_at": "2026-09-28T23:47:51+02:00"
  },
  {
   "id": "side-landing-highfall",
@@ -8934,5 +8934,21 @@
   "note": "You asked (28 Sep) for landing moves for high falls, done with the body parts, not by deforming her; variations for your pick.",
   "added_at": "2026-09-28T22:38:21+02:00",
   "updated_at": "2026-09-28T22:38:21+02:00"
+ },
+ {
+  "id": "fx-landing-shake",
+  "cat": "art-secondary",
+  "group": "Effects",
+  "name": "Landing camera shake (by fall height)",
+  "kind": "task",
+  "status": "awaiting",
+  "weight": 1.0,
+  "days": 0.0797,
+  "count": null,
+  "baseline": false,
+  "approved_at": null,
+  "note": "You said the shake felt out of sync (28 Sep). Measured: it jolted the screen up against her fall, then buzzed. Rebuilt as one thud with her landing, only on high falls.",
+  "added_at": "2026-09-28T23:47:51+02:00",
+  "updated_at": "2026-09-28T23:47:51+02:00"
  }
 ]
