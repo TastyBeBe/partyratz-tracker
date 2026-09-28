@@ -8775,9 +8775,9 @@
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "His 'great, but' (27 Sep night): the hand hitboxes are now the same size on every rat (the green rat's). Filmed, waiting for his eye.",
+  "note": "You asked for smaller hand hitboxes (28 Sep): now every rat's are the smallest hand's size, never bigger than the hand. Waiting for your eye.",
   "added_at": "2026-09-27T18:40:37+02:00",
-  "updated_at": "2026-09-27T22:42:15+02:00"
+  "updated_at": "2026-09-28T10:19:27+02:00"
  },
  {
   "id": "su-head-hitbox",
