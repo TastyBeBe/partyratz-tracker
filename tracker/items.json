@@ -200,14 +200,15 @@
   "group": "Side rats (all four)",
   "name": "Legs in the air (tuck, dangle, pedal)",
   "kind": "animation",
-  "status": "awaiting",
+  "status": "approved",
   "weight": 1.0,
   "days": 0.0345,
   "count": 4,
   "baseline": false,
-  "approved_at": null,
-  "note": "Fixed after your report of 14 Sep; whether the tuck reads strongly enough is yours to say.",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "approved_at": "2026-09-28T10:42:59+02:00",
+  "note": "You said (28 Sep): all the rats, their walking and jumping and all of these animations are approved.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-09-28T10:42:59+02:00"
  },
  {
   "id": "side-burn-sequence",
@@ -245,14 +246,15 @@
   "group": "Side rats (all four)",
   "name": "Charred rat keeps blinking while burnt",
   "kind": "animation",
-  "status": "awaiting",
+  "status": "approved",
   "weight": 1.0,
   "days": 0.0345,
   "count": 4,
   "baseline": false,
-  "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "approved_at": "2026-09-28T10:42:59+02:00",
+  "note": "You said (28 Sep): all the rats, their walking and jumping and all of these animations are approved.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-09-28T10:42:59+02:00"
  },
  {
   "id": "td-reading-4",
@@ -638,14 +640,15 @@
   "group": "Mole (lobby)",
   "name": "Mole pop-out from the molehill",
   "kind": "animation",
-  "status": "awaiting",
+  "status": "approved",
   "weight": 1.0,
   "days": 0.0345,
   "count": 1,
   "baseline": false,
-  "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "approved_at": "2026-09-28T10:42:59+02:00",
+  "note": "You said (28 Sep): even the mole is approved.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-09-28T10:42:59+02:00"
  },
  {
   "id": "mole-wave",
@@ -653,14 +656,15 @@
   "group": "Mole (lobby)",
   "name": "Mole wave",
   "kind": "animation",
-  "status": "awaiting",
+  "status": "approved",
   "weight": 1.0,
   "days": 0.0345,
   "count": 1,
   "baseline": false,
-  "approved_at": null,
-  "note": "Your tweaks of 11 Sep are in; which arm waves is still open.",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "approved_at": "2026-09-28T10:42:59+02:00",
+  "note": "You said (28 Sep): even the mole is approved.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-09-28T10:42:59+02:00"
  },
  {
   "id": "mole-sink",
@@ -683,14 +687,15 @@
   "group": "Mole (lobby)",
   "name": "Mole blink",
   "kind": "animation",
-  "status": "unchecked",
+  "status": "approved",
   "weight": 1.0,
   "days": 0.0345,
   "count": 1,
   "baseline": false,
-  "approved_at": null,
-  "note": "Picked by an agent; you haven't judged it.",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "approved_at": "2026-09-28T10:42:59+02:00",
+  "note": "You said (28 Sep): even the mole is approved.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-09-28T10:42:59+02:00"
  },
  {
   "id": "portrait-blue",
@@ -713,14 +718,15 @@
   "group": "Rat portraits (selector)",
   "name": "Red, Yellow and Green selector portraits",
   "kind": "character",
-  "status": "awaiting",
+  "status": "approved",
   "weight": 1.0,
   "days": 0.0345,
   "count": 3,
   "baseline": false,
-  "approved_at": null,
-  "note": "Redrawn 26 Sep with one lash per eye, as you ruled; not re-checked yet.",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "approved_at": "2026-09-28T10:42:59+02:00",
+  "note": "You said (28 Sep): all the rats, their walking and jumping and all of these animations are approved.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-09-28T10:42:59+02:00"
  },
  {
   "id": "mg-static-renders",
@@ -2623,14 +2629,15 @@
   "group": "UI art: controls",
   "name": "Movement joystick ring + knob",
   "kind": "ui-art",
-  "status": "awaiting",
+  "status": "approved",
   "weight": 1.414,
   "days": 0.0873,
   "count": 2,
   "baseline": false,
-  "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "approved_at": "2026-09-28T10:42:59+02:00",
+  "note": "You said (28 Sep): the joystick is also approved.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-09-28T10:42:59+02:00"
  },
  {
   "id": "joystick-aim",
@@ -2938,14 +2945,15 @@
   "group": "UI art: backgrounds & disco floor",
   "name": "Floor touch waves and slide-draws-a-shape",
   "kind": "ui-art",
-  "status": "awaiting",
+  "status": "approved",
   "weight": 1.0,
   "days": 0.0617,
   "count": 1,
   "baseline": false,
-  "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "approved_at": "2026-09-28T10:42:59+02:00",
+  "note": "You said (28 Sep): even the gestures are approved.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-09-28T10:42:59+02:00"
  },
  {
   "id": "floor-slash-trail",
@@ -4707,14 +4715,15 @@
   "group": "Core: lobby",
   "name": "Lobby camera on phones wider than 16:9 (sky scrolls)",
   "kind": "mechanic",
-  "status": "awaiting",
+  "status": "approved",
   "weight": 0.5,
   "days": 0.0926,
   "count": 1,
   "baseline": false,
-  "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "approved_at": "2026-09-28T10:42:59+02:00",
+  "note": "You said (28 Sep): everything in the lobby you worked on is approved - kept as it is.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-09-28T10:42:59+02:00"
  },
  {
   "id": "lobby-mole-lifts-rat",
@@ -4722,14 +4731,15 @@
   "group": "Core: lobby",
   "name": "The mole lifts a rat standing on his mound",
   "kind": "mechanic",
-  "status": "awaiting",
+  "status": "approved",
   "weight": 0.5,
   "days": 0.0926,
   "count": 1,
   "baseline": false,
-  "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "approved_at": "2026-09-28T10:42:59+02:00",
+  "note": "You said (28 Sep): everything in the lobby you worked on is approved - kept as it is.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-09-28T10:42:59+02:00"
  },
  {
   "id": "lobby-test-list",
@@ -4737,14 +4747,15 @@
   "group": "Core: lobby",
   "name": "Your lobby test list",
   "kind": "mechanic",
-  "status": "awaiting",
+  "status": "approved",
   "weight": 1.0,
   "days": 0.1852,
   "count": 5,
   "baseline": false,
-  "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "approved_at": "2026-09-28T10:42:59+02:00",
+  "note": "You said (28 Sep): everything in the lobby you worked on is approved - kept as it is.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-09-28T10:42:59+02:00"
  },
  {
   "id": "lobby-pushjump-reproof",
@@ -8091,14 +8102,15 @@
   "group": "Lobby",
   "name": "Three extra cloud shapes from the first lobby board",
   "kind": "scenery",
-  "status": "awaiting",
+  "status": "approved",
   "weight": 1.7,
   "days": 0.1049,
   "count": 3,
   "baseline": false,
-  "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "approved_at": "2026-09-28T10:42:59+02:00",
+  "note": "You said (28 Sep): all the lobby assets are approved - the stuff you worked on yourself.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-09-28T10:42:59+02:00"
  },
  {
   "id": "lobby-clouds-rare",
@@ -8211,14 +8223,15 @@
   "group": "Lobby",
   "name": "Trampoline",
   "kind": "prop",
-  "status": "awaiting",
+  "status": "approved",
   "weight": 1.0,
   "days": 0.0617,
   "count": 1,
   "baseline": false,
-  "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "approved_at": "2026-09-28T10:42:59+02:00",
+  "note": "You said (28 Sep): all the lobby assets are approved - the stuff you worked on yourself.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-09-28T10:42:59+02:00"
  },
  {
   "id": "lobby-balloons",
@@ -8241,14 +8254,15 @@
   "group": "Lobby",
   "name": "START PARTY banner",
   "kind": "prop",
-  "status": "awaiting",
+  "status": "approved",
   "weight": 1.0,
   "days": 0.0617,
   "count": 1,
   "baseline": false,
-  "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "approved_at": "2026-09-28T10:42:59+02:00",
+  "note": "You said (28 Sep): all the lobby assets are approved - the stuff you worked on yourself.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-09-28T10:42:59+02:00"
  },
  {
   "id": "lobby-tufts-kept",
@@ -8271,14 +8285,15 @@
   "group": "Lobby",
   "name": "Grass tufts – three added variations",
   "kind": "scenery",
-  "status": "awaiting",
+  "status": "approved",
   "weight": 1.7,
   "days": 0.1049,
   "count": 3,
   "baseline": false,
-  "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "approved_at": "2026-09-28T10:42:59+02:00",
+  "note": "You said (28 Sep): all the lobby assets are approved - the stuff you worked on yourself.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-09-28T10:42:59+02:00"
  },
  {
   "id": "lobby-daisy-small",
@@ -8346,14 +8361,15 @@
   "group": "Lobby",
   "name": "Dirt clods the mole throws",
   "kind": "prop",
-  "status": "awaiting",
+  "status": "approved",
   "weight": 2.4,
   "days": 0.1482,
   "count": 6,
   "baseline": false,
-  "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "approved_at": "2026-09-28T10:42:59+02:00",
+  "note": "You said (28 Sep): all the lobby assets are approved - the stuff you worked on yourself.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-09-28T10:42:59+02:00"
  },
  {
   "id": "lobby-start-plate",
@@ -8406,14 +8422,15 @@
   "group": "Lobby",
   "name": "Lobby lengthened to 36 units",
   "kind": "scenery",
-  "status": "awaiting",
+  "status": "approved",
   "weight": 1.0,
   "days": 0.0617,
   "count": null,
   "baseline": false,
-  "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "approved_at": "2026-09-28T10:42:59+02:00",
+  "note": "You said (28 Sep): all the lobby assets are approved - the stuff you worked on yourself.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-09-28T10:42:59+02:00"
  },
  {
   "id": "pinata-pinatas",
@@ -8481,14 +8498,15 @@
   "group": "Piñata opening",
   "name": "Cheesecake slice reward",
   "kind": "prop",
-  "status": "awaiting",
+  "status": "approved",
   "weight": 1.0,
   "days": 0.0617,
   "count": 1,
   "baseline": false,
-  "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "approved_at": "2026-09-28T10:42:59+02:00",
+  "note": "You said (28 Sep): all the piñata assets except the piñatas themselves are approved.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-09-28T10:42:59+02:00"
  },
  {
   "id": "pinata-tree",
@@ -8526,14 +8544,15 @@
   "group": "Piñata opening",
   "name": "Bat slash swooshes",
   "kind": "effect",
-  "status": "awaiting",
+  "status": "approved",
   "weight": 3,
   "days": 0.1852,
   "count": 9,
   "baseline": false,
-  "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "approved_at": "2026-09-28T10:42:59+02:00",
+  "note": "You said (28 Sep): all the piñata assets except the piñatas themselves are approved.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-09-28T10:42:59+02:00"
  },
  {
   "id": "pinata-fan",
@@ -8541,14 +8560,15 @@
   "group": "Piñata opening",
   "name": "Impact fans (three strengths)",
   "kind": "effect",
-  "status": "awaiting",
+  "status": "approved",
   "weight": 1.7,
   "days": 0.1049,
   "count": 12,
   "baseline": false,
-  "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "approved_at": "2026-09-28T10:42:59+02:00",
+  "note": "You said (28 Sep): all the piñata assets except the piñatas themselves are approved.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-09-28T10:42:59+02:00"
  },
  {
   "id": "pinata-burst-ring",
@@ -8556,14 +8576,15 @@
   "group": "Piñata opening",
   "name": "Shock ring at the burst",
   "kind": "effect",
-  "status": "awaiting",
+  "status": "approved",
   "weight": 1.0,
   "days": 0.0617,
   "count": 1,
   "baseline": false,
-  "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "approved_at": "2026-09-28T10:42:59+02:00",
+  "note": "You said (28 Sep): all the piñata assets except the piñatas themselves are approved.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-09-28T10:42:59+02:00"
  },
  {
   "id": "pinata-confetti",
@@ -8586,14 +8607,15 @@
   "group": "Piñata opening",
   "name": "Sparkle stars (cracks, tell, burst)",
   "kind": "effect",
-  "status": "awaiting",
+  "status": "approved",
   "weight": 1.0,
   "days": 0.0617,
   "count": 5,
   "baseline": false,
-  "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "approved_at": "2026-09-28T10:42:59+02:00",
+  "note": "You said (28 Sep): all the piñata assets except the piñatas themselves are approved.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-09-28T10:42:59+02:00"
  },
  {
   "id": "fx-laser-eye",
@@ -8601,14 +8623,15 @@
   "group": "Effects",
   "name": "Cat eyes filling with laser light",
   "kind": "effect",
-  "status": "awaiting",
+  "status": "approved",
   "weight": 1.0,
   "days": 0.0617,
   "count": 4,
   "baseline": false,
-  "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "approved_at": "2026-09-28T10:42:59+02:00",
+  "note": "You said (28 Sep): all the lobby assets are approved - the stuff you worked on yourself.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-09-28T10:42:59+02:00"
  },
  {
   "id": "fx-laser-beam",
@@ -8616,14 +8639,15 @@
   "group": "Effects",
   "name": "Laser beam",
   "kind": "effect",
-  "status": "awaiting",
+  "status": "approved",
   "weight": 1.0,
   "days": 0.0617,
   "count": 1,
   "baseline": false,
-  "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "approved_at": "2026-09-28T10:42:59+02:00",
+  "note": "You said (28 Sep): all the lobby assets are approved - the stuff you worked on yourself.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-09-28T10:42:59+02:00"
  },
  {
   "id": "fx-muzzle-flash",
@@ -8661,14 +8685,15 @@
   "group": "Effects",
   "name": "Burn smoke (five puffs)",
   "kind": "effect",
-  "status": "awaiting",
+  "status": "approved",
   "weight": 2.2,
   "days": 0.1358,
   "count": 5,
   "baseline": false,
-  "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "approved_at": "2026-09-28T10:42:59+02:00",
+  "note": "You said (28 Sep): all the lobby assets are approved - the stuff you worked on yourself.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-09-28T10:42:59+02:00"
  },
  {
   "id": "fx-ash-pile",
@@ -8753,15 +8778,15 @@
   "group": "Mole (lobby)",
   "name": "Mole eyes with white highlight dots like the rats (a test)",
   "kind": "character",
-  "status": "awaiting",
+  "status": "approved",
   "weight": 1.0,
   "days": 0.0476,
   "count": null,
   "baseline": false,
-  "approved_at": null,
-  "note": "Your rule (28 Sep): 'great, but' waits for your yes on the changed version. The dots are now ten percent larger; waiting for your yes.",
+  "approved_at": "2026-09-28T10:42:59+02:00",
+  "note": "You said (28 Sep): even the mole is approved.",
   "added_at": "2026-09-27T17:15:26+02:00",
-  "updated_at": "2026-09-28T00:05:29+02:00"
+  "updated_at": "2026-09-28T10:42:59+02:00"
  },
  {
   "id": "td-sumo-push-anim",
