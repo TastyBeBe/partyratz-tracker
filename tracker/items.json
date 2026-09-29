@@ -8957,14 +8957,14 @@
   "group": "Effects",
   "name": "Double jump cloud words (POOF!, PUFF! and the others)",
   "kind": "effect",
-  "status": "in-progress",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.0797,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "You said (28 Sep) the words must themselves burst like the cloud circle, not sit in front of it. The next session builds the words out of the same cloud puffs, so they get the circle's exact effect, spaced so nothing is cramped.",
+  "note": "Rebuilt as you asked (29 Sep): each word is now made of the same cloud puffs as the circle, so it bursts like the circle, with no circle behind it. The letters are spaced by a number, not redrawn. Three ways to burst for your pick: Spread, Burst, Blast. Burst is on in the game until you choose.",
   "added_at": "2026-09-29T00:07:10+02:00",
-  "updated_at": "2026-09-29T10:02:30+02:00"
+  "updated_at": "2026-09-29T10:37:55+02:00"
  }
 ]
