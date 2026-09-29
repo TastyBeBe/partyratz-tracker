@@ -8893,15 +8893,15 @@
   "group": "Effects",
   "name": "Trampoline impact (from your juice short)",
   "kind": "task",
-  "status": "awaiting",
+  "status": "approved",
   "weight": 1.0,
   "days": 0.0797,
   "count": null,
   "baseline": false,
-  "approved_at": null,
-  "note": "Found why it was still too much (29 Sep): the lobby still kept the first, biggest bounce (+8 to +13 %). Now it is +1 to +2 % - way less. Pick 2 (a third) or 3 (way less) from the video, or ask for a dip of the mat instead of a swell.",
+  "approved_at": "2026-09-29T20:23:05+02:00",
+  "note": "You said (29 Sep): 'The trampoline bounce is great, so we can keep that.' Kept as it is: the real trampoline swells +1 to +2 %, and each bounce shows a cloud word (75 %) or the cloud circle.",
   "added_at": "2026-09-28T22:38:21+02:00",
-  "updated_at": "2026-09-29T18:49:06+02:00"
+  "updated_at": "2026-09-29T20:23:05+02:00"
  },
  {
   "id": "fx-jump-speedlines",
