@@ -853,9 +853,9 @@
   "count": 4,
   "baseline": false,
   "approved_at": null,
-  "note": "Built 27 Sep: the score screen and podium now draw the cut-out rats; waiting for your eye.",
+  "note": "You said (29 Sep): we will work on that screen later; right now it stays the way it is.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-09-27T13:45:11+02:00"
+  "updated_at": "2026-09-29T22:51:32+02:00"
  },
  {
   "id": "mg-victory-dance",
@@ -869,9 +869,9 @@
   "count": 4,
   "baseline": false,
   "approved_at": null,
-  "note": "Done (27 Sep night): one dance for all four - a hop with both arms up, then a groove with the arms waving; the podium winner dances it. Filmed, waiting for his eye.",
+  "note": "You said (29 Sep): we will work on the victory dance later as well; it stays as it is for now.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-09-27T23:06:31+02:00"
+  "updated_at": "2026-09-29T22:51:32+02:00"
  },
  {
   "id": "cosmetic-dances",
@@ -3821,9 +3821,9 @@
   "count": 1,
   "baseline": false,
   "approved_at": null,
-  "note": "The score screen now stands in the lobby's own backyard (sky, clouds, fence, lawn, flowers) with the cut-out rats on the lawn (27 Sep); waiting for your eye.",
+  "note": "You said (29 Sep): we will work on that screen later; right now it stays the way it is.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-09-27T14:12:50+02:00"
+  "updated_at": "2026-09-29T22:51:32+02:00"
  },
  {
   "id": "screen-flow-podium",
@@ -8997,9 +8997,9 @@
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "Done as you asked (29 Sep): each of the eight balloons swings about its knot at its own speed, strings tied; the sign still bobs.",
+  "note": "You said (29 Sep): they move too much from side to side. Each balloon now swings about 40 % as far (the purple one 11 px instead of 29 at the same view); the bob with the sign is unchanged. Waiting for your eye.",
   "added_at": "2026-09-29T21:24:15+02:00",
-  "updated_at": "2026-09-29T21:24:15+02:00"
+  "updated_at": "2026-09-29T22:51:32+02:00"
  },
  {
   "id": "feel-trampoline-shake",
@@ -9013,9 +9013,9 @@
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "Added as you suggested (29 Sep): every bounce shakes the camera by how high you fell onto the mat - a little more than a ground landing from the same height.",
+  "note": "You said (29 Sep): a bit too much - make it the same as landing on the ground, but a normal jump on the trampoline should still shake. Now a small thud on every normal bounce, and from high up exactly the ground landing's thud for the same fall. Waiting for your eye.",
   "added_at": "2026-09-29T21:24:15+02:00",
-  "updated_at": "2026-09-29T21:24:15+02:00"
+  "updated_at": "2026-09-29T22:51:32+02:00"
  },
  {
   "id": "feel-menu-finger-brush",
@@ -9023,15 +9023,15 @@
   "group": "Game feel",
   "name": "Main screen: the tiles follow your finger",
   "kind": "task",
-  "status": "awaiting",
+  "status": "in-progress",
   "weight": 1.0,
   "days": 0.4545,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "Changed as you asked (29 Sep): a soft light sits under your finger and glides across the panels with it, wider when you swipe fast.",
+  "note": "You said (29 Sep): way better, but it should feel like you are drawing - a square you draw should stay clearly visible, then do the wave when you let go. Researching how other games do it, then rebuilding it.",
   "added_at": "2026-09-29T21:24:15+02:00",
-  "updated_at": "2026-09-29T21:24:15+02:00"
+  "updated_at": "2026-09-29T22:51:32+02:00"
  },
  {
   "id": "core-lobby-fx-every-phone",
@@ -9048,5 +9048,69 @@
   "note": "Built (29 Sep): the phone that moves a rat sends its flip, word or cloud ring and trampoline bounce to the others, which draw the same thing. Checked on one machine; a real two-phone test is still to do.",
   "added_at": "2026-09-29T21:24:15+02:00",
   "updated_at": "2026-09-29T21:24:15+02:00"
+ },
+ {
+  "id": "mechanics-core-lobby-no-more-sliding-off-the-edges-of-the-mo",
+  "cat": "mechanics",
+  "group": "Core: lobby",
+  "name": "No more sliding off the edges of the molehill, the START plate and the trampoline",
+  "kind": "task",
+  "status": "awaiting",
+  "weight": 1.0,
+  "days": 0.1923,
+  "count": null,
+  "baseline": false,
+  "approved_at": null,
+  "note": "You said (29 Sep): landing on an edge slides you very far, like ice. Measured: landing on the trampoline's corner shot her sideways at 3.4 times her walking speed. Now a landing never throws her sideways faster than you ask - the worst slide went from 0.8 to 0.09 of a unit. Waiting for your eye.",
+  "added_at": "2026-09-29T22:51:32+02:00",
+  "updated_at": "2026-09-29T22:51:32+02:00"
+ },
+ {
+  "id": "art-primary-mole-lobby-mole-three-more-goofy-idle-moves-scra",
+  "cat": "art-primary",
+  "group": "Mole (lobby)",
+  "name": "Mole: three more goofy idle moves (scratching his back, picking his nose, licking his thumb)",
+  "kind": "animation",
+  "status": "in-progress",
+  "weight": 1.0,
+  "days": 0.0482,
+  "count": null,
+  "baseline": false,
+  "approved_at": null,
+  "note": "You asked (29 Sep): three more goofy moves, like a baby or an adult would do, not too overboard.",
+  "added_at": "2026-09-29T22:51:32+02:00",
+  "updated_at": "2026-09-29T22:51:32+02:00"
+ },
+ {
+  "id": "art-secondary-effects-cloud-words-a-better-way-to-disappear",
+  "cat": "art-secondary",
+  "group": "Effects",
+  "name": "Cloud words: a better way to disappear, variations for your pick",
+  "kind": "task",
+  "status": "in-progress",
+  "weight": 1.0,
+  "days": 0.0797,
+  "count": null,
+  "baseline": false,
+  "approved_at": null,
+  "note": "You asked (29 Sep): improve how the words disappear so it feels like the cloud ring, still readable before they go - variations to pick from.",
+  "added_at": "2026-09-29T22:51:32+02:00",
+  "updated_at": "2026-09-29T22:51:32+02:00"
+ },
+ {
+  "id": "feel-game-feel-yellow-rat-10-more-camera-shake-on-every-land",
+  "cat": "feel",
+  "group": "Game feel",
+  "name": "Yellow rat: 10 % more camera shake on every landing and bounce",
+  "kind": "task",
+  "status": "awaiting",
+  "weight": 1.0,
+  "days": 0.4545,
+  "count": null,
+  "baseline": false,
+  "approved_at": null,
+  "note": "You asked (29 Sep): the yellow rat only. Measured on the same jumps: every one of her shakes is 1.10 times the others'. Waiting for your eye.",
+  "added_at": "2026-09-29T22:51:32+02:00",
+  "updated_at": "2026-09-29T22:51:32+02:00"
  }
 ]
