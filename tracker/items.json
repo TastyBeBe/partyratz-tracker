@@ -8963,8 +8963,24 @@
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "Changed as you asked (29 Sep): every word now stays whole and readable for about half a second before it bursts. A normal double jump shows a word 1 time in 4, a double jump off the trampoline 3 times in 4.",
+  "note": "Changed as you asked (29 Sep): the words are 10% bigger, WHOOSH! and FWOOP! are gone (their letters were too small), and every word now moves from its first frame - it pops in, rises, opens out and wobbles while you read it, then bursts. The cloud circle is 10% smaller.",
   "added_at": "2026-09-29T00:07:10+02:00",
-  "updated_at": "2026-09-29T15:02:42+02:00"
+  "updated_at": "2026-09-29T17:47:33+02:00"
+ },
+ {
+  "id": "art-primary-mole-lobby-mole-timing-out-9-12-s-with-an-idle-a",
+  "cat": "art-primary",
+  "group": "Mole (lobby)",
+  "name": "Mole timing: out 9-12 s with an idle, a minute's rest, a landing on his hill brings him out",
+  "kind": "animation",
+  "status": "awaiting",
+  "weight": 1.0,
+  "days": 0.0482,
+  "count": null,
+  "baseline": false,
+  "approved_at": null,
+  "note": "You asked (29 Sep): he stays out 9 to 12 seconds with some movement after the wave, then rests at least a minute; landing on his hill brings him out and restarts the wait. Built; the idle is a gentle lean-and-breathe for now.",
+  "added_at": "2026-09-29T17:47:33+02:00",
+  "updated_at": "2026-09-29T17:47:33+02:00"
  }
 ]
