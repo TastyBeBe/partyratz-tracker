@@ -8899,9 +8899,9 @@
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "Built as you asked (29 Sep): every bounce now pops the trampoline, bursts the approved impact fan and sparkles from the mat, and shows a cloud word (85% of bounces) or the cloud circle, all bigger and faster the higher you fall onto it.",
+  "note": "Changed as you asked (29 Sep): no sparkles, the second (old pixel) trampoline is gone, and only the real trampoline bounces, much less than before. Each bounce still shows a cloud word (or the circle), bigger the higher you fall.",
   "added_at": "2026-09-28T22:38:21+02:00",
-  "updated_at": "2026-09-29T13:18:26+02:00"
+  "updated_at": "2026-09-29T15:02:42+02:00"
  },
  {
   "id": "fx-jump-speedlines",
@@ -8909,15 +8909,15 @@
   "group": "Effects",
   "name": "Comic speed lines on jumps",
   "kind": "task",
-  "status": "awaiting",
+  "status": "removed",
   "weight": 1.0,
   "days": 0.0797,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "A test, as you asked (28 Sep): a few short comic lines left under her shoes when she jumps from the ground.",
+  "note": "You said (29 Sep): you dislike the jump lines, remove them. Removed from the game.",
   "added_at": "2026-09-28T22:38:21+02:00",
-  "updated_at": "2026-09-28T23:47:51+02:00"
+  "updated_at": "2026-09-29T15:02:42+02:00"
  },
  {
   "id": "side-landing-highfall",
@@ -8963,8 +8963,8 @@
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "You said (29 Sep): 10% bigger and made of exactly the same cloud as the circle, the Burst kept. Now the letters are 10% bigger, the circle's own flat cream with no darker band, and their outline is measured to match the circle's line (it was 26% thicker). The circle itself now varies every time.",
+  "note": "Changed as you asked (29 Sep): every word now stays whole and readable for about half a second before it bursts. A normal double jump shows a word 1 time in 4, a double jump off the trampoline 3 times in 4.",
   "added_at": "2026-09-29T00:07:10+02:00",
-  "updated_at": "2026-09-29T13:18:26+02:00"
+  "updated_at": "2026-09-29T15:02:42+02:00"
  }
 ]
