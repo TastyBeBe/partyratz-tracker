@@ -8893,15 +8893,15 @@
   "group": "Effects",
   "name": "Trampoline impact (from your juice short)",
   "kind": "task",
-  "status": "todo",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.0797,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "You asked (28 Sep) for the impact effect from the short you sent when she bounces on the trampoline.",
+  "note": "Built as you asked (29 Sep): every bounce now pops the trampoline, bursts the approved impact fan and sparkles from the mat, and shows a cloud word (85% of bounces) or the cloud circle, all bigger and faster the higher you fall onto it.",
   "added_at": "2026-09-28T22:38:21+02:00",
-  "updated_at": "2026-09-28T22:38:21+02:00"
+  "updated_at": "2026-09-29T13:18:26+02:00"
  },
  {
   "id": "fx-jump-speedlines",
@@ -8963,8 +8963,8 @@
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "You said (29 Sep) the puff letters did not look as good as the ChatGPT ones, and the words were far too big. Now each word is the ChatGPT letters cut out one by one, never wider than a rat (half the old size), evenly spaced, and the word bursts like the circle: its letters fly apart. Three ways to burst for your pick: Spread, Burst, Blast.",
+  "note": "You said (29 Sep): 10% bigger and made of exactly the same cloud as the circle, the Burst kept. Now the letters are 10% bigger, the circle's own flat cream with no darker band, and their outline is measured to match the circle's line (it was 26% thicker). The circle itself now varies every time.",
   "added_at": "2026-09-29T00:07:10+02:00",
-  "updated_at": "2026-09-29T12:38:59+02:00"
+  "updated_at": "2026-09-29T13:18:26+02:00"
  }
 ]
