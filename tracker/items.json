@@ -8899,9 +8899,9 @@
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "Changed as you asked (29 Sep): no sparkles, the second (old pixel) trampoline is gone, and only the real trampoline bounces, much less than before. Each bounce still shows a cloud word (or the circle), bigger the higher you fall.",
+  "note": "Found why it was still too much (29 Sep): the lobby still kept the first, biggest bounce (+8 to +13 %). Now it is +1 to +2 % - way less. Pick 2 (a third) or 3 (way less) from the video, or ask for a dip of the mat instead of a swell.",
   "added_at": "2026-09-28T22:38:21+02:00",
-  "updated_at": "2026-09-29T15:02:42+02:00"
+  "updated_at": "2026-09-29T18:49:06+02:00"
  },
  {
   "id": "fx-jump-speedlines",
@@ -8963,9 +8963,9 @@
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "Changed as you asked (29 Sep): the words are 10% bigger, WHOOSH! and FWOOP! are gone (their letters were too small), and every word now moves from its first frame - it pops in, rises, opens out and wobbles while you read it, then bursts. The cloud circle is 10% smaller.",
+  "note": "Changed as you asked (29 Sep): the words now follow your rules for each rat on her own - one of her words at a time, never the same word again until two others have shown, and after a word on a jump only the cloud ring for 3.5 s (the trampoline bounce has no cooldown and is back to 75 %).",
   "added_at": "2026-09-29T00:07:10+02:00",
-  "updated_at": "2026-09-29T17:47:33+02:00"
+  "updated_at": "2026-09-29T18:49:06+02:00"
  },
  {
   "id": "art-primary-mole-lobby-mole-timing-out-9-12-s-with-an-idle-a",
