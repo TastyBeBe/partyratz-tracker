@@ -9212,5 +9212,21 @@
   "note": "You said: the new mole animations are all approved.",
   "added_at": "2026-09-30T16:07:26+02:00",
   "updated_at": "2026-09-30T16:07:26+02:00"
+ },
+ {
+  "id": "lobby-trampoline-bounce-by-fall",
+  "cat": "mechanics",
+  "group": "Core: lobby",
+  "name": "Trampoline: the bounce comes from the fall (the same fall, the same bounce)",
+  "kind": "mechanic",
+  "status": "awaiting",
+  "weight": 1.0,
+  "days": 0.1923,
+  "count": null,
+  "baseline": false,
+  "approved_at": null,
+  "note": "You asked for bounces based on the height you fall from, the same every time. Done: the same drop now bounces the same, a chain climbs on its own, a higher drop starts higher; the top speed is unchanged. Waiting for your eye on the video.",
+  "added_at": "2026-09-30T16:59:14+02:00",
+  "updated_at": "2026-09-30T16:59:14+02:00"
  }
 ]
