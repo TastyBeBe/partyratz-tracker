@@ -9023,15 +9023,15 @@
   "group": "Game feel",
   "name": "Main screen: the tiles follow your finger",
   "kind": "task",
-  "status": "in-progress",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.4545,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "You said (30 Sep): you like number 2 (ink) but the floor should not stop - try slowing it by 90 % while you draw, and more researched variations.",
+  "note": "Five for your pick, all drawing number 2's ink on the same square: today's stop; your idea, the floor at a tenth of its speed; the floor at full speed but darker; the floor at full speed but without colour so your line is the only colour; the floor at full speed and colour with a dark ring round your line. Researched from rhythm games, Splatoon and subtitles.",
   "added_at": "2026-09-29T21:24:15+02:00",
-  "updated_at": "2026-09-30T09:16:23+02:00"
+  "updated_at": "2026-09-30T10:11:41+02:00"
  },
  {
   "id": "core-lobby-fx-every-phone",
