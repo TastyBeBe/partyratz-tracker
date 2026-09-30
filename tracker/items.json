@@ -2622,9 +2622,9 @@
   "count": 10,
   "baseline": false,
   "approved_at": null,
-  "note": "In the game now as you picked: new stab, duck, drop, boost, dressing room, fire (shuriken), chop, and a target for SPECIFIC GAME (RANDOM GAMES keeps the dice); old swing, pour, shoot. Jump keeps the old one until I redraw it with a jump in it (you said the new one is just a shoe).",
+  "note": "Your jump design: an open arrowhead (two lines, no bottom) over a separate stem; when you can still double jump in the air, two arrowheads. If you don't like it, No. 1 of the four becomes the jump.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-09-30T17:16:33+02:00"
+  "updated_at": "2026-09-30T22:31:10+02:00"
  },
  {
   "id": "joystick-move",
@@ -2738,15 +2738,15 @@
   "group": "UI art: icons & glyphs",
   "name": "24 game icons, hand-drawn redraw (boards H1–H3)",
   "kind": "ui-art",
-  "status": "in-progress",
+  "status": "approved",
   "weight": 4.899,
   "days": 0.3024,
   "count": 24,
   "baseline": false,
-  "approved_at": null,
-  "note": "Your answer: most still don't read or don't look great, so each game gets its own icon when we polish it. Meanwhile the new ones are in the game as stand-ins, except Bomb Tag (back to the old one you liked), Laser Limbo (no good object yet) and Balloon Ascent (your sentence broke off - tell me old or new).",
+  "approved_at": "2026-09-30T22:30:59+02:00",
+  "note": "You said the game icons as they are right now are fine (Balloon Ascent stays as it is); each game still gets its own icon when it is polished.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-09-30T17:16:33+02:00"
+  "updated_at": "2026-09-30T22:30:59+02:00"
  },
  {
   "id": "banner-neutral",
@@ -5280,15 +5280,15 @@
   "game": "7.1 Split or Steal",
   "name": "Game-show studio backdrop",
   "kind": "backdrop",
-  "status": "awaiting",
+  "status": "in-progress",
   "weight": 1.0,
   "days": 0.0617,
   "count": 1,
   "baseline": false,
   "approved_at": null,
-  "note": "You picked No. 2, the turning rays. Sent: 16 colourways photographed in the game (dark with light in green, blue, red and pink; each colour with white; white with each colour; black with each colour - white is our cream, black our dark plum) and a video of six turning. Tell me the number and it becomes the game's backdrop.",
+  "note": "You asked to see every backdrop WITH the balls on it, and to add a gold one (light gold rays lighter than the balls, on black) and one that is just gold with no black.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-09-30T16:40:23+02:00"
+  "updated_at": "2026-09-30T22:31:09+02:00"
  },
  {
   "id": "ss-ball-set",
@@ -5297,15 +5297,15 @@
   "game": "7.1 Split or Steal",
   "name": "Black-and-gold ball: sealed, SPLIT/STEAL open bases, lid",
   "kind": "sprite",
-  "status": "awaiting",
+  "status": "in-progress",
   "weight": 1.0,
   "days": 0.0617,
   "count": 4,
   "baseline": false,
   "approved_at": null,
-  "note": "You picked green 1 and red 4 and asked for real balls again. New board sent: round bowl underneath, a dome lid on a back hinge standing open, the words tilted on the face in the game's lettering, plus the closed ball. Waiting for your yes; then the pieces for the game (base, lid, both faces).",
+  "note": "You said the round bottom is great but the top still looks flat - the round top is missing. Next: the lid redrawn as a real dome, and the balls in colours that go with each backdrop.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-09-30T16:01:52+02:00"
+  "updated_at": "2026-09-30T22:31:09+02:00"
  },
  {
   "id": "ss-ball-shards",
@@ -9027,15 +9027,15 @@
   "group": "Game feel",
   "name": "Main screen: the tiles follow your finger",
   "kind": "task",
-  "status": "awaiting",
+  "status": "in-progress",
   "weight": 1.0,
   "days": 0.4545,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "You said the wave gets lost in the floor's own animation after you let go, and blue (maybe more) was missing. Fixed: every colour now comes up on every floor colour (before, colours close to the floor's own were left out - blue on cyan, blue and purple floors, five colours on red). New LIFT button with five versions of what the floor does after you let go: A snap back (today), B stay grey until the wave has gone then fade back, C the same but standing still, D colours back but dim, E stand still half a second then as B. Video sent - tell me the letter.",
+  "note": "You said B or C could work, but with predictable colours: one colour for the whole slide, and each ring of the wave one colour of its own (the shape and first ring the colour you drew, the next ring another colour, and so on). Next: those versions, plus more new ideas, for your pick.",
   "added_at": "2026-09-29T21:24:15+02:00",
-  "updated_at": "2026-09-30T19:59:32+02:00"
+  "updated_at": "2026-09-30T22:31:09+02:00"
  },
  {
   "id": "core-lobby-fx-every-phone",
@@ -9155,15 +9155,15 @@
   "group": "Core: lobby",
   "name": "Bug: old pixel-art rats flash for a moment when a party opens",
   "kind": "task",
-  "status": "awaiting",
+  "status": "approved",
   "weight": 1.0,
   "days": 0.1923,
   "count": null,
   "baseline": false,
-  "approved_at": null,
-  "note": "Fixed for your check: you saw two frames of the old pixel red rats as the party opened (and the same when a rat was picked). The old pixel drawing was still switched on inside every rat until the new drawing took over at the end of its first frame, and the recording photographed that half-frame. Now the old drawing is off from the moment a rat exists, and the recordings show the finished frame. Three parties in a row: zero pixel frames.",
+  "approved_at": "2026-09-30T22:30:59+02:00",
+  "note": "You said the pixel art stuff is fixed - the old pixel rats are deleted from the game, so they cannot flash any more.",
   "added_at": "2026-09-30T13:00:29+02:00",
-  "updated_at": "2026-09-30T13:00:29+02:00"
+  "updated_at": "2026-09-30T22:30:59+02:00"
  },
  {
   "id": "art-primary-mole-lobby-mole-outlines-one-line-weight-on-ever",
@@ -9171,15 +9171,15 @@
   "group": "Mole (lobby)",
   "name": "Mole outlines: one line weight on every part (hat, hair, paws, feet)",
   "kind": "task",
-  "status": "awaiting",
+  "status": "approved",
   "weight": 1.0,
   "days": 0.0482,
   "count": null,
   "baseline": false,
-  "approved_at": null,
-  "note": "You asked to remove the black rings round the white dots on his hat. Done: the hat was redrawn with plain white dots like his old hat, everything else kept (its line is 1.01x his body's). Waiting for your yes on the new video.",
+  "approved_at": "2026-09-30T22:30:59+02:00",
+  "note": "You said the mole's hat looks fine, so we can use it.",
   "added_at": "2026-09-30T13:25:41+02:00",
-  "updated_at": "2026-09-30T16:01:43+02:00"
+  "updated_at": "2026-09-30T22:30:59+02:00"
  },
  {
   "id": "mole-idle-backscratch",
@@ -9225,9 +9225,9 @@
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "You asked for bounces based on the height you fall from, the same every time. Done: the same drop now bounces the same, a chain climbs on its own, a higher drop starts higher; the top speed is unchanged. Waiting for your eye on the video.",
+  "note": "You asked to roll it back: the trampoline is the old one again (first bounce, then higher on each bounce in a row). Checked your worry: the same drop made twice gives exactly the same bounces, and a landing now always counts once. Waiting for you to try it.",
   "added_at": "2026-09-30T16:59:14+02:00",
-  "updated_at": "2026-09-30T16:59:14+02:00"
+  "updated_at": "2026-09-30T22:36:45+02:00"
  },
  {
   "id": "lobby-pick-on-arrival",
@@ -9300,14 +9300,46 @@
   "group": "Core: meta",
   "name": "Replaced pixel art deleted from the game",
   "kind": "task",
-  "status": "awaiting",
+  "status": "approved",
+  "weight": 1.0,
+  "days": 0.5,
+  "count": null,
+  "baseline": false,
+  "approved_at": "2026-09-30T22:30:59+02:00",
+  "note": "You said the pixel art stuff is fixed, so that's great.",
+  "added_at": "2026-09-30T20:33:14+02:00",
+  "updated_at": "2026-09-30T22:30:59+02:00"
+ },
+ {
+  "id": "mechanics-core-lobby-standing-on-another-rat-no-leg-jitter-a",
+  "cat": "mechanics",
+  "group": "Core: lobby",
+  "name": "Standing on another rat: no leg jitter, a one-leg balance on her party hat",
+  "kind": "task",
+  "status": "todo",
+  "weight": 1.0,
+  "days": 1.0,
+  "count": null,
+  "baseline": false,
+  "approved_at": null,
+  "note": "You asked: when a rat stands on another rat's head her legs sometimes jitter - fix that - and she should balance on one leg on the party hat instead of the idle.",
+  "added_at": "2026-09-30T22:31:10+02:00",
+  "updated_at": "2026-09-30T22:31:10+02:00"
+ },
+ {
+  "id": "art-secondary-screens-boot-menus-pick-your-rat-a-taken-rat-s",
+  "cat": "art-secondary",
+  "group": "Screens: boot & menus",
+  "name": "Pick your rat: a taken rat's portrait in black and white under the lock, never see-through",
+  "kind": "task",
+  "status": "todo",
   "weight": 1.0,
   "days": 0.5,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "You asked to completely delete the pixel versions of everything we have replaced. Done: 139 old pixel pictures and everything that belonged to them are gone (the old sky, grass, fence, mole, rats' pixel sprites and their animations). The rats stand exactly where they stood. Kept only what five unconverted minigames still draw, until each gets its new art.",
-  "added_at": "2026-09-30T20:33:14+02:00",
-  "updated_at": "2026-09-30T20:33:14+02:00"
+  "note": "You asked: a taken rat's card is greyed and see-through - make the portrait black and white (noir) with the lock on top, and never transparent.",
+  "added_at": "2026-09-30T22:31:10+02:00",
+  "updated_at": "2026-09-30T22:31:10+02:00"
  }
 ]
