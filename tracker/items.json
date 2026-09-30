@@ -5284,8 +5284,9 @@
   "count": 1,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "You asked for a quiet green game-show wall with gold stars, no podium: four options for your pick (curtain, arch, sunburst, panels), the middle kept empty for the balls.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-09-30T10:25:27+02:00"
  },
  {
   "id": "ss-ball-set",
