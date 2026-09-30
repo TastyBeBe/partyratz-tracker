@@ -9075,15 +9075,15 @@
   "group": "Mole (lobby)",
   "name": "Mole: three more goofy idle moves (scratching his back, picking his nose, licking his thumb)",
   "kind": "animation",
-  "status": "awaiting",
+  "status": "in-progress",
   "weight": 1.0,
   "days": 0.0482,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "You approved the sneeze (its own row now). The back scratch and the stretch still wait for your word. You also asked for his outlines to be made consistent, measured against his body.",
+  "note": "You approved the back scratch and the stretch (their own rows now). Still open: picking his nose and licking his thumb, which need a front paw drawn by ChatGPT first.",
   "added_at": "2026-09-29T22:51:32+02:00",
-  "updated_at": "2026-09-30T12:35:38+02:00"
+  "updated_at": "2026-09-30T16:07:26+02:00"
  },
  {
   "id": "art-secondary-effects-cloud-words-a-better-way-to-disappear",
@@ -9123,15 +9123,15 @@
   "group": "Core: lobby",
   "name": "Bug: after creating a party and going back to the main screen you cannot create a party again",
   "kind": "task",
-  "status": "awaiting",
+  "status": "approved",
   "weight": 1.0,
   "days": 0.1923,
   "count": null,
   "baseline": false,
-  "approved_at": null,
-  "note": "Fixed for your check: going back from the lobby threw away the game's network connection, so a second CREATE PARTY had nothing to start on. Now you can create, go back and create again - tested three times in a row in one run, and a new party no longer brings back the rat you picked in the last one.",
+  "approved_at": "2026-09-30T16:07:26+02:00",
+  "note": "You said: it seems to be fixed.",
   "added_at": "2026-09-30T09:16:23+02:00",
-  "updated_at": "2026-09-30T09:46:56+02:00"
+  "updated_at": "2026-09-30T16:07:26+02:00"
  },
  {
   "id": "art-primary-mole-lobby-mole-sneeze-the-hat-pops-off-and-flip",
@@ -9180,5 +9180,37 @@
   "note": "You asked to remove the black rings round the white dots on his hat. Done: the hat was redrawn with plain white dots like his old hat, everything else kept (its line is 1.01x his body's). Waiting for your yes on the new video.",
   "added_at": "2026-09-30T13:25:41+02:00",
   "updated_at": "2026-09-30T16:01:43+02:00"
+ },
+ {
+  "id": "mole-idle-backscratch",
+  "cat": "art-primary",
+  "group": "Mole (lobby)",
+  "name": "Mole back scratch (over the shoulder)",
+  "kind": "animation",
+  "status": "approved",
+  "weight": 1.0,
+  "days": 0.0482,
+  "count": null,
+  "baseline": false,
+  "approved_at": "2026-09-30T16:07:26+02:00",
+  "note": "You said: the new mole animations are all approved.",
+  "added_at": "2026-09-30T16:07:26+02:00",
+  "updated_at": "2026-09-30T16:07:26+02:00"
+ },
+ {
+  "id": "mole-idle-stretch",
+  "cat": "art-primary",
+  "group": "Mole (lobby)",
+  "name": "Mole stretch",
+  "kind": "animation",
+  "status": "approved",
+  "weight": 1.0,
+  "days": 0.0482,
+  "count": null,
+  "baseline": false,
+  "approved_at": "2026-09-30T16:07:26+02:00",
+  "note": "You said: the new mole animations are all approved.",
+  "added_at": "2026-09-30T16:07:26+02:00",
+  "updated_at": "2026-09-30T16:07:26+02:00"
  }
 ]
