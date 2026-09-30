@@ -2616,15 +2616,15 @@
   "group": "UI art: controls",
   "name": "Ten action icons (sneaker, laser, bat, dagger, revolver, shuriken, knife, bottle, cake layer, balloon)",
   "kind": "ui-art",
-  "status": "awaiting",
+  "status": "in-progress",
   "weight": 3.162,
   "days": 0.1952,
   "count": 10,
   "baseline": false,
   "approved_at": null,
-  "note": "You asked for button icons that match their action and aren't busy: jump, duck, swing, stab, pour, drop, boost, dressing room, specific game, shoot, fire and chop redrawn as one object each. Not in the game yet - waiting for your yes.",
+  "note": "In the game now as you picked: new stab, duck, drop, boost, dressing room, fire (shuriken), chop, and a target for SPECIFIC GAME (RANDOM GAMES keeps the dice); old swing, pour, shoot. Jump keeps the old one until I redraw it with a jump in it (you said the new one is just a shoe).",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-09-30T11:34:50+02:00"
+  "updated_at": "2026-09-30T17:16:33+02:00"
  },
  {
   "id": "joystick-move",
@@ -2738,15 +2738,15 @@
   "group": "UI art: icons & glyphs",
   "name": "24 game icons, hand-drawn redraw (boards H1–H3)",
   "kind": "ui-art",
-  "status": "awaiting",
+  "status": "in-progress",
   "weight": 4.899,
   "days": 0.3024,
   "count": 24,
   "baseline": false,
   "approved_at": null,
-  "note": "Redrawn today as you asked: one simple object per game, in the approved icon style, all 24 (researched how icons should look). Not in the game yet - say yes and they go in. Laser Limbo still needs a better single object.",
+  "note": "Your answer: most still don't read or don't look great, so each game gets its own icon when we polish it. Meanwhile the new ones are in the game as stand-ins, except Bomb Tag (back to the old one you liked), Laser Limbo (no good object yet) and Balloon Ascent (your sentence broke off - tell me old or new).",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-09-30T11:34:48+02:00"
+  "updated_at": "2026-09-30T17:16:33+02:00"
  },
  {
   "id": "banner-neutral",
