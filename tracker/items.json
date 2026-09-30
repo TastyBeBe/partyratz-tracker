@@ -9177,8 +9177,8 @@
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "Fixed for your check: you said his outlines were inconsistent, especially on his hat, and that his body should be the measure. Measured against his body, the hat was 0.78, the hair 0.72, the paws 0.83 and the feet 0.73 of its line. ChatGPT redrew those parts with the body's line and they now measure hat 1.05, hair 0.92, paws 0.93, feet 1.04. Same drawings, same colours, same places in every move.",
+  "note": "You said the mole looks great, but the white dots on his party hat now have their own black outlines, which the old hat did not have - they are being removed.",
   "added_at": "2026-09-30T13:25:41+02:00",
-  "updated_at": "2026-09-30T13:25:41+02:00"
+  "updated_at": "2026-09-30T15:42:14+02:00"
  }
 ]
