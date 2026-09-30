@@ -9071,15 +9071,15 @@
   "group": "Mole (lobby)",
   "name": "Mole: three more goofy idle moves (scratching his back, picking his nose, licking his thumb)",
   "kind": "animation",
-  "status": "in-progress",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.0482,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "You said (30 Sep): when the mole sneezes his head seems to spin around in slow motion - being fixed.",
+  "note": "Your sneeze note is fixed for your check: the hat now pops off, flips once in a third of a second (it used to spin slowly for almost a second) and lands crooked, then his paw straightens it. The back scratch and the stretch are unchanged and also waiting for your eye.",
   "added_at": "2026-09-29T22:51:32+02:00",
-  "updated_at": "2026-09-30T09:16:23+02:00"
+  "updated_at": "2026-09-30T09:55:07+02:00"
  },
  {
   "id": "art-secondary-effects-cloud-words-a-better-way-to-disappear",
