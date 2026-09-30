@@ -9293,5 +9293,21 @@
   "note": "Your design (30 Sep): pick one of your two balls, they close; when everyone has picked the screen blacks out and comes back showing your ball and your opponent's, which open. To be built with the new balls.",
   "added_at": "2026-09-30T17:05:49+02:00",
   "updated_at": "2026-09-30T17:05:49+02:00"
+ },
+ {
+  "id": "mechanics-core-meta-replaced-pixel-art-deleted-from-the-game",
+  "cat": "mechanics",
+  "group": "Core: meta",
+  "name": "Replaced pixel art deleted from the game",
+  "kind": "task",
+  "status": "awaiting",
+  "weight": 1.0,
+  "days": 0.5,
+  "count": null,
+  "baseline": false,
+  "approved_at": null,
+  "note": "You asked to completely delete the pixel versions of everything we have replaced. Done: 139 old pixel pictures and everything that belonged to them are gone (the old sky, grass, fence, mole, rats' pixel sprites and their animations). The rats stand exactly where they stood. Kept only what five unconverted minigames still draw, until each gets its new art.",
+  "added_at": "2026-09-30T20:33:14+02:00",
+  "updated_at": "2026-09-30T20:33:14+02:00"
  }
 ]
