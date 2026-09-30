@@ -9027,15 +9027,15 @@
   "group": "Game feel",
   "name": "Main screen: the tiles follow your finger",
   "kind": "task",
-  "status": "in-progress",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.4545,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "You said (30 Sep): after you slide across the panels and let go, the wave still gets lost in the floor's own animation - try something else; and blue, maybe more, is missing from the colours you draw with. Found why: the colours close to the floor's own colour were left out (blue whenever the floor is cyan, blue or purple; five colours on a red floor), and the floor goes back to full colour the moment you lift, so the wave plays over the busy floor. Next: every colour, and new versions where the floor stays quiet until the wave has gone, for your pick.",
+  "note": "You said the wave gets lost in the floor's own animation after you let go, and blue (maybe more) was missing. Fixed: every colour now comes up on every floor colour (before, colours close to the floor's own were left out - blue on cyan, blue and purple floors, five colours on red). New LIFT button with five versions of what the floor does after you let go: A snap back (today), B stay grey until the wave has gone then fade back, C the same but standing still, D colours back but dim, E stand still half a second then as B. Video sent - tell me the letter.",
   "added_at": "2026-09-29T21:24:15+02:00",
-  "updated_at": "2026-09-30T19:09:04+02:00"
+  "updated_at": "2026-09-30T19:59:32+02:00"
  },
  {
   "id": "core-lobby-fx-every-phone",
