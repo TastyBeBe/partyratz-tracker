@@ -9119,14 +9119,14 @@
   "group": "Core: lobby",
   "name": "Bug: after creating a party and going back to the main screen you cannot create a party again",
   "kind": "task",
-  "status": "todo",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.1923,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "You found it (30 Sep): you have to stop and restart the game to create another party.",
+  "note": "Fixed for your check: going back from the lobby threw away the game's network connection, so a second CREATE PARTY had nothing to start on. Now you can create, go back and create again - tested three times in a row in one run, and a new party no longer brings back the rat you picked in the last one.",
   "added_at": "2026-09-30T09:16:23+02:00",
-  "updated_at": "2026-09-30T09:16:23+02:00"
+  "updated_at": "2026-09-30T09:46:56+02:00"
  }
 ]
