@@ -9033,9 +9033,9 @@
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "You picked MONO, with two changes: every tile you slide across gets its own random colour (not one colour per slide), and the wave after you let go lasts longer and shows your shape better.",
+  "note": "You picked MONO: it is the game's default now. Every tile you slide across gets its own random colour, and the wave carries those colours out. The wave after you let go comes four ways for your pick (today's, HOLD, LONG, ECHO) - a new WAVE plate beside INK flips them in the game. Waiting for your pick.",
   "added_at": "2026-09-29T21:24:15+02:00",
-  "updated_at": "2026-09-30T15:42:16+02:00"
+  "updated_at": "2026-09-30T16:23:15+02:00"
  },
  {
   "id": "core-lobby-fx-every-phone",
