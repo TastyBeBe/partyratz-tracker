@@ -9164,5 +9164,21 @@
   "note": "Fixed for your check: you saw two frames of the old pixel red rats as the party opened (and the same when a rat was picked). The old pixel drawing was still switched on inside every rat until the new drawing took over at the end of its first frame, and the recording photographed that half-frame. Now the old drawing is off from the moment a rat exists, and the recordings show the finished frame. Three parties in a row: zero pixel frames.",
   "added_at": "2026-09-30T13:00:29+02:00",
   "updated_at": "2026-09-30T13:00:29+02:00"
+ },
+ {
+  "id": "art-primary-mole-lobby-mole-outlines-one-line-weight-on-ever",
+  "cat": "art-primary",
+  "group": "Mole (lobby)",
+  "name": "Mole outlines: one line weight on every part (hat, hair, paws, feet)",
+  "kind": "task",
+  "status": "awaiting",
+  "weight": 1.0,
+  "days": 0.0482,
+  "count": null,
+  "baseline": false,
+  "approved_at": null,
+  "note": "Fixed for your check: you said his outlines were inconsistent, especially on his hat, and that his body should be the measure. Measured against his body, the hat was 0.78, the hair 0.72, the paws 0.83 and the feet 0.73 of its line. ChatGPT redrew those parts with the body's line and they now measure hat 1.05, hair 0.92, paws 0.93, feet 1.04. Same drawings, same colours, same places in every move.",
+  "added_at": "2026-09-30T13:25:41+02:00",
+  "updated_at": "2026-09-30T13:25:41+02:00"
  }
 ]
