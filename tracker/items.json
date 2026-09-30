@@ -9177,8 +9177,8 @@
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "You said the mole looks great, but the white dots on his party hat now have their own black outlines, which the old hat did not have - they are being removed.",
+  "note": "You asked to remove the black rings round the white dots on his hat. Done: the hat was redrawn with plain white dots like his old hat, everything else kept (its line is 1.01x his body's). Waiting for your yes on the new video.",
   "added_at": "2026-09-30T13:25:41+02:00",
-  "updated_at": "2026-09-30T15:42:14+02:00"
+  "updated_at": "2026-09-30T16:01:43+02:00"
  }
 ]
