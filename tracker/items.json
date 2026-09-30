@@ -5286,9 +5286,9 @@
   "count": 1,
   "baseline": false,
   "approved_at": null,
-  "note": "You asked for a quiet green game-show wall with gold stars, no podium: four options for your pick (curtain, arch, sunburst, panels), the middle kept empty for the balls.",
+  "note": "Your pick: option C (the rays), but without the stars and animated - the rays flashing or turning. Being built.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-09-30T10:25:27+02:00"
+  "updated_at": "2026-09-30T12:35:38+02:00"
  },
  {
   "id": "ss-ball-set",
@@ -5303,9 +5303,9 @@
   "count": 4,
   "baseline": false,
   "approved_at": null,
-  "note": "Your pick: ball 4 (gold with a latch). You asked for the inside to be like the real balls - the word printed flat on the bottom half, not a ball inside a ball, turned so the text reads clearly. Being redrawn.",
+  "note": "You said ball 4 now looks correct except the text: use the game's own font, one colour without an outline, tilted with the ball; new colours for the green and the red; and the lid should open on a hinge at the back, not come off. Being redone.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-09-30T11:20:54+02:00"
+  "updated_at": "2026-09-30T12:35:38+02:00"
  },
  {
   "id": "ss-ball-shards",
@@ -9081,9 +9081,9 @@
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "Your sneeze note is fixed for your check: the hat now pops off, flips once in a third of a second (it used to spin slowly for almost a second) and lands crooked, then his paw straightens it. The back scratch and the stretch are unchanged and also waiting for your eye.",
+  "note": "You approved the sneeze (its own row now). The back scratch and the stretch still wait for your word. You also asked for his outlines to be made consistent, measured against his body.",
   "added_at": "2026-09-29T22:51:32+02:00",
-  "updated_at": "2026-09-30T09:55:07+02:00"
+  "updated_at": "2026-09-30T12:35:38+02:00"
  },
  {
   "id": "art-secondary-effects-cloud-words-a-better-way-to-disappear",
@@ -9091,15 +9091,15 @@
   "group": "Effects",
   "name": "Cloud words: a better way to disappear, variations for your pick",
   "kind": "task",
-  "status": "awaiting",
+  "status": "approved",
   "weight": 1.0,
   "days": 0.0797,
   "count": null,
   "baseline": false,
-  "approved_at": null,
-  "note": "Number 2 (puff away) is now in the game, as you asked - you said you are not decided yet, so it waits for your final word. Going back to the old burst is one setting.",
+  "approved_at": "2026-09-30T12:35:38+02:00",
+  "note": "You said: the new cloud text disappearing animation which is inside of the game now is way better, so we want to keep it in.",
   "added_at": "2026-09-29T22:51:32+02:00",
-  "updated_at": "2026-09-30T09:59:26+02:00"
+  "updated_at": "2026-09-30T12:35:38+02:00"
  },
  {
   "id": "feel-game-feel-yellow-rat-10-more-camera-shake-on-every-land",
@@ -9132,5 +9132,21 @@
   "note": "Fixed for your check: going back from the lobby threw away the game's network connection, so a second CREATE PARTY had nothing to start on. Now you can create, go back and create again - tested three times in a row in one run, and a new party no longer brings back the rat you picked in the last one.",
   "added_at": "2026-09-30T09:16:23+02:00",
   "updated_at": "2026-09-30T09:46:56+02:00"
+ },
+ {
+  "id": "art-primary-mole-lobby-mole-sneeze-the-hat-pops-off-and-flip",
+  "cat": "art-primary",
+  "group": "Mole (lobby)",
+  "name": "Mole sneeze: the hat pops off and flips fast",
+  "kind": "task",
+  "status": "approved",
+  "weight": 1.0,
+  "days": 0.0482,
+  "count": null,
+  "baseline": false,
+  "approved_at": "2026-09-30T12:35:37+02:00",
+  "note": "You said: the new sneeze is way better, so we can keep that.",
+  "added_at": "2026-09-30T12:35:37+02:00",
+  "updated_at": "2026-09-30T12:35:37+02:00"
  }
 ]
