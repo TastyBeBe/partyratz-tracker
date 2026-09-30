@@ -2622,8 +2622,9 @@
   "count": 10,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "You asked for button icons that match their action and aren't busy: jump, duck, swing, stab, pour, drop, boost, dressing room, specific game, shoot, fire and chop redrawn as one object each. Not in the game yet - waiting for your yes.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-09-30T11:34:50+02:00"
  },
  {
   "id": "joystick-move",
