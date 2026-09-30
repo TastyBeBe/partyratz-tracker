@@ -2737,14 +2737,15 @@
   "group": "UI art: icons & glyphs",
   "name": "24 game icons, hand-drawn redraw (boards H1–H3)",
   "kind": "ui-art",
-  "status": "in-progress",
+  "status": "awaiting",
   "weight": 4.899,
   "days": 0.3024,
   "count": 24,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "Redrawn today as you asked: one simple object per game, in the approved icon style, all 24 (researched how icons should look). Not in the game yet - say yes and they go in. Laser Limbo still needs a better single object.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-09-30T11:34:48+02:00"
  },
  {
   "id": "banner-neutral",
