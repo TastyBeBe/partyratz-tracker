@@ -9219,15 +9219,15 @@
   "group": "Core: lobby",
   "name": "Trampoline: the bounce comes from the fall (the same fall, the same bounce)",
   "kind": "mechanic",
-  "status": "awaiting",
+  "status": "in-progress",
   "weight": 1.0,
   "days": 0.1923,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "You asked to roll it back: the trampoline is the old one again (first bounce, then higher on each bounce in a row). Checked your worry: the same drop made twice gives exactly the same bounces, and a landing now always counts once. Waiting for you to try it.",
+  "note": "You tried it: the bounce is kept when you step off and jump back on - if you were on the trampoline just before, you fly super high. Next: research how the best games do trampolines, rebuild ours to match in our style, and test every case (stepping off and back, the same drop twice, chains, high and low drops) before telling you it's done.",
   "added_at": "2026-09-30T16:59:14+02:00",
-  "updated_at": "2026-09-30T22:36:45+02:00"
+  "updated_at": "2026-09-30T23:01:41+02:00"
  },
  {
   "id": "lobby-pick-on-arrival",
