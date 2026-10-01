@@ -2616,15 +2616,15 @@
   "group": "UI art: controls",
   "name": "Ten action icons (sneaker, laser, bat, dagger, revolver, shuriken, knife, bottle, cake layer, balloon)",
   "kind": "ui-art",
-  "status": "awaiting",
+  "status": "in-progress",
   "weight": 3.162,
   "days": 0.1952,
   "count": 10,
   "baseline": false,
   "approved_at": null,
-  "note": "The jump icon redrawn chunky like your swap and back icons: the cream now fills the shape and the black is only a rim (before, the black was more than half of every arm). While the double jump is ready ONE identical chevron appears above it - the first arrow never moves or shrinks (checked to the pixel). Picture and video sent; waiting for your eye. Whether ALL the icons get thicker is your question Q2.",
+  "note": "You said (1 Oct): thicker is better, but the second chevron goes over the yellow ring - it must fit inside the green circle - and the icon is too symmetrical and perfect for the approved icons' style (like the top-right arrow). Next agent.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-01T13:29:07+02:00"
+  "updated_at": "2026-10-01T17:18:28+02:00"
  },
  {
   "id": "joystick-move",
@@ -5280,15 +5280,15 @@
   "game": "7.1 Split or Steal",
   "name": "Game-show studio backdrop",
   "kind": "backdrop",
-  "status": "awaiting",
+  "status": "in-progress",
   "weight": 1.0,
   "days": 0.0617,
   "count": 1,
   "baseline": false,
   "approved_at": null,
-  "note": "Your pink + white direction, three versions on one sheet with the gold ball: 8 pink + white as now, 19 the lighter pink + white, 20 the dark pink + black - photographed in the running game. All 18 earlier backdrops are kept. Waiting for your number (and your answer on the dark layer during the reveal, Q1).",
+  "note": "You liked black + dark pink most (1 Oct); next: a Blackpink background (the pink and black of their 2016 albums), and every pink with black and with white, all sent animated. Next agent.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-01T13:33:49+02:00"
+  "updated_at": "2026-10-01T17:18:28+02:00"
  },
  {
   "id": "ss-ball-set",
@@ -5297,15 +5297,15 @@
   "game": "7.1 Split or Steal",
   "name": "Black-and-gold ball: sealed, SPLIT/STEAL open bases, lid",
   "kind": "sprite",
-  "status": "awaiting",
+  "status": "in-progress",
   "weight": 1.0,
   "days": 0.0617,
   "count": 4,
   "baseline": false,
   "approved_at": null,
-  "note": "Ball 4 in gold (your pick) with the open top redrawn: the top half tipped back like a clam shell and joined to the bowl, so you see its round outside and part of its inside, no hinge. The closed ball, the bowls and the SPLIT / STEAL insides kept. Shown on the three pink backdrops; waiting for your eye.",
+  "note": "You said (1 Oct): the bottom is right, but the top opens from the side - it must open from the back like the old balls; the brown strip must sit at the bottom of the top half (the seam); and the green and red insides must keep the colours they had. Next agent.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-01T13:41:02+02:00"
+  "updated_at": "2026-10-01T17:18:28+02:00"
  },
  {
   "id": "ss-ball-shards",
@@ -9032,10 +9032,10 @@
   "days": 0.4545,
   "count": null,
   "baseline": false,
-  "approved_at": "2026-10-01T12:21:35+02:00",
-  "note": "You picked BOOM: 'I think we should go with the number seven, the boom' - one colour per slide, the rainbow rings, the floor jolts at the lift",
+  "approved_at": "2026-10-01T17:18:22+02:00",
+  "note": "You changed your pick (1 Oct): number 5, DARK, is the base instead of BOOM.",
   "added_at": "2026-09-29T21:24:15+02:00",
-  "updated_at": "2026-10-01T12:21:35+02:00"
+  "updated_at": "2026-10-01T17:18:22+02:00"
  },
  {
   "id": "core-lobby-fx-every-phone",
@@ -9219,15 +9219,15 @@
   "group": "Core: lobby",
   "name": "Trampoline: the bounce comes from the fall (the same fall, the same bounce)",
   "kind": "mechanic",
-  "status": "awaiting",
+  "status": "in-progress",
   "weight": 1.0,
   "days": 0.1923,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "Fixed and tested in your own conditions. Before, everything higher than a plain jump bounced exactly 3.00 (the old top). Now the higher you fall, the higher it bounces: a jump off a rat's head 3.26, a double jump 3.67, a double jump off a rat's head 5.17, up to 5.50 at most, and the view rises with you. Bouncing in place settles back to 3.0, and nothing carries over after you step off (0 to 3 s, every time the same as the first jump). Video sent - waiting for your eye.",
+  "note": "You said it looks better (1 Oct), but: the camera following a high bounce doesn't look great (to research and redo), there are no clouds up high, and the double-jump flip is cancelled when you change direction. Next agent.",
   "added_at": "2026-09-30T16:59:14+02:00",
-  "updated_at": "2026-10-01T13:09:40+02:00"
+  "updated_at": "2026-10-01T17:18:23+02:00"
  },
  {
   "id": "lobby-pick-on-arrival",
@@ -9316,15 +9316,15 @@
   "group": "Core: lobby",
   "name": "Standing on another rat: no leg jitter, a one-leg balance on her party hat",
   "kind": "task",
-  "status": "awaiting",
+  "status": "in-progress",
   "weight": 1.0,
   "days": 1.0,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "The raised leg is now a straight kick out in front; on a hat she always balances (the idle you saw came from her standing on the very corner of the hat box); landing near the edge she is drawn onto the hat's centre so her shoe stands ON the pom-pom. Video sent. Still to do, after your answer on the ears (Q3): a hat and hair box per rat, and a hard landing no longer shoving the rat underneath.",
+  "note": "You found (1 Oct): some landings still stand idle on a rat instead of the one-legged pose; moving a little off one leg snaps you back; the hitboxes still don't match the drawings and rats jump through each other too easily; and standing on the mole's head should balance too. Next agent.",
   "added_at": "2026-09-30T22:31:10+02:00",
-  "updated_at": "2026-10-01T13:54:28+02:00"
+  "updated_at": "2026-10-01T17:18:14+02:00"
  },
  {
   "id": "art-secondary-screens-boot-menus-pick-your-rat-a-taken-rat-s",
@@ -9338,8 +9338,24 @@
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "Done: a taken rat's background behind her head is now black and white too (the frame stays in colour, the lock on top) - picture sent. Next: the name buttons in each rat's hat colour (duller when taken) and the two lock versions for your pick.",
+  "note": "You asked (1 Oct): the heads smaller in their frames; instead of the lock, a plain black bar over a taken rat's eyes; and each rat's name button in her own colour. Next agent.",
   "added_at": "2026-09-30T22:31:10+02:00",
-  "updated_at": "2026-10-01T13:57:55+02:00"
+  "updated_at": "2026-10-01T17:18:29+02:00"
+ },
+ {
+  "id": "lobby-one-leg-balance-pose",
+  "cat": "mechanics",
+  "group": "Core: lobby",
+  "name": "The one-leg balance pose on another rat's hat (the straight kick)",
+  "kind": "task",
+  "status": "approved",
+  "weight": 1.0,
+  "days": 0.2217,
+  "count": null,
+  "baseline": false,
+  "approved_at": "2026-10-01T17:18:18+02:00",
+  "note": "You said (1 Oct): the one-legged pose is probably good enough, so we can keep that.",
+  "added_at": "2026-10-01T17:18:17+02:00",
+  "updated_at": "2026-10-01T17:18:18+02:00"
  }
 ]
