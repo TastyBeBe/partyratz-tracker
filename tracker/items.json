@@ -9316,15 +9316,15 @@
   "group": "Core: lobby",
   "name": "Standing on another rat: no leg jitter, a one-leg balance on her party hat",
   "kind": "task",
-  "status": "in-progress",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 1.0,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "You found (1 Oct): some landings still stand idle on a rat instead of the one-legged pose; moving a little off one leg snaps you back; the hitboxes still don't match the drawings and rats jump through each other too easily; and standing on the mole's head should balance too. Next agent.",
+  "note": "You found (1 Oct) idle landings on a rat, the snap-back, hitboxes off the drawings, rats jumping through each other, and the mole. Done: only the hat holds you now (anywhere else on a rat you slide off), no snap-back after a small move, each rat has her own hat and head hitbox, the rat underneath stays still when you land on her, and the mole's hat balances you too. Waiting for your look.",
   "added_at": "2026-09-30T22:31:10+02:00",
-  "updated_at": "2026-10-01T17:18:14+02:00"
+  "updated_at": "2026-10-01T19:06:52+02:00"
  },
  {
   "id": "art-secondary-screens-boot-menus-pick-your-rat-a-taken-rat-s",
