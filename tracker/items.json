@@ -9219,15 +9219,15 @@
   "group": "Core: lobby",
   "name": "Trampoline: the bounce comes from the fall (the same fall, the same bounce)",
   "kind": "mechanic",
-  "status": "awaiting",
+  "status": "in-progress",
   "weight": 1.0,
   "days": 0.1923,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "You asked me to fix the bounce you kept after stepping off and jumping back on. Rebuilt after researching the best games' trampolines: A (the default) bounces you back as high as you fell plus a little kick, climbing to a top where your hat reaches the top of the screen; B is your old three-step streak, fixed. Every case tested in the game: stepping off and jumping back now gives exactly the first jump's bounce, the same drop always gives the same bounce, all four rats bounce the same. Your pick: A or B.",
+  "note": "You found every fall launches you the same: it must launch you by the height you fall from (higher fall, higher bounce), without keeping the bounce after you step off. Next session fixes and tests it.",
   "added_at": "2026-09-30T16:59:14+02:00",
-  "updated_at": "2026-10-01T09:11:57+02:00"
+  "updated_at": "2026-10-01T12:21:37+02:00"
  },
  {
   "id": "lobby-pick-on-arrival",
