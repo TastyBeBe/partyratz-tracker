@@ -5297,15 +5297,15 @@
   "game": "7.1 Split or Steal",
   "name": "Black-and-gold ball: sealed, SPLIT/STEAL open bases, lid",
   "kind": "sprite",
-  "status": "in-progress",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.0617,
   "count": 4,
   "baseline": false,
   "approved_at": null,
-  "note": "You chose the GOLD balls. The open ball's top still looks wrong - it must look like the top half of the ball lifted open, the two halves connected (no hinge detail needed). Next session regenerates it.",
+  "note": "Ball 4 in gold (your pick) with the open top redrawn: the top half tipped back like a clam shell and joined to the bowl, so you see its round outside and part of its inside, no hinge. The closed ball, the bowls and the SPLIT / STEAL insides kept. Shown on the three pink backdrops; waiting for your eye.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-01T12:21:44+02:00"
+  "updated_at": "2026-10-01T13:41:02+02:00"
  },
  {
   "id": "ss-ball-shards",
