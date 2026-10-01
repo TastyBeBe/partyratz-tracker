@@ -9373,5 +9373,21 @@
   "note": "You said (1 Oct night): the dev button is great. The other floor versions stay behind it for your testing; DARK stays the default for everyone.",
   "added_at": "2026-10-01T23:42:09+02:00",
   "updated_at": "2026-10-01T23:42:11+02:00"
+ },
+ {
+  "id": "lobby-clouds-high",
+  "cat": "art-secondary",
+  "group": "Lobby",
+  "name": "Lobby - clouds up high (the sky above the old top)",
+  "kind": "task",
+  "status": "awaiting",
+  "weight": 1.0,
+  "days": 0.0813,
+  "count": null,
+  "baseline": false,
+  "approved_at": null,
+  "note": "You asked (1 Oct): no clouds up there when you bounce high. Done: 24 of the approved clouds in three bands up the sky, drifting like the others; every high view now shows clouds (39 of 64 sampled frames had none before). Waiting for your look (video).",
+  "added_at": "2026-10-02T00:13:13+02:00",
+  "updated_at": "2026-10-02T00:13:13+02:00"
  }
 ]
