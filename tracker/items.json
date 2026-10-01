@@ -2616,15 +2616,15 @@
   "group": "UI art: controls",
   "name": "Ten action icons (sneaker, laser, bat, dagger, revolver, shuriken, knife, bottle, cake layer, balloon)",
   "kind": "ui-art",
-  "status": "in-progress",
+  "status": "awaiting",
   "weight": 3.162,
   "days": 0.1952,
   "count": 10,
   "baseline": false,
   "approved_at": null,
-  "note": "You said the jump icon looks fine but must match the style of the swap and back icons, with thicker lines; and the double must only ADD a chevron on top - the first arrow must not move or shrink. Next session redraws it.",
+  "note": "The jump icon redrawn chunky like your swap and back icons: the cream now fills the shape and the black is only a rim (before, the black was more than half of every arm). While the double jump is ready ONE identical chevron appears above it - the first arrow never moves or shrinks (checked to the pixel). Picture and video sent; waiting for your eye. Whether ALL the icons get thicker is your question Q2.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-01T12:21:39+02:00"
+  "updated_at": "2026-10-01T13:29:07+02:00"
  },
  {
   "id": "joystick-move",
