@@ -5297,15 +5297,15 @@
   "game": "7.1 Split or Steal",
   "name": "Black-and-gold ball: sealed, SPLIT/STEAL open bases, lid",
   "kind": "sprite",
-  "status": "awaiting",
+  "status": "in-progress",
   "weight": 1.0,
   "days": 0.0617,
   "count": 4,
   "baseline": false,
   "approved_at": null,
-  "note": "You said ball 4's top still looked flat. Done: the lid now opens only half way, so its round dome with the belt shows on top - round at the top and the bottom. And seven colours for it (gold, green, blue, red, pink, white, black with a gold belt), shown on all 18 backdrops in one grid. Waiting for your letter.",
+  "note": "You chose the GOLD balls. The open ball's top still looks wrong - it must look like the top half of the ball lifted open, the two halves connected (no hinge detail needed). Next session regenerates it.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-01T10:54:59+02:00"
+  "updated_at": "2026-10-01T12:21:44+02:00"
  },
  {
   "id": "ss-ball-shards",
