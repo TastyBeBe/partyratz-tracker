@@ -2616,15 +2616,15 @@
   "group": "UI art: controls",
   "name": "Ten action icons (sneaker, laser, bat, dagger, revolver, shuriken, knife, bottle, cake layer, balloon)",
   "kind": "ui-art",
-  "status": "in-progress",
+  "status": "awaiting",
   "weight": 3.162,
   "days": 0.1952,
   "count": 10,
   "baseline": false,
   "approved_at": null,
-  "note": "Your jump design: an open arrowhead (two lines, no bottom) over a separate stem; when you can still double jump in the air, two arrowheads. If you don't like it, No. 1 of the four becomes the jump.",
+  "note": "Your jump icon is in: an arrow made of a chevron and a separate stem, drawn from your sketch in the game's icon style. While you are in the air and can still double jump, it shows two chevrons; after the double jump it goes back to one. Video sent. If you dislike it, we use number 1 of the earlier four.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-09-30T22:31:10+02:00"
+  "updated_at": "2026-10-01T11:09:56+02:00"
  },
  {
   "id": "joystick-move",
