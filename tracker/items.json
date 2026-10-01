@@ -9027,15 +9027,15 @@
   "group": "Game feel",
   "name": "Main screen: the tiles follow your finger",
   "kind": "task",
-  "status": "in-progress",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.4545,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "You said B or C could work, but with predictable colours: one colour for the whole slide, and each ring of the wave one colour of its own (the shape and first ring the colour you drew, the next ring another colour, and so on). Next: those versions, plus more new ideas, for your pick.",
+  "note": "You asked for one colour per slide and each ring of the wave in one colour. Done: the whole slide is one colour; the shape and the ring touching it wear it, and every next ring wears the next rainbow colour (blue, turquoise, green, lime, yellow, orange, red...). Six versions on the new RINGS button beside LIFT: 1 FADE (your B), 2 STILL (your C), 3 PINGS (each ring that leaves the shape is one colour), 4 PAINT (the rings stay and paint the whole floor), 5 DARK (the floor's lights go out, only your rings light it), 6 BOOM (the shape flashes, the floor jolts). Video sent; waiting for your pick.",
   "added_at": "2026-09-29T21:24:15+02:00",
-  "updated_at": "2026-09-30T22:31:09+02:00"
+  "updated_at": "2026-10-01T10:29:22+02:00"
  },
  {
   "id": "core-lobby-fx-every-phone",
