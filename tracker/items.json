@@ -9364,14 +9364,14 @@
   "group": "Screens: boot & menus",
   "name": "Main screen: the developer switches behind one DEV button",
   "kind": "task",
-  "status": "awaiting",
+  "status": "approved",
   "weight": 1.0,
   "days": 0.0813,
   "count": null,
   "baseline": false,
-  "approved_at": null,
-  "note": "You asked (1 Oct): put all the developer switches behind one button. Done: one DEV button in the corner shows or hides all eight, hidden until you tap it, and it remembers.",
+  "approved_at": "2026-10-01T23:42:11+02:00",
+  "note": "You said (1 Oct night): the dev button is great. The other floor versions stay behind it for your testing; DARK stays the default for everyone.",
   "added_at": "2026-10-01T23:42:09+02:00",
-  "updated_at": "2026-10-01T23:42:09+02:00"
+  "updated_at": "2026-10-01T23:42:11+02:00"
  }
 ]
