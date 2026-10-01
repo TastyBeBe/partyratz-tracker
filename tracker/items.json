@@ -5280,15 +5280,15 @@
   "game": "7.1 Split or Steal",
   "name": "Game-show studio backdrop",
   "kind": "backdrop",
-  "status": "in-progress",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.0617,
   "count": 1,
   "baseline": false,
   "approved_at": null,
-  "note": "You asked to see every backdrop WITH the balls on it, and to add a gold one (light gold rays lighter than the balls, on black) and one that is just gold with no black.",
+  "note": "You asked to see the backdrops with the balls on them, and two gold ones. Done: all 18 backdrops (the 16 plus GOLD with black and GOLD only), each with ball 4 where the balls stand, closed and open, numbered 1-18. One question with it: while the balls show, the game darkens the whole backdrop - keep that or not? Waiting for your number.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-09-30T22:31:09+02:00"
+  "updated_at": "2026-10-01T10:41:19+02:00"
  },
  {
   "id": "ss-ball-set",
