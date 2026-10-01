@@ -9332,14 +9332,14 @@
   "group": "Screens: boot & menus",
   "name": "Pick your rat: a taken rat's portrait in black and white under the lock, never see-through",
   "kind": "task",
-  "status": "todo",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.5,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "You asked: a taken rat's card is greyed and see-through - make the portrait black and white (noir) with the lock on top, and never transparent.",
+  "note": "A taken rat's card now shows her face in black and white, solid (no more see-through), with the lock on top; the card itself keeps its colour.",
   "added_at": "2026-09-30T22:31:10+02:00",
-  "updated_at": "2026-09-30T22:31:10+02:00"
+  "updated_at": "2026-10-01T11:09:58+02:00"
  }
 ]
