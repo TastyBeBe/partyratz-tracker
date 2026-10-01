@@ -5280,15 +5280,15 @@
   "game": "7.1 Split or Steal",
   "name": "Game-show studio backdrop",
   "kind": "backdrop",
-  "status": "in-progress",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.0617,
   "count": 1,
   "baseline": false,
   "approved_at": null,
-  "note": "You picked pink + white (8), and asked to see it with the lighter pink too, plus a darker pink + black one; all the other backdrops stay saved in the game. Next session sends the three.",
+  "note": "Your pink + white direction, three versions on one sheet with the gold ball: 8 pink + white as now, 19 the lighter pink + white, 20 the dark pink + black - photographed in the running game. All 18 earlier backdrops are kept. Waiting for your number (and your answer on the dark layer during the reveal, Q1).",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-01T12:21:42+02:00"
+  "updated_at": "2026-10-01T13:33:49+02:00"
  },
  {
   "id": "ss-ball-set",
