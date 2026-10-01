@@ -9357,5 +9357,21 @@
   "note": "You said (1 Oct): the one-legged pose is probably good enough, so we can keep that.",
   "added_at": "2026-10-01T17:18:17+02:00",
   "updated_at": "2026-10-01T17:18:18+02:00"
+ },
+ {
+  "id": "screen-menu-dev-button",
+  "cat": "art-secondary",
+  "group": "Screens: boot & menus",
+  "name": "Main screen: the developer switches behind one DEV button",
+  "kind": "task",
+  "status": "awaiting",
+  "weight": 1.0,
+  "days": 0.0813,
+  "count": null,
+  "baseline": false,
+  "approved_at": null,
+  "note": "You asked (1 Oct): put all the developer switches behind one button. Done: one DEV button in the corner shows or hides all eight, hidden until you tap it, and it remembers.",
+  "added_at": "2026-10-01T23:42:09+02:00",
+  "updated_at": "2026-10-01T23:42:09+02:00"
  }
 ]
