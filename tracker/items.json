@@ -9219,15 +9219,15 @@
   "group": "Core: lobby",
   "name": "Trampoline: the bounce comes from the fall (the same fall, the same bounce)",
   "kind": "mechanic",
-  "status": "in-progress",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.1923,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "You found every fall launches you the same: it must launch you by the height you fall from (higher fall, higher bounce), without keeping the bounce after you step off. Next session fixes and tests it.",
+  "note": "Fixed and tested in your own conditions. Before, everything higher than a plain jump bounced exactly 3.00 (the old top). Now the higher you fall, the higher it bounces: a jump off a rat's head 3.26, a double jump 3.67, a double jump off a rat's head 5.17, up to 5.50 at most, and the view rises with you. Bouncing in place settles back to 3.0, and nothing carries over after you step off (0 to 3 s, every time the same as the first jump). Video sent - waiting for your eye.",
   "added_at": "2026-09-30T16:59:14+02:00",
-  "updated_at": "2026-10-01T12:21:37+02:00"
+  "updated_at": "2026-10-01T13:09:40+02:00"
  },
  {
   "id": "lobby-pick-on-arrival",
