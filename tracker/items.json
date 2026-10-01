@@ -2616,15 +2616,15 @@
   "group": "UI art: controls",
   "name": "Ten action icons (sneaker, laser, bat, dagger, revolver, shuriken, knife, bottle, cake layer, balloon)",
   "kind": "ui-art",
-  "status": "awaiting",
+  "status": "in-progress",
   "weight": 3.162,
   "days": 0.1952,
   "count": 10,
   "baseline": false,
   "approved_at": null,
-  "note": "Your jump icon is in: an arrow made of a chevron and a separate stem, drawn from your sketch in the game's icon style. While you are in the air and can still double jump, it shows two chevrons; after the double jump it goes back to one. Video sent. If you dislike it, we use number 1 of the earlier four.",
+  "note": "You said the jump icon looks fine but must match the style of the swap and back icons, with thicker lines; and the double must only ADD a chevron on top - the first arrow must not move or shrink. Next session redraws it.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-01T11:09:56+02:00"
+  "updated_at": "2026-10-01T12:21:39+02:00"
  },
  {
   "id": "joystick-move",
