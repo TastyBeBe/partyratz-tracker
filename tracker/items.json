@@ -9316,15 +9316,15 @@
   "group": "Core: lobby",
   "name": "Standing on another rat: no leg jitter, a one-leg balance on her party hat",
   "kind": "task",
-  "status": "in-progress",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 1.0,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "You asked for the raised leg straight, like a kick in front of her (not a bent knee), the balance pose EVERY time she stands on a hat (she still idled in your test), and per-rat hat and hair hitboxes so nobody jumps through a rat or floats above her. Next session.",
+  "note": "The raised leg is now a straight kick out in front; on a hat she always balances (the idle you saw came from her standing on the very corner of the hat box); landing near the edge she is drawn onto the hat's centre so her shoe stands ON the pom-pom. Video sent. Still to do, after your answer on the ears (Q3): a hat and hair box per rat, and a hard landing no longer shoving the rat underneath.",
   "added_at": "2026-09-30T22:31:10+02:00",
-  "updated_at": "2026-10-01T12:21:40+02:00"
+  "updated_at": "2026-10-01T13:54:28+02:00"
  },
  {
   "id": "art-secondary-screens-boot-menus-pick-your-rat-a-taken-rat-s",
