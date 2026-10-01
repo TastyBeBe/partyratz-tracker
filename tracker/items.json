@@ -9316,15 +9316,15 @@
   "group": "Core: lobby",
   "name": "Standing on another rat: no leg jitter, a one-leg balance on her party hat",
   "kind": "task",
-  "status": "awaiting",
+  "status": "in-progress",
   "weight": 1.0,
   "days": 1.0,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "You asked to fix the leg jitter when a rat stands on another rat, and for a one-leg balance on the party hat. The jitter came from the narrow hat: the standing foot sank into it and snapped back, and the feet kept swapping. Now every rat balances on one leg on the ball (the other leg up, arms out), the standing foot stays on the ball and never swaps. Video sent.",
+  "note": "You asked for the raised leg straight, like a kick in front of her (not a bent knee), the balance pose EVERY time she stands on a hat (she still idled in your test), and per-rat hat and hair hitboxes so nobody jumps through a rat or floats above her. Next session.",
   "added_at": "2026-09-30T22:31:10+02:00",
-  "updated_at": "2026-10-01T09:36:40+02:00"
+  "updated_at": "2026-10-01T12:21:40+02:00"
  },
  {
   "id": "art-secondary-screens-boot-menus-pick-your-rat-a-taken-rat-s",
