@@ -9389,5 +9389,21 @@
   "note": "You asked (1 Oct): no clouds up there when you bounce high. Done: 24 of the approved clouds in three bands up the sky, drifting like the others; every high view now shows clouds (39 of 64 sampled frames had none before). Waiting for your look (video).",
   "added_at": "2026-10-02T00:13:13+02:00",
   "updated_at": "2026-10-02T00:13:13+02:00"
+ },
+ {
+  "id": "lobby-flip-through-turn",
+  "cat": "mechanics",
+  "group": "Core: lobby",
+  "name": "Double jump: the flip keeps spinning when you turn mid-air",
+  "kind": "task",
+  "status": "awaiting",
+  "weight": 1.0,
+  "days": 0.2217,
+  "count": null,
+  "baseline": false,
+  "approved_at": null,
+  "note": "You said (1 Oct): changing direction cancels the double jump's flip. Found: the flip kept going but was drawn mirrored, so it spun back. Done: the flip now spins on round and you turn once you are upright. Waiting for your look (video).",
+  "added_at": "2026-10-02T00:13:15+02:00",
+  "updated_at": "2026-10-02T00:13:15+02:00"
  }
 ]
