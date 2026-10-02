@@ -9460,14 +9460,14 @@
   "group": "Core: lobby",
   "name": "Rats on rats: only the ball on the hat holds you, and it holds you",
   "kind": "task",
-  "status": "awaiting",
+  "status": "in-progress",
   "weight": 1.0,
   "days": 0.2217,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "You found (2 Oct): standing on a rat's head instead of her hat, standing inside the hat, on the hat without the one-leg pose, and sliding off while on the white ball. Found with a stress test of 96 odd jumps and landings: every head had a flat top that held you, a small hidden platform under the ball held you inside the hat, and the ball only counted as standing near its very centre. Now the head slopes away from the hat, the hidden platform is gone, and the ball holds you while your shoe is on it. The 96 trials show none of the four faults; the normal landing on the hat works as you approved it. Video sent - waiting for your eye.",
+  "note": "You said (2 Oct): the hitboxes look better, but you can still sometimes fly through another rat's party hat - the hitbox does not match the drawing; fix it, on the phones too. Next session.",
   "added_at": "2026-10-02T12:35:30+02:00",
-  "updated_at": "2026-10-02T12:35:30+02:00"
+  "updated_at": "2026-10-02T21:09:51+02:00"
  }
 ]
