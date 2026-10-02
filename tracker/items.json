@@ -2616,15 +2616,15 @@
   "group": "UI art: controls",
   "name": "Ten action icons (sneaker, laser, bat, dagger, revolver, shuriken, knife, bottle, cake layer, balloon)",
   "kind": "ui-art",
-  "status": "awaiting",
+  "status": "in-progress",
   "weight": 3.162,
   "days": 0.1952,
   "count": 10,
   "baseline": false,
   "approved_at": null,
-  "note": "You said (2 Oct): it is fine how it is centred, but flip the two arrows. Done: the small arrow is now the normal jump, and the big arrow appears above it while you can double jump. It still fits inside the green on the running button (about 13 px of green to the ring, resting and pressed). Card sent - waiting for your eye.",
+  "note": "You approved the new jump icon (2 Oct). The other button icons come one by one, as you said.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-02T12:35:32+02:00"
+  "updated_at": "2026-10-02T21:09:49+02:00"
  },
  {
   "id": "joystick-move",
