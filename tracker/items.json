@@ -9437,5 +9437,21 @@
   "note": "You said (1 Oct night): you much prefer the dark purple that is in the game now; the slight tilt, different on each rat, is great.",
   "added_at": "2026-10-02T10:37:36+02:00",
   "updated_at": "2026-10-02T10:37:37+02:00"
+ },
+ {
+  "id": "lobby-camera-every-flight",
+  "cat": "mechanics",
+  "group": "Core: lobby",
+  "name": "Lobby camera: follows you up on every high jump, not only the trampoline",
+  "kind": "task",
+  "status": "awaiting",
+  "weight": 1.0,
+  "days": 0.2217,
+  "count": null,
+  "baseline": false,
+  "approved_at": null,
+  "note": "You asked (1 Oct night): the trampoline camera everywhere, a double jump off another rat's head too. Built with your approved numbers: a double jump from the grass now lifts the view about 1.6, a jump off a rat's head about 1, a double jump off a rat's head about 3.9 - your rat stays wholly in view (49 frames out of view on the test before, 0 now). A plain jump from the grass still leaves the view still. Video sent - waiting for your eye.",
+  "added_at": "2026-10-02T11:10:08+02:00",
+  "updated_at": "2026-10-02T11:10:08+02:00"
  }
 ]
