@@ -9428,14 +9428,14 @@
   "group": "Screens: boot & menus",
   "name": "Pick your rat: a taken rat's eye bar (thin, tilted, dark purple)",
   "kind": "task",
-  "status": "awaiting",
+  "status": "approved",
   "weight": 1.0,
   "days": 0.0813,
   "count": null,
   "baseline": false,
-  "approved_at": null,
-  "note": "You asked (1 Oct): a plain bar over a taken rat's eyes, thin and long, tilted a little.",
+  "approved_at": "2026-10-02T10:37:37+02:00",
+  "note": "You said (1 Oct night): you much prefer the dark purple that is in the game now; the slight tilt, different on each rat, is great.",
   "added_at": "2026-10-02T10:37:36+02:00",
-  "updated_at": "2026-10-02T10:37:36+02:00"
+  "updated_at": "2026-10-02T10:37:37+02:00"
  }
 ]
