@@ -9469,5 +9469,21 @@
   "note": "You said (2 Oct): the hitboxes look better, but you can still sometimes fly through another rat's party hat - the hitbox does not match the drawing; fix it, on the phones too. Next session.",
   "added_at": "2026-10-02T12:35:30+02:00",
   "updated_at": "2026-10-02T21:09:51+02:00"
+ },
+ {
+  "id": "ui-jump-icon-handmade",
+  "cat": "art-secondary",
+  "group": "UI art: controls",
+  "name": "Jump button icon: drawn by hand, the small arrow on the normal jump, the big one above for the double",
+  "kind": "art",
+  "status": "awaiting",
+  "weight": 1.0,
+  "days": 0.0813,
+  "count": null,
+  "baseline": false,
+  "approved_at": null,
+  "note": "Redrawn by hand like the back and swap arrows, fitted inside the green circle in every state.",
+  "added_at": "2026-10-02T21:09:58+02:00",
+  "updated_at": "2026-10-02T21:09:58+02:00"
  }
 ]
