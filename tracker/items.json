@@ -2616,15 +2616,15 @@
   "group": "UI art: controls",
   "name": "Ten action icons (sneaker, laser, bat, dagger, revolver, shuriken, knife, bottle, cake layer, balloon)",
   "kind": "ui-art",
-  "status": "in-progress",
+  "status": "awaiting",
   "weight": 3.162,
   "days": 0.1952,
   "count": 10,
   "baseline": false,
   "approved_at": null,
-  "note": "You said (1 Oct): thicker is better, but the second chevron goes over the yellow ring - it must fit inside the green circle - and the icon is too symmetrical and perfect for the approved icons' style (like the top-right arrow). Next agent.",
+  "note": "You asked (1 Oct): the jump icon must fit inside the green circle and stop looking too perfect and symmetrical, like the approved back and swap arrows. Done for the jump button only (your Q2): redrawn by hand in ChatGPT (wobbly, uneven arms, a leaning stem, the extra chevron its own drawing), smaller, the same line as the other button icons. On the running button the double now keeps about 13 px of green from the ring (the old one 4-5 px, which looked like touching on your phone), resting and pressed. Card and video sent - waiting for your eye; the other buttons wait, one by one as you said.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-01T17:18:28+02:00"
+  "updated_at": "2026-10-02T11:39:35+02:00"
  },
  {
   "id": "joystick-move",
