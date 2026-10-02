@@ -2622,9 +2622,9 @@
   "count": 10,
   "baseline": false,
   "approved_at": null,
-  "note": "You asked (1 Oct): the jump icon must fit inside the green circle and stop looking too perfect and symmetrical, like the approved back and swap arrows. Done for the jump button only (your Q2): redrawn by hand in ChatGPT (wobbly, uneven arms, a leaning stem, the extra chevron its own drawing), smaller, the same line as the other button icons. On the running button the double now keeps about 13 px of green from the ring (the old one 4-5 px, which looked like touching on your phone), resting and pressed. Card and video sent - waiting for your eye; the other buttons wait, one by one as you said.",
+  "note": "You said (2 Oct): it is fine how it is centred, but flip the two arrows. Done: the small arrow is now the normal jump, and the big arrow appears above it while you can double jump. It still fits inside the green on the running button (about 13 px of green to the ring, resting and pressed). Card sent - waiting for your eye.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-02T11:39:35+02:00"
+  "updated_at": "2026-10-02T12:35:32+02:00"
  },
  {
   "id": "joystick-move",
