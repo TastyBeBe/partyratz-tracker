@@ -9380,15 +9380,15 @@
   "group": "Lobby",
   "name": "Lobby - clouds up high (the sky above the old top)",
   "kind": "task",
-  "status": "awaiting",
+  "status": "in-progress",
   "weight": 1.0,
   "days": 0.0813,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "You asked (1 Oct): no clouds up there when you bounce high. Done: 24 of the approved clouds in three bands up the sky, drifting like the others; every high view now shows clouds (39 of 64 sampled frames had none before). Waiting for your look (video).",
+  "note": "You said (1 Oct night): the high clouds don't move and are spread differently from the low ones - redistribute the whole sky: fewer clouds at the ground level, the same spread at every height, ready for rats going many screens up. Next agent.",
   "added_at": "2026-10-02T00:13:13+02:00",
-  "updated_at": "2026-10-02T00:13:13+02:00"
+  "updated_at": "2026-10-02T10:37:41+02:00"
  },
  {
   "id": "lobby-flip-through-turn",
