@@ -9485,5 +9485,21 @@
   "note": "You said (2 Oct): the new jump icons are great. So that's good.",
   "added_at": "2026-10-02T21:09:58+02:00",
   "updated_at": "2026-10-02T21:09:59+02:00"
+ },
+ {
+  "id": "lobby-network-recovery",
+  "cat": "mechanics",
+  "group": "Core: lobby",
+  "name": "The lobby survives a dropped connection",
+  "kind": "task",
+  "status": "awaiting",
+  "weight": 1.0,
+  "days": 0.2217,
+  "count": null,
+  "baseline": false,
+  "approved_at": null,
+  "note": "You saw all the rats vanish and nothing worked: the party's connection had dropped and nothing brought it back. Now the game rebuilds the party by itself, shows RECONNECTING meanwhile, and brings your rat and the bots back. Tested: back in about 2 seconds with the same party code. Video sent; waiting for your look.",
+  "added_at": "2026-10-02T22:52:26+02:00",
+  "updated_at": "2026-10-02T22:52:26+02:00"
  }
 ]
