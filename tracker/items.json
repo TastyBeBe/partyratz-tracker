@@ -9453,5 +9453,21 @@
   "note": "You asked (1 Oct night): the trampoline camera everywhere, a double jump off another rat's head too. Built with your approved numbers: a double jump from the grass now lifts the view about 1.6, a jump off a rat's head about 1, a double jump off a rat's head about 3.9 - your rat stays wholly in view (49 frames out of view on the test before, 0 now). A plain jump from the grass still leaves the view still. Video sent - waiting for your eye.",
   "added_at": "2026-10-02T11:10:08+02:00",
   "updated_at": "2026-10-02T11:10:08+02:00"
+ },
+ {
+  "id": "lobby-rats-only-the-ball-holds",
+  "cat": "mechanics",
+  "group": "Core: lobby",
+  "name": "Rats on rats: only the ball on the hat holds you, and it holds you",
+  "kind": "task",
+  "status": "awaiting",
+  "weight": 1.0,
+  "days": 0.2217,
+  "count": null,
+  "baseline": false,
+  "approved_at": null,
+  "note": "You found (2 Oct): standing on a rat's head instead of her hat, standing inside the hat, on the hat without the one-leg pose, and sliding off while on the white ball. Found with a stress test of 96 odd jumps and landings: every head had a flat top that held you, a small hidden platform under the ball held you inside the hat, and the ball only counted as standing near its very centre. Now the head slopes away from the hat, the hidden platform is gone, and the ball holds you while your shoe is on it. The 96 trials show none of the four faults; the normal landing on the hat works as you approved it. Video sent - waiting for your eye.",
+  "added_at": "2026-10-02T12:35:30+02:00",
+  "updated_at": "2026-10-02T12:35:30+02:00"
  }
 ]
