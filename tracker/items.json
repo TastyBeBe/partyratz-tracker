@@ -9476,14 +9476,14 @@
   "group": "UI art: controls",
   "name": "Jump button icon: drawn by hand, the small arrow on the normal jump, the big one above for the double",
   "kind": "art",
-  "status": "awaiting",
+  "status": "approved",
   "weight": 1.0,
   "days": 0.0813,
   "count": null,
   "baseline": false,
-  "approved_at": null,
-  "note": "Redrawn by hand like the back and swap arrows, fitted inside the green circle in every state.",
+  "approved_at": "2026-10-02T21:09:59+02:00",
+  "note": "You said (2 Oct): the new jump icons are great. So that's good.",
   "added_at": "2026-10-02T21:09:58+02:00",
-  "updated_at": "2026-10-02T21:09:58+02:00"
+  "updated_at": "2026-10-02T21:09:59+02:00"
  }
 ]
