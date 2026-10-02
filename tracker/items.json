@@ -9421,5 +9421,21 @@
   "note": "You said (1 Oct night): the camera the way it is made for the trampoline feels great - make it follow every high jump the same way (a double jump off another rat's head too); that is the next agent's task.",
   "added_at": "2026-10-02T10:37:32+02:00",
   "updated_at": "2026-10-02T10:37:34+02:00"
+ },
+ {
+  "id": "charselect-eye-bar",
+  "cat": "art-secondary",
+  "group": "Screens: boot & menus",
+  "name": "Pick your rat: a taken rat's eye bar (thin, tilted, dark purple)",
+  "kind": "task",
+  "status": "awaiting",
+  "weight": 1.0,
+  "days": 0.0813,
+  "count": null,
+  "baseline": false,
+  "approved_at": null,
+  "note": "You asked (1 Oct): a plain bar over a taken rat's eyes, thin and long, tilted a little.",
+  "added_at": "2026-10-02T10:37:36+02:00",
+  "updated_at": "2026-10-02T10:37:36+02:00"
  }
 ]
