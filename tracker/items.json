@@ -5484,14 +5484,15 @@
   "game": "7.1 Split or Steal",
   "name": "SPLIT/STEAL pick-plate colour fills",
   "kind": "hud-art",
-  "status": "todo",
+  "status": "removed",
   "weight": 1.0,
   "days": 0.0617,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "The plates are gone: you asked that you pick by tapping the balls themselves, so these plate fills no longer exist.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-04T01:00:33+02:00"
  },
  {
   "id": "cut-kitchen",
@@ -9296,15 +9297,15 @@
   "game": "7.1 Split or Steal",
   "name": "Split or Steal: pick one of your two balls, they close, the screen blacks out, then your ball and your opponent's open",
   "kind": "mechanic",
-  "status": "todo",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.1923,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "Your design (30 Sep): pick one of your two balls, they close; when everyone has picked the screen blacks out and comes back showing your ball and your opponent's, which open. To be built with the new balls.",
+  "note": "Built tonight: you tap an open ball, both close, the screen goes dark in one of four ways (curtain, drop, versus slide-in, blinds and roll) and your ball and theirs open in turn. Your pick of the four is open.",
   "added_at": "2026-09-30T17:05:49+02:00",
-  "updated_at": "2026-09-30T17:05:49+02:00"
+  "updated_at": "2026-10-04T01:00:33+02:00"
  },
  {
   "id": "mechanics-core-meta-replaced-pixel-art-deleted-from-the-game",
