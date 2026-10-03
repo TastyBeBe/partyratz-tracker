@@ -9507,5 +9507,21 @@
   "note": "You saw all the rats vanish and nothing worked: the party's connection had dropped and nothing brought it back. Now the game rebuilds the party by itself, shows RECONNECTING meanwhile, and brings your rat and the bots back. Tested: back in about 2 seconds with the same party code. Video sent; waiting for your look.",
   "added_at": "2026-10-02T22:52:26+02:00",
   "updated_at": "2026-10-02T22:52:26+02:00"
+ },
+ {
+  "id": "lobby-sketch-look",
+  "cat": "art-secondary",
+  "group": "Lobby",
+  "name": "The lobby in the first animation's look (SKETCH, a test)",
+  "kind": "task",
+  "status": "awaiting",
+  "weight": 1.0,
+  "days": 0.0813,
+  "count": null,
+  "baseline": false,
+  "approved_at": null,
+  "note": "You asked to try the first animation's look on the whole lobby: every drawing re-inked (a fine line, soft fills, hatched shadows), baked into switchable copies - your drawings untouched, nothing moves. Off by default: main menu, DEV, SKETCH.",
+  "added_at": "2026-10-03T20:41:44+02:00",
+  "updated_at": "2026-10-03T20:41:44+02:00"
  }
 ]
