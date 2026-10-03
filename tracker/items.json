@@ -5989,14 +5989,15 @@
   "game": "7.4 Surfing Rats",
   "name": "Off-screen rival arrows with rat faces",
   "kind": "hud-art",
-  "status": "todo",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.0617,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "The off-screen marker is now each rat's drawn party hat in her colour (the same drawing as Balloon Ascent's), not a placeholder disc.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-03T20:41:39+02:00"
  },
  {
   "id": "sr-fx",
