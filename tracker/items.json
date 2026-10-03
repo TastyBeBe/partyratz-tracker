@@ -9537,15 +9537,15 @@
   "game": "7.1 Split or Steal",
   "name": "Pick from the two OPEN balls, they close, the screen blacks out, both balls come back and open in turn",
   "kind": "task",
-  "status": "todo",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.2217,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "Your flow: you see who you face, the two open balls are in front of you, you tap one, the balls close, a black-out, then your ball and theirs appear and open one after the other.",
+  "note": "Built as you asked: you tap one of the two open balls, both close, then a handover and your ball and theirs open in turn. Four different handovers are in the video for your pick: curtain, drop, versus slide-in, blinds and roll.",
   "added_at": "2026-10-03T23:43:51+02:00",
-  "updated_at": "2026-10-03T23:43:51+02:00"
+  "updated_at": "2026-10-04T01:00:15+02:00"
  },
  {
   "id": "vs-screen",
