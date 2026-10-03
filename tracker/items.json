@@ -5297,15 +5297,15 @@
   "game": "7.1 Split or Steal",
   "name": "Black-and-gold ball: sealed, SPLIT/STEAL open bases, lid",
   "kind": "sprite",
-  "status": "in-progress",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.0617,
   "count": 4,
   "baseline": false,
   "approved_at": null,
-  "note": "You said (3 Oct): almost perfect, the way they open is great. Two changes: the green and red must go back to the colours they had before (the earlier gold-ball boards), and the top half must be as wide as the bottom half. Next session.",
+  "note": "Your two changes are made, in the same chat that drew them: the lids are now as wide as the bowls (they were seven eighths, now 96 to 97 percent; the drawing stops getting wider after two tries), and the green and red are back to your gold-ball boards' colours. Shown on your new background as a mock; it goes into the game when you say yes.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-03T09:34:38+02:00"
+  "updated_at": "2026-10-03T12:03:22+02:00"
  },
  {
   "id": "ss-ball-shards",
