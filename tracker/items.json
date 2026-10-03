@@ -3389,14 +3389,15 @@
   "game": "7.1 Split or Steal",
   "name": "Split or Steal HUD",
   "kind": "ui-screen",
-  "status": "in-progress",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.0617,
   "count": 1,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "No more code rectangles: the pick buttons are the drawn green (SPLIT) and pink (STEAL) plates with the halo and horns floating above them, YOU and THEM sit on the drawn ribbon, the payout on the drawn board.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-03T20:41:35+02:00"
  },
  {
   "id": "screen-hud-cutting-things",
