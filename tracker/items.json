@@ -5297,15 +5297,15 @@
   "game": "7.1 Split or Steal",
   "name": "Black-and-gold ball: sealed, SPLIT/STEAL open bases, lid",
   "kind": "sprite",
-  "status": "awaiting",
+  "status": "approved",
   "weight": 1.0,
   "days": 0.0617,
   "count": 4,
   "baseline": false,
-  "approved_at": null,
-  "note": "Your two versions, as you asked: A drawn from the closed ball only (the lid now the exact same half-ball as the bottom, but the words came back in a new font), B drawn with the open balls (hinged and the hand lettering kept, the lid fuller but still tipped towards you). Not in the game until you pick.",
+  "approved_at": "2026-10-03T18:24:09+02:00",
+  "note": "Your pick (3 Oct evening): version B, the one drawn with the open balls - hinged at the back, opening towards you, your hand lettering, the gold, green and red as before.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-03T17:24:13+02:00"
+  "updated_at": "2026-10-03T18:24:09+02:00"
  },
  {
   "id": "ss-ball-shards",
