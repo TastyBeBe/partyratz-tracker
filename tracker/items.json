@@ -5306,9 +5306,9 @@
   "count": 4,
   "baseline": false,
   "approved_at": null,
-  "note": "You asked for a couple more tries at one consistent set. Two are ready for your pick, both photographed in the game: A keeps the closed ball and redraws the open ones from it; B keeps the open balls and redraws the closed one from them. If you like neither, today's B stays.",
+  "note": "Your pick: direction A, and you like its STEAL ball but not its SPLIT (\"remake the split one based on the steel one ... just change the text and the color ... the ball stays the same, as the steel ball\"). The SPLIT is being redone from the STEAL ball; this waits for your yes on it.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-04T00:20:45+02:00"
+  "updated_at": "2026-10-04T00:27:45+02:00"
  },
  {
   "id": "ss-ball-shards",
