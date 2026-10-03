@@ -9586,14 +9586,14 @@
   "group": "Core: networking",
   "name": "Update Unity Transport to 2.7 (fixes two Relay + DTLS bugs)",
   "kind": "task",
-  "status": "todo",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.2217,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "Your yes: update it if it doesn't break anything or if it's better - parties tested again after.",
+  "note": "You said yes if it does not break anything. Updated to 2.7.4 (the newest 2.7, with bug fixes for phones losing their connection). Tested tonight: a real online party, a forced network drop that rebuilt the party by itself, leaving and starting a new party. Not tested yet: a second phone joining.",
   "added_at": "2026-10-03T23:47:06+02:00",
-  "updated_at": "2026-10-03T23:47:06+02:00"
+  "updated_at": "2026-10-04T01:14:39+02:00"
  }
 ]
