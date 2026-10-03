@@ -3518,14 +3518,15 @@
   "game": "7.9 Drawing Contest",
   "name": "Draw-Off HUD",
   "kind": "ui-screen",
-  "status": "in-progress",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.0617,
   "count": 1,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "The eight paints are drawn paint swatches now (one drawing in each paint colour), and the chosen one wears the drawn cream ring instead of growing.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-03T20:41:40+02:00"
  },
  {
   "id": "screen-hud-sumo",
