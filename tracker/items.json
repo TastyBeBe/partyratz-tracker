@@ -5303,9 +5303,9 @@
   "count": 4,
   "baseline": false,
   "approved_at": null,
-  "note": "Redone the way your Pokeball opens: the lid is a full half-ball as round as the bottom, swung open on a hinge at the back so you look into it, the strap and buckle round the top of the open lid, the same gold, green and red. Two versions on the card, the second one recommended; shown on your backdrop as a mock. Not in the game until you say yes.",
+  "note": "Your two versions, as you asked: A drawn from the closed ball only (the lid now the exact same half-ball as the bottom, but the words came back in a new font), B drawn with the open balls (hinged and the hand lettering kept, the lid fuller but still tipped towards you). Not in the game until you pick.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-03T13:32:48+02:00"
+  "updated_at": "2026-10-03T17:24:13+02:00"
  },
  {
   "id": "ss-ball-shards",
