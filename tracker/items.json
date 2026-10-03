@@ -5458,14 +5458,15 @@
   "game": "7.1 Split or Steal",
   "name": "SPLIT confetti (reused piñata paper scraps)",
   "kind": "effect",
-  "status": "todo",
+  "status": "awaiting",
   "weight": 3.464,
   "days": 0.2138,
   "count": 12,
   "baseline": false,
   "approved_at": null,
-  "note": "Uses the piñata scraps you rejected on 19 Sep; needs its own drawing.",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "Split or Steal now throws its own confetti on a SPLIT (green, gold and cream papers, two curls, two dots, a star, drawn beside its green burst) - no more piñata scraps.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-03T20:41:33+02:00"
  },
  {
   "id": "ss-pick-fill",
