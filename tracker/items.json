@@ -5317,14 +5317,15 @@
   "game": "7.1 Split or Steal",
   "name": "Ball shell shards",
   "kind": "effect",
-  "status": "awaiting",
+  "status": "removed",
   "weight": 2.0,
   "days": 0.1235,
   "count": 4,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "You said the reveal does not need any of the effects: \"we probably don't need any of that. Honestly, it doesn't look great.\" Removed from the game.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-03T23:58:04+02:00"
  },
  {
   "id": "ss-halo",
@@ -5398,14 +5399,15 @@
   "game": "7.1 Split or Steal",
   "name": "SPLIT green burst",
   "kind": "effect",
-  "status": "unchecked",
+  "status": "removed",
   "weight": 1.0,
   "days": 0.0617,
   "count": 1,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "You said the reveal does not need any of the effects: \"we probably don't need any of that. Honestly, it doesn't look great.\" Removed from the game.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-03T23:58:03+02:00"
  },
  {
   "id": "ss-burst-steal",
@@ -5414,14 +5416,15 @@
   "game": "7.1 Split or Steal",
   "name": "STEAL red burst",
   "kind": "effect",
-  "status": "unchecked",
+  "status": "removed",
   "weight": 1.0,
   "days": 0.0617,
   "count": 1,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "You said the reveal does not need any of the effects: \"we probably don't need any of that. Honestly, it doesn't look great.\" Removed from the game.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-03T23:58:04+02:00"
  },
  {
   "id": "ss-wisps",
@@ -5430,14 +5433,15 @@
   "game": "7.1 Split or Steal",
   "name": "Smoke wisps (two)",
   "kind": "effect",
-  "status": "awaiting",
+  "status": "removed",
   "weight": 1.414,
   "days": 0.0873,
   "count": 2,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "You said the reveal does not need any of the effects: \"we probably don't need any of that. Honestly, it doesn't look great.\" Removed from the game.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-03T23:58:04+02:00"
  },
  {
   "id": "ss-sparkle",
@@ -5446,14 +5450,15 @@
   "game": "7.1 Split or Steal",
   "name": "Sparkle",
   "kind": "effect",
-  "status": "awaiting",
+  "status": "removed",
   "weight": 1.0,
   "days": 0.0617,
   "count": 1,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "You said the reveal does not need any of the effects: \"we probably don't need any of that. Honestly, it doesn't look great.\" Removed from the game.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-03T23:58:04+02:00"
  },
  {
   "id": "ss-confetti",
