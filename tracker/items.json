@@ -5297,15 +5297,15 @@
   "game": "7.1 Split or Steal",
   "name": "Black-and-gold ball: sealed, SPLIT/STEAL open bases, lid",
   "kind": "sprite",
-  "status": "in-progress",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.0617,
   "count": 4,
   "baseline": false,
   "approved_at": null,
-  "note": "You said: the wider lids now feel flatter, squished out compared to the bottom half, and they sit too far back behind the ball; open them the way a Pokeball opens (only how its parts sit, no beam). The next session does this first.",
+  "note": "Redone the way your Pokeball opens: the lid is a full half-ball as round as the bottom, swung open on a hinge at the back so you look into it, the strap and buckle round the top of the open lid, the same gold, green and red. Two versions on the card, the second one recommended; shown on your backdrop as a mock. Not in the game until you say yes.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-03T13:09:56+02:00"
+  "updated_at": "2026-10-03T13:32:48+02:00"
  },
  {
   "id": "ss-ball-shards",
