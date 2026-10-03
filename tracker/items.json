@@ -3694,14 +3694,15 @@
   "game": "7.20 Balloon Ascent",
   "name": "Balloon Ascent HUD",
   "kind": "ui-screen",
-  "status": "in-progress",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.0617,
   "count": 1,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "The height rail, its rungs and the riders are drawn now - each rider is her own party hat in her colour; the off-screen markers are the hat plus a drawn pointer.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-03T20:41:37+02:00"
  },
  {
   "id": "screen-hud-laser-limbo",
