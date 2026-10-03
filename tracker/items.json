@@ -9557,5 +9557,37 @@
   "note": "Your idea: like the old fighting games - you on the left, your opponent on the right, VS at the top, the rats closing their fists and showing they're going to beat the other one.",
   "added_at": "2026-10-03T23:43:51+02:00",
   "updated_at": "2026-10-03T23:43:51+02:00"
+ },
+ {
+  "id": "lobby-pick-on-join",
+  "cat": "mechanics",
+  "group": "Core: lobby",
+  "name": "Pick your rat every time you join a lobby (a taken rat can't be picked)",
+  "kind": "task",
+  "status": "todo",
+  "weight": 1.0,
+  "days": 0.2217,
+  "count": null,
+  "baseline": false,
+  "approved_at": null,
+  "note": "Your answer: every time you join a lobby you pick your rat, unless it's taken - then one that isn't.",
+  "added_at": "2026-10-03T23:47:06+02:00",
+  "updated_at": "2026-10-03T23:47:06+02:00"
+ },
+ {
+  "id": "transport-27",
+  "cat": "mechanics",
+  "group": "Core: networking",
+  "name": "Update Unity Transport to 2.7 (fixes two Relay + DTLS bugs)",
+  "kind": "task",
+  "status": "todo",
+  "weight": 1.0,
+  "days": 0.2217,
+  "count": null,
+  "baseline": false,
+  "approved_at": null,
+  "note": "Your yes: update it if it doesn't break anything or if it's better - parties tested again after.",
+  "added_at": "2026-10-03T23:47:06+02:00",
+  "updated_at": "2026-10-03T23:47:06+02:00"
  }
 ]
