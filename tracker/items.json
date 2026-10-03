@@ -5306,9 +5306,9 @@
   "count": 4,
   "baseline": false,
   "approved_at": null,
-  "note": "Your pick B, with only its line fixed: each ball redrawn bigger in its own picture (your shapes, lids and lettering kept), so the line in the game is now about a quarter heavier than the halo and horns instead of thinner. In the game now - see the report for how to reach it.",
+  "note": "You said: use the new option B, but the open balls still don't feel great - a couple more tries for one consistent set (the open balls matching our closed ball, or the closed ball redrawn from B's open balls). If you don't like those, B as it is now stays.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-03T20:41:31+02:00"
+  "updated_at": "2026-10-03T23:43:51+02:00"
  },
  {
   "id": "ss-ball-shards",
@@ -5365,14 +5365,15 @@
   "game": "7.1 Split or Steal",
   "name": "Dove, three wing poses",
   "kind": "effect",
-  "status": "awaiting",
+  "status": "removed",
   "weight": 1.732,
   "days": 0.1069,
   "count": 3,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "You said the reveal doesn't need the doves or the confetti - they don't look great.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-03T23:43:43+02:00"
  },
  {
   "id": "ss-crowd",
@@ -5461,15 +5462,15 @@
   "game": "7.1 Split or Steal",
   "name": "SPLIT confetti (reused piñata paper scraps)",
   "kind": "effect",
-  "status": "awaiting",
+  "status": "removed",
   "weight": 3.464,
   "days": 0.2138,
   "count": 12,
   "baseline": false,
   "approved_at": null,
-  "note": "Split or Steal now throws its own confetti on a SPLIT (green, gold and cream papers, two curls, two dots, a star, drawn beside its green burst) - no more piñata scraps.",
+  "note": "You said the reveal doesn't need the doves or the confetti - they don't look great.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-03T20:41:33+02:00"
+  "updated_at": "2026-10-03T23:43:43+02:00"
  },
  {
   "id": "ss-pick-fill",
@@ -9514,14 +9515,47 @@
   "group": "Lobby",
   "name": "The lobby in the first animation's look (SKETCH, a test)",
   "kind": "task",
-  "status": "awaiting",
+  "status": "removed",
   "weight": 1.0,
   "days": 0.0813,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "You asked to try the first animation's look on the whole lobby: every drawing re-inked (a fine line, soft fills, hatched shadows), baked into switchable copies - your drawings untouched, nothing moves. Off by default: main menu, DEV, SKETCH.",
+  "note": "You said: forget the sketch look, remove it completely.",
   "added_at": "2026-10-03T20:41:44+02:00",
-  "updated_at": "2026-10-03T20:41:44+02:00"
+  "updated_at": "2026-10-03T23:43:43+02:00"
+ },
+ {
+  "id": "ss-pick-open-balls",
+  "cat": "mechanics",
+  "group": "7.1 Split or Steal",
+  "game": "7.1 Split or Steal",
+  "name": "Pick from the two OPEN balls, they close, the screen blacks out, both balls come back and open in turn",
+  "kind": "task",
+  "status": "todo",
+  "weight": 1.0,
+  "days": 0.2217,
+  "count": null,
+  "baseline": false,
+  "approved_at": null,
+  "note": "Your flow: you see who you face, the two open balls are in front of you, you tap one, the balls close, a black-out, then your ball and theirs appear and open one after the other.",
+  "added_at": "2026-10-03T23:43:51+02:00",
+  "updated_at": "2026-10-03T23:43:51+02:00"
+ },
+ {
+  "id": "vs-screen",
+  "cat": "mechanics",
+  "group": "Core: game flow",
+  "name": "Versus screen before every game (you left, opponent right, VS on top, the rats taunting)",
+  "kind": "task",
+  "status": "todo",
+  "weight": 1.0,
+  "days": 0.2217,
+  "count": null,
+  "baseline": false,
+  "approved_at": null,
+  "note": "Your idea: like the old fighting games - you on the left, your opponent on the right, VS at the top, the rats closing their fists and showing they're going to beat the other one.",
+  "added_at": "2026-10-03T23:43:51+02:00",
+  "updated_at": "2026-10-03T23:43:51+02:00"
  }
 ]
