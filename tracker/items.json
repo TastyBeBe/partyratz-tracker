@@ -4507,14 +4507,15 @@
   "group": "Core: selection",
   "name": "Perfect Circle is still votable and drawn into tournaments",
   "kind": "system",
-  "status": "todo",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.1852,
   "count": 1,
   "baseline": false,
   "approved_at": null,
-  "note": "Take the removed Perfect Circle out of the vote and the tournaments.",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "Done as you ruled: Perfect Circle is never offered in a vote or drawn into a tournament any more.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-04T18:56:15+02:00"
  },
  {
   "id": "cutout-summoning-circle",
