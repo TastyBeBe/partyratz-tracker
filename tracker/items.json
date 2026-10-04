@@ -4174,14 +4174,15 @@
   "game": "7.4 Surfing Rats",
   "name": "Surfing Rats",
   "kind": "mechanic",
-  "status": "approved",
+  "status": "awaiting",
   "weight": 1.0,
-  "days": 0.0,
+  "days": 0.2172,
   "count": 1,
-  "baseline": true,
-  "approved_at": "2026-08-13",
+  "baseline": false,
+  "approved_at": null,
   "note": "Works; what is open about it is listed as its own item.",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-04T23:04:22+02:00"
  },
  {
   "id": "mg-cheese-basketball",
