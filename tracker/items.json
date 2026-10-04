@@ -4174,15 +4174,15 @@
   "game": "7.4 Surfing Rats",
   "name": "Surfing Rats",
   "kind": "mechanic",
-  "status": "awaiting",
+  "status": "todo",
   "weight": 1.0,
   "days": 0.2172,
   "count": 1,
   "baseline": false,
   "approved_at": null,
-  "note": "You asked to redo it from scratch: new physics (hold to dive down a wave, let go to fly), everyone together and see-through, wave runs with curling lips and white-water gaps, bigger rats on your pixel fish redrawn. First build waiting for your look.",
+  "note": "You said the remake broke it: bring back the old mechanics and hitboxes and fix them, no bumping into other rats and less see-through, rats 5% smaller, fish only loosely like the pixel ones and smaller, waves rebuilt so they truly connect, at the lobby's quality.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-04T23:04:26+02:00"
+  "updated_at": "2026-10-04T23:27:28+02:00"
  },
  {
   "id": "mg-cheese-basketball",
