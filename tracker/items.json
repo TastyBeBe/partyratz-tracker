@@ -768,15 +768,15 @@
   "game": "7.4 Surfing Rats",
   "name": "Surfing Rats rider pose",
   "kind": "character",
-  "status": "todo",
+  "status": "awaiting",
   "weight": 2.0,
   "days": 0.069,
   "count": 4,
   "baseline": false,
   "approved_at": null,
-  "note": "You said remove the new poses: these rats will be our side-scroller rats, not new drawings.",
+  "note": "Done as you said: the surfing drawings are gone; each rider is our side-scroller rat standing on her fish (and the fish are drawn whole again - they were squashed flat). Waiting for your look.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-04T21:09:10+02:00"
+  "updated_at": "2026-10-04T21:49:34+02:00"
  },
  {
   "id": "mg-ninja",
