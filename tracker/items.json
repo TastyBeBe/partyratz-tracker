@@ -817,15 +817,15 @@
   "game": "7.22 Quick Draw",
   "name": "Quick Draw rats",
   "kind": "character",
-  "status": "todo",
+  "status": "awaiting",
   "weight": 2.0,
   "days": 0.069,
   "count": 4,
   "baseline": false,
   "approved_at": null,
-  "note": "You said remove the new poses: these rats will be our side-scroller rats, not new drawings.",
+  "note": "Done as you said: the duel drawings are gone; the duellists are our side-scroller rats facing each other, the revolver in the front paw. Waiting for your look.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-04T21:09:10+02:00"
+  "updated_at": "2026-10-04T21:49:36+02:00"
  },
  {
   "id": "mg-balloon-ascent",
