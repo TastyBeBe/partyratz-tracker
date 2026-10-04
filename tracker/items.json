@@ -5340,8 +5340,9 @@
   "count": 1,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "The halo now floats over the rat's party hat when her ball says SPLIT; four looks to pick from: the halo alone, or with a drawn golden glow, golden rays, or a glow with rays.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-04T11:05:36+02:00"
  },
  {
   "id": "ss-horn",
