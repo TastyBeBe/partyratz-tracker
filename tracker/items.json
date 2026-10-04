@@ -768,15 +768,15 @@
   "game": "7.4 Surfing Rats",
   "name": "Surfing Rats rider pose",
   "kind": "character",
-  "status": "awaiting",
+  "status": "todo",
   "weight": 2.0,
   "days": 0.069,
   "count": 4,
   "baseline": false,
   "approved_at": null,
-  "note": "New for you to look at: each rat surfing - side-on, knees bent, arms out - drawn small with the bold line so it matches the game. You'd parked this on 21 Sept; your later 'all the games need real assets' brought it back.",
+  "note": "You said remove the new poses: these rats will be our side-scroller rats, not new drawings.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-04T19:07:18+02:00"
+  "updated_at": "2026-10-04T21:09:10+02:00"
  },
  {
   "id": "mg-ninja",
@@ -817,15 +817,15 @@
   "game": "7.22 Quick Draw",
   "name": "Quick Draw rats",
   "kind": "character",
-  "status": "awaiting",
+  "status": "todo",
   "weight": 2.0,
   "days": 0.069,
   "count": 4,
   "baseline": false,
   "approved_at": null,
-  "note": "New for you to look at: each rat in a duel stance, side-on, gun arm forward where the revolver sits, drawn with the bold line so it matches the game. The rat on the right is the same drawing flipped.",
+  "note": "You said remove the new poses: these rats will be our side-scroller rats, not new drawings.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-04T19:19:56+02:00"
+  "updated_at": "2026-10-04T21:09:10+02:00"
  },
  {
   "id": "mg-balloon-ascent",
@@ -834,15 +834,15 @@
   "game": "7.20 Balloon Ascent",
   "name": "Balloon Ascent hanging rats",
   "kind": "character",
-  "status": "awaiting",
+  "status": "todo",
   "weight": 2.0,
   "days": 0.069,
   "count": 4,
   "baseline": false,
   "approved_at": null,
-  "note": "New drawings for you to look at: each rat hanging with both arms up, paws on the string, legs dangling, drawn small with a bold line so it matches the game. They tilt along the string as they swing.",
+  "note": "You said remove the new poses: these rats will be our side-scroller rats, not new drawings.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-04T18:51:17+02:00"
+  "updated_at": "2026-10-04T21:09:09+02:00"
  },
  {
   "id": "mg-score-podium",
@@ -7656,15 +7656,15 @@
   "game": "7.20 Balloon Ascent",
   "name": "Bird hazard",
   "kind": "sprite",
-  "status": "in-progress",
+  "status": "todo",
   "weight": 1.0,
   "days": 0.0617,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "A first board of the four obstacles (bird, kite, storm cloud, clothesline) is waiting for your pick of the style; then each is drawn on its own at the size the game needs.",
+  "note": "Later, as you said.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-04T18:51:17+02:00"
+  "updated_at": "2026-10-04T21:09:10+02:00"
  },
  {
   "id": "ba-kite",
@@ -7673,15 +7673,15 @@
   "game": "7.20 Balloon Ascent",
   "name": "Kite hazard",
   "kind": "sprite",
-  "status": "in-progress",
+  "status": "todo",
   "weight": 1.0,
   "days": 0.0617,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "On the obstacles board waiting for your pick of the style.",
+  "note": "Later, as you said.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-04T18:51:17+02:00"
+  "updated_at": "2026-10-04T21:09:10+02:00"
  },
  {
   "id": "ba-grumpy-cloud",
@@ -7690,15 +7690,15 @@
   "game": "7.20 Balloon Ascent",
   "name": "Grumpy cloud hazard",
   "kind": "sprite",
-  "status": "in-progress",
+  "status": "todo",
   "weight": 1.0,
   "days": 0.0617,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "On the obstacles board waiting for your pick of the style.",
+  "note": "Later, as you said.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-04T18:51:17+02:00"
+  "updated_at": "2026-10-04T21:09:10+02:00"
  },
  {
   "id": "ba-clothesline",
@@ -7707,15 +7707,15 @@
   "game": "7.20 Balloon Ascent",
   "name": "Clothesline hazard",
   "kind": "sprite",
-  "status": "in-progress",
+  "status": "todo",
   "weight": 1.0,
   "days": 0.0617,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "On the obstacles board waiting for your pick of the style.",
+  "note": "Later, as you said.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-04T18:51:17+02:00"
+  "updated_at": "2026-10-04T21:09:10+02:00"
  },
  {
   "id": "ba-height-meter",
@@ -9316,9 +9316,9 @@
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "Your picks are in: the balls fly up, then the drop, and the background fades in while it turns. You disliked all three shakes, so there are two new ones for you to pick from: A, the same jolt the balls do when they close; B, the Pokemon GO catch, three smooth rocking shakes. Your opponent's face no longer shakes, only the word PICKED does.",
+  "note": "Your pick: shake A - but only ONE shake when the ball opens (there are two now), and the PICKED word's jolt a little smaller. Being changed next session.",
   "added_at": "2026-09-30T17:05:49+02:00",
-  "updated_at": "2026-10-04T18:22:44+02:00"
+  "updated_at": "2026-10-04T21:09:09+02:00"
  },
  {
   "id": "mechanics-core-meta-replaced-pixel-art-deleted-from-the-game",
