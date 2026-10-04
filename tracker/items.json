@@ -5876,14 +5876,15 @@
   "game": "7.4 Surfing Rats",
   "name": "The four ridden fish (koi, tang, swordfish, pufferfish)",
   "kind": "sprite",
-  "status": "unchecked",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.0617,
   "count": 4,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "Redrawn from your pixel fish (red carp, gold koi, blue tang, green catfish, the X eye), bigger. Waiting for your pick.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-04T23:04:27+02:00"
  },
  {
   "id": "sr-flag",
