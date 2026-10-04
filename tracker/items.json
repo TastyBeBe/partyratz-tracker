@@ -9621,14 +9621,14 @@
   "group": "Lobby",
   "name": "A rider stays on when the rat under her only turns round",
   "kind": "task",
-  "status": "todo",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.2217,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "You asked: no fall when the rat underneath just switches the way she faces; a fall when she walks off.",
+  "note": "Fixed: a rat that only turns keeps her rider, every colour, 8 of 8 tries; a rat that walks on drops her rider, 8 of 8.",
   "added_at": "2026-10-04T09:46:32+02:00",
-  "updated_at": "2026-10-04T09:46:32+02:00"
+  "updated_at": "2026-10-04T11:05:41+02:00"
  }
 ]
