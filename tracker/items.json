@@ -9605,15 +9605,15 @@
   "game": "7.1 Split or Steal",
   "name": "Your rat's face and your opponent's instead of the YOU / THEM banners; fewer texts",
   "kind": "task",
-  "status": "todo",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.0808,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "You asked for the rats faces instead of the YOU and THEM text, and fewer texts everywhere.",
+  "note": "Done as you asked: your face and your opponent's beside the balls, your opponent's face over the balls you pick from, and the texts gone - only the points (+2, +4) stay, as a number under each face.",
   "added_at": "2026-10-04T09:46:32+02:00",
-  "updated_at": "2026-10-04T09:46:32+02:00"
+  "updated_at": "2026-10-04T11:05:38+02:00"
  },
  {
   "id": "mechanics-lobby-a-rider-stays-on-when-the-rat-under-her-only",
