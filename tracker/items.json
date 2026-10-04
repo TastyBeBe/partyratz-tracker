@@ -834,15 +834,15 @@
   "game": "7.20 Balloon Ascent",
   "name": "Balloon Ascent hanging rats",
   "kind": "character",
-  "status": "todo",
+  "status": "awaiting",
   "weight": 2.0,
   "days": 0.069,
   "count": 4,
   "baseline": false,
   "approved_at": null,
-  "note": "You said remove the new poses: these rats will be our side-scroller rats, not new drawings.",
+  "note": "Done as you said: the hanging drawings are gone; each rat is our side-scroller rat, hanging from her balloon by her party hat's pom-pom. Waiting for your look.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-04T21:09:09+02:00"
+  "updated_at": "2026-10-04T21:49:33+02:00"
  },
  {
   "id": "mg-score-podium",
