@@ -9298,15 +9298,15 @@
   "game": "7.1 Split or Steal",
   "name": "Split or Steal: pick one of your two balls, they close, the screen blacks out, then your ball and your opponent's open",
   "kind": "mechanic",
-  "status": "in-progress",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.1923,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "Your pick: number two, the drop - with the balls about ten percent larger, in the middle of the screen, and only the opening ball shaking (first one, then the other). Also to test: the picked balls flying up out of the screen instead of the cut to dark.",
+  "note": "Built as you asked: only the drop is left (the other three are deleted), the balls 10 percent larger and in the middle of the screen, and nothing but the balls shakes - your ball rattles and opens, then theirs. Two versions of the picked balls leaving for your pick: the cut to dark, or flying up out of the screen.",
   "added_at": "2026-09-30T17:05:49+02:00",
-  "updated_at": "2026-10-04T09:46:28+02:00"
+  "updated_at": "2026-10-04T11:05:27+02:00"
  },
  {
   "id": "mechanics-core-meta-replaced-pixel-art-deleted-from-the-game",
