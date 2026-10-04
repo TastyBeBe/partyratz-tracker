@@ -5350,14 +5350,15 @@
   "game": "7.1 Split or Steal",
   "name": "STEAL devil horn (mirrored pair)",
   "kind": "sprite",
-  "status": "awaiting",
+  "status": "in-progress",
   "weight": 1.0,
   "days": 0.0617,
   "count": 1,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "You are not sure about the horns: more horn versions to pick from, sitting on the rat, not floating; the halo floats over the rat.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-04T09:46:28+02:00"
  },
  {
   "id": "ss-dove",
@@ -9297,15 +9298,15 @@
   "game": "7.1 Split or Steal",
   "name": "Split or Steal: pick one of your two balls, they close, the screen blacks out, then your ball and your opponent's open",
   "kind": "mechanic",
-  "status": "awaiting",
+  "status": "in-progress",
   "weight": 1.0,
   "days": 0.1923,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "Built tonight: you tap an open ball, both close, the screen goes dark in one of four ways (curtain, drop, versus slide-in, blinds and roll) and your ball and theirs open in turn. Your pick of the four is open.",
+  "note": "Your pick: number two, the drop - with the balls about ten percent larger, in the middle of the screen, and only the opening ball shaking (first one, then the other). Also to test: the picked balls flying up out of the screen instead of the cut to dark.",
   "added_at": "2026-09-30T17:05:49+02:00",
-  "updated_at": "2026-10-04T01:00:33+02:00"
+  "updated_at": "2026-10-04T09:46:28+02:00"
  },
  {
   "id": "mechanics-core-meta-replaced-pixel-art-deleted-from-the-game",
@@ -9595,5 +9596,38 @@
   "note": "You said yes if it does not break anything. Updated to 2.7.4 (the newest 2.7, with bug fixes for phones losing their connection). Tested tonight: a real online party, a forced network drop that rebuilt the party by itself, leaving and starting a new party. Not tested yet: a second phone joining.",
   "added_at": "2026-10-03T23:47:06+02:00",
   "updated_at": "2026-10-04T01:14:39+02:00"
+ },
+ {
+  "id": "art-secondary-7-1-split-or-steal-your-rat-s-face-and-your-op",
+  "cat": "art-secondary",
+  "group": "7.1 Split or Steal",
+  "game": "7.1 Split or Steal",
+  "name": "Your rat's face and your opponent's instead of the YOU / THEM banners; fewer texts",
+  "kind": "task",
+  "status": "todo",
+  "weight": 1.0,
+  "days": 0.0808,
+  "count": null,
+  "baseline": false,
+  "approved_at": null,
+  "note": "You asked for the rats faces instead of the YOU and THEM text, and fewer texts everywhere.",
+  "added_at": "2026-10-04T09:46:32+02:00",
+  "updated_at": "2026-10-04T09:46:32+02:00"
+ },
+ {
+  "id": "mechanics-lobby-a-rider-stays-on-when-the-rat-under-her-only",
+  "cat": "mechanics",
+  "group": "Lobby",
+  "name": "A rider stays on when the rat under her only turns round",
+  "kind": "task",
+  "status": "todo",
+  "weight": 1.0,
+  "days": 0.2217,
+  "count": null,
+  "baseline": false,
+  "approved_at": null,
+  "note": "You asked: no fall when the rat underneath just switches the way she faces; a fall when she walks off.",
+  "added_at": "2026-10-04T09:46:32+02:00",
+  "updated_at": "2026-10-04T09:46:32+02:00"
  }
 ]
