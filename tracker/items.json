@@ -3395,9 +3395,9 @@
   "count": 1,
   "baseline": false,
   "approved_at": null,
-  "note": "No more code rectangles: the pick buttons are the drawn green (SPLIT) and pink (STEAL) plates with the halo and horns floating above them, YOU and THEM sit on the drawn ribbon, the payout on the drawn board.",
+  "note": "Re-done for your new layout: the open balls you pick from with your opponent's face above, and the reveal with both faces and the points. The app has both screens.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-03T20:41:35+02:00"
+  "updated_at": "2026-10-04T11:05:43+02:00"
  },
  {
   "id": "screen-hud-cutting-things",
