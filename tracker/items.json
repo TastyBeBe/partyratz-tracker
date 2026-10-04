@@ -5351,15 +5351,15 @@
   "game": "7.1 Split or Steal",
   "name": "STEAL devil horn (mirrored pair)",
   "kind": "sprite",
-  "status": "awaiting",
+  "status": "removed",
   "weight": 1.0,
   "days": 0.0617,
   "count": 1,
   "baseline": false,
   "approved_at": null,
-  "note": "The horns now sit ON top of her head, in front, as you asked. Six versions still to pick from.",
+  "note": "You said: \"the horns, we don't need the horns. The horns don't look good\" - removed from Split or Steal.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-04T11:51:55+02:00"
+  "updated_at": "2026-10-04T17:20:40+02:00"
  },
  {
   "id": "ss-dove",
