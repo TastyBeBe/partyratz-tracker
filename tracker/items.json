@@ -9545,9 +9545,9 @@
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "Built as you asked: you tap one of the two open balls, both close, then a handover and your ball and theirs open in turn. Four different handovers are in the video for your pick: curtain, drop, versus slide-in, blinds and roll.",
+  "note": "Your pick, the drop, is the only handover now (curtain, versus and blinds are deleted).",
   "added_at": "2026-10-03T23:43:51+02:00",
-  "updated_at": "2026-10-04T01:00:15+02:00"
+  "updated_at": "2026-10-04T11:05:29+02:00"
  },
  {
   "id": "vs-screen",
