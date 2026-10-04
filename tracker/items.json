@@ -5350,15 +5350,15 @@
   "game": "7.1 Split or Steal",
   "name": "STEAL devil horn (mirrored pair)",
   "kind": "sprite",
-  "status": "in-progress",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.0617,
   "count": 1,
   "baseline": false,
   "approved_at": null,
-  "note": "You are not sure about the horns: more horn versions to pick from, sitting on the rat, not floating; the halo floats over the rat.",
+  "note": "The horns now sit ON the rat's head (not over the ball): today's horn and five new pairs to pick from, in the game.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-04T09:46:28+02:00"
+  "updated_at": "2026-10-04T11:05:34+02:00"
  },
  {
   "id": "ss-dove",
