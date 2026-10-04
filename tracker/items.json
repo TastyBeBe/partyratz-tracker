@@ -768,14 +768,15 @@
   "game": "7.4 Surfing Rats",
   "name": "Surfing Rats rider pose",
   "kind": "character",
-  "status": "todo",
+  "status": "awaiting",
   "weight": 2.0,
   "days": 0.069,
   "count": 4,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "New for you to look at: each rat surfing - side-on, knees bent, arms out - drawn small with the bold line so it matches the game. You'd parked this on 21 Sept; your later 'all the games need real assets' brought it back.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-04T19:07:18+02:00"
  },
  {
   "id": "mg-ninja",
