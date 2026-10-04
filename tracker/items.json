@@ -5334,15 +5334,15 @@
   "game": "7.1 Split or Steal",
   "name": "SPLIT halo",
   "kind": "sprite",
-  "status": "awaiting",
+  "status": "removed",
   "weight": 1.0,
   "days": 0.0617,
   "count": 1,
   "baseline": false,
   "approved_at": null,
-  "note": "You changed your mind: \"I changed my mind about the horns and the halo ... leave the halo as like cosmetic for the rat\" - off the Split or Steal screen, kept as a future cosmetic.",
+  "note": "You said: \"I changed my mind about the horns and the halo ... leave the halo as like cosmetic for the rat\" - off Split or Steal; the drawing is kept for a future cosmetic (the game's cosmetics don't draw on the rats yet).",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-04T17:20:43+02:00"
+  "updated_at": "2026-10-04T18:22:44+02:00"
  },
  {
   "id": "ss-horn",
@@ -9305,9 +9305,9 @@
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "Your picks are in: the picked balls fly up, then the drop. New for you to look at: three shakes to pick from (rock, hops, knocks) and the background fading in while it turns (yesterday's slide is in the video too).",
+  "note": "Your picks are in: the balls fly up, then the drop, and the background fades in while it turns. You disliked all three shakes, so there are two new ones for you to pick from: A, the same jolt the balls do when they close; B, the Pokemon GO catch, three smooth rocking shakes. Your opponent's face no longer shakes, only the word PICKED does.",
   "added_at": "2026-09-30T17:05:49+02:00",
-  "updated_at": "2026-10-04T11:51:53+02:00"
+  "updated_at": "2026-10-04T18:22:44+02:00"
  },
  {
   "id": "mechanics-core-meta-replaced-pixel-art-deleted-from-the-game",
