@@ -3395,9 +3395,9 @@
   "count": 1,
   "baseline": false,
   "approved_at": null,
-  "note": "Re-done for your new layout: the open balls you pick from with your opponent's face above, and the reveal with both faces and the points. The app has both screens.",
+  "note": "Your opponent now sits in the top right with PICKING... then PICKED under her, the balls are centred, and the timer moved to the top left.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-04T11:05:43+02:00"
+  "updated_at": "2026-10-04T11:51:58+02:00"
  },
  {
   "id": "screen-hud-cutting-things",
