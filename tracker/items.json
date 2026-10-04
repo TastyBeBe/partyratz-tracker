@@ -832,14 +832,15 @@
   "game": "7.20 Balloon Ascent",
   "name": "Balloon Ascent hanging rats",
   "kind": "character",
-  "status": "todo",
+  "status": "awaiting",
   "weight": 2.0,
   "days": 0.069,
   "count": 4,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "New drawings for you to look at: each rat hanging with both arms up, paws on the string, legs dangling, drawn small with a bold line so it matches the game. They tilt along the string as they swing.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-04T18:51:17+02:00"
  },
  {
   "id": "mg-score-podium",
@@ -7553,14 +7554,15 @@
   "game": "7.20 Balloon Ascent",
   "name": "Player balloon (four seat colours)",
   "kind": "sprite",
-  "status": "pixel",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.0617,
   "count": 4,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "Your approved party balloons (the ones Popping Balloons uses) in the four rat colours, sized so their outline matches the game's; the string now hangs from the knot, in the drawings' dark ink.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-04T18:51:17+02:00"
  },
  {
   "id": "ba-cloud-band",
@@ -7569,14 +7571,15 @@
   "game": "7.20 Balloon Ascent",
   "name": "Parallax cloud band tile",
   "kind": "backdrop",
-  "status": "pixel",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.0617,
   "count": 1,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "The old painted pixel cloud tile is gone: the clouds are the lobby's approved evening clouds (with the rare cheese and party-hat ones), drifting in two layers up the whole climb.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-04T18:51:17+02:00"
  },
  {
   "id": "ba-sky",
@@ -7633,14 +7636,15 @@
   "game": "7.20 Balloon Ascent",
   "name": "Course side walls with altitude ticks",
   "kind": "backdrop",
-  "status": "todo",
+  "status": "in-progress",
   "weight": 1.0,
   "days": 0.0617,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "The walls are now the game's plum colour; the altitude ticks are still placeholders.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-04T18:51:17+02:00"
  },
  {
   "id": "ba-bird",
@@ -7649,14 +7653,15 @@
   "game": "7.20 Balloon Ascent",
   "name": "Bird hazard",
   "kind": "sprite",
-  "status": "todo",
+  "status": "in-progress",
   "weight": 1.0,
   "days": 0.0617,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "A first board of the four obstacles (bird, kite, storm cloud, clothesline) is waiting for your pick of the style; then each is drawn on its own at the size the game needs.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-04T18:51:17+02:00"
  },
  {
   "id": "ba-kite",
@@ -7665,14 +7670,15 @@
   "game": "7.20 Balloon Ascent",
   "name": "Kite hazard",
   "kind": "sprite",
-  "status": "todo",
+  "status": "in-progress",
   "weight": 1.0,
   "days": 0.0617,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "On the obstacles board waiting for your pick of the style.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-04T18:51:17+02:00"
  },
  {
   "id": "ba-grumpy-cloud",
@@ -7681,14 +7687,15 @@
   "game": "7.20 Balloon Ascent",
   "name": "Grumpy cloud hazard",
   "kind": "sprite",
-  "status": "todo",
+  "status": "in-progress",
   "weight": 1.0,
   "days": 0.0617,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "On the obstacles board waiting for your pick of the style.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-04T18:51:17+02:00"
  },
  {
   "id": "ba-clothesline",
@@ -7697,14 +7704,15 @@
   "game": "7.20 Balloon Ascent",
   "name": "Clothesline hazard",
   "kind": "sprite",
-  "status": "todo",
+  "status": "in-progress",
   "weight": 1.0,
   "days": 0.0617,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "On the obstacles board waiting for your pick of the style.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-04T18:51:17+02:00"
  },
  {
   "id": "ba-height-meter",
