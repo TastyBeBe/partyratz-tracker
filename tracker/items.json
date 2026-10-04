@@ -5926,14 +5926,15 @@
   "game": "7.4 Surfing Rats",
   "name": "Frozen Sea surface tile",
   "kind": "backdrop",
-  "status": "awaiting",
+  "status": "removed",
   "weight": 1.0,
   "days": 0.0617,
   "count": 1,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "Replaced in the remake: the waves are a strip along the wave top over open sea now.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-04T23:04:31+02:00"
  },
  {
   "id": "sr-disco-shore",
