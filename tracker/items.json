@@ -817,14 +817,15 @@
   "game": "7.22 Quick Draw",
   "name": "Quick Draw rats",
   "kind": "character",
-  "status": "todo",
+  "status": "awaiting",
   "weight": 2.0,
   "days": 0.069,
   "count": 4,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "New for you to look at: each rat in a duel stance, side-on, gun arm forward where the revolver sits, drawn with the bold line so it matches the game. The rat on the right is the same drawing flipped.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-04T19:19:56+02:00"
  },
  {
   "id": "mg-balloon-ascent",
