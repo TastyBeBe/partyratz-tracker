@@ -4174,15 +4174,15 @@
   "game": "7.4 Surfing Rats",
   "name": "Surfing Rats",
   "kind": "mechanic",
-  "status": "todo",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.2172,
   "count": 1,
   "baseline": false,
   "approved_at": null,
-  "note": "You said the remake broke it: bring back the old mechanics and hitboxes and fix them, no bumping into other rats and less see-through, rats 5% smaller, fish only loosely like the pixel ones and smaller, waves rebuilt so they truly connect, at the lobby's quality.",
+  "note": "Done as you asked: your old game is back (hold to surf, hold in the air to backflip, the same hitboxes and crashes), fixed, rats 5% smaller, nobody bumps into anyone, the others less see-through. New fish loosely after your pixel ones, the waves rebuilt so the top band runs into the curl and the white water. Played through the touch controls to the finish. Waiting for your look.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-04T23:27:28+02:00"
+  "updated_at": "2026-10-05T08:10:57+02:00"
  },
  {
   "id": "mg-cheese-basketball",
