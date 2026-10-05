@@ -5877,15 +5877,15 @@
   "game": "7.4 Surfing Rats",
   "name": "The four ridden fish (koi, tang, swordfish, pufferfish)",
   "kind": "sprite",
-  "status": "todo",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.0617,
   "count": 4,
   "baseline": false,
   "approved_at": null,
-  "note": "You said: only a general direction from the pixel fish, not exact copies, and smaller.",
+  "note": "Four new fish (red, gold, blue, green), each taking only a general direction from your pixel fish, smaller than last time (about the old board's length). Waiting for your look.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-04T23:27:31+02:00"
+  "updated_at": "2026-10-05T08:11:06+02:00"
  },
  {
   "id": "sr-flag",
