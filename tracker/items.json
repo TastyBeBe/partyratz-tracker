@@ -4174,15 +4174,15 @@
   "game": "7.4 Surfing Rats",
   "name": "Surfing Rats",
   "kind": "mechanic",
-  "status": "todo",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.2172,
   "count": 1,
   "baseline": false,
   "approved_at": null,
-  "note": "You said: way better, but the end of each wave still does not connect (the swirl, the bubbles in the gap, back to the track), the top black line is too thick, remove the stuff under the water, the track is too short and badly shaped, and the feel needs Rider's real speeds.",
+  "note": "Your current handling is preserved. Loop contact switches halves only at the top, and falling keeps that half. Rounded track tips and launch joins are repaired. Gameplay and generated-course checks passed, with a recorded demonstration ready for your look.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-05T09:24:52+02:00"
+  "updated_at": "2026-10-05T23:51:49+02:00"
  },
  {
   "id": "mg-cheese-basketball",
