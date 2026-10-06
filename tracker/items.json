@@ -9669,14 +9669,14 @@
   "group": "Red Rat concept test",
   "name": "Red Rat compact front-view redesign study",
   "kind": "character",
-  "status": "in-progress",
+  "status": "awaiting",
   "weight": 0.0,
   "days": 0.0,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "You requested three new comparisons: a closer robot-style match, the original game rat with only a cute dot-eye face, and a compact cute rat in the current game style. The compact version also needs matching separate parts and a whole-character walking test. The new batch has not been generated yet; the complete brief is saved for continuation.",
+  "note": "Your three static comparisons are ready: the compact robot-style study, the current tall rat with a cute dot-eye face, and the compact rat in the current game style. The separate parts and whole-character walk remain queued after your design review. Nothing has replaced the live game character.",
   "added_at": "2026-10-06T18:53:11+02:00",
-  "updated_at": "2026-10-06T22:30:02+02:00"
+  "updated_at": "2026-10-06T22:59:42+02:00"
  }
 ]
