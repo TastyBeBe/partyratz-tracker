@@ -9669,14 +9669,14 @@
   "group": "Red Rat concept test",
   "name": "Red Rat compact front-view redesign study",
   "kind": "character",
-  "status": "awaiting",
+  "status": "in-progress",
   "weight": 0.0,
   "days": 0.0,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "You preferred option two and requested more whiskers and a closer match to the robot style. The revision keeps that shape, adds three whiskers per cheek and uses brown contours with flatter colours. The comparison is ready for your review.",
+  "note": "You requested three new comparisons: a closer robot-style match, the original game rat with only a cute dot-eye face, and a compact cute rat in the current game style. The compact version also needs matching separate parts and a whole-character walking test. The new batch has not been generated yet; the complete brief is saved for continuation.",
   "added_at": "2026-10-06T18:53:11+02:00",
-  "updated_at": "2026-10-06T22:12:49+02:00"
+  "updated_at": "2026-10-06T22:30:02+02:00"
  }
 ]
