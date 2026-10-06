@@ -768,15 +768,15 @@
   "game": "7.4 Surfing Rats",
   "name": "Surfing Rats rider pose",
   "kind": "character",
-  "status": "awaiting",
+  "status": "in-progress",
   "weight": 2.0,
   "days": 0.069,
   "count": 4,
   "baseline": false,
   "approved_at": null,
-  "note": "Each rider is our side-scroller rat (5% smaller than last time) on one of the four new fish. Waiting for your look.",
+  "note": "You want the rats to balance and react to riding, with passive fish motion and no deliberate swimming. The new fish designs come first; rider animation is not implemented yet.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-05T08:10:59+02:00"
+  "updated_at": "2026-10-06T17:49:24+02:00"
  },
  {
   "id": "mg-ninja",
@@ -5877,15 +5877,15 @@
   "game": "7.4 Surfing Rats",
   "name": "The four ridden fish (koi, tang, swordfish, pufferfish)",
   "kind": "sprite",
-  "status": "todo",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.0617,
   "count": 4,
   "baseline": false,
   "approved_at": null,
-  "note": "You said: remake all four fish, the eyes first (not our style), and much smaller - just slightly wider than the rat standing on it.",
+  "note": "Four shorter dead fish are proposed for your review: orange carp for red, golden carp for yellow, blue tang for blue, olive catfish for green. Not installed. The older swordfish and pufferfish names are superseded by your actual original fish.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-05T09:24:57+02:00"
+  "updated_at": "2026-10-06T17:49:24+02:00"
  },
  {
   "id": "sr-flag",
@@ -9645,5 +9645,22 @@
   "note": "Fixed: a rat that only turns keeps her rider, every colour, 8 of 8 tries; a rat that walks on drops her rider, 8 of 8.",
   "added_at": "2026-10-04T09:46:32+02:00",
   "updated_at": "2026-10-04T11:05:41+02:00"
+ },
+ {
+  "id": "sr-random-courses",
+  "cat": "mechanics",
+  "group": "7.4 Surfing Rats",
+  "game": "7.4 Surfing Rats",
+  "name": "Fresh procedural courses on each new run",
+  "kind": "mechanic",
+  "status": "approved",
+  "weight": 1.0,
+  "days": 0.0,
+  "count": null,
+  "baseline": false,
+  "approved_at": "2026-10-06T17:49:24+02:00",
+  "note": "You said Great and moved on to the fish. Recorded as approval of fresh random courses, with fish art and riding motion still open.",
+  "added_at": "2026-10-06T17:49:24+02:00",
+  "updated_at": "2026-10-06T17:49:24+02:00"
  }
 ]
