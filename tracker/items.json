@@ -9662,5 +9662,21 @@
   "note": "You said Great and moved on to the fish. Recorded as approval of fresh random courses, with fish art and riding motion still open.",
   "added_at": "2026-10-06T17:49:24+02:00",
   "updated_at": "2026-10-06T17:49:24+02:00"
+ },
+ {
+  "id": "red-rat-compact-front-test",
+  "cat": "art-primary",
+  "group": "Red Rat concept test",
+  "name": "Red Rat compact front-view redesign study",
+  "kind": "character",
+  "status": "awaiting",
+  "weight": 0.0,
+  "days": 0.0,
+  "count": null,
+  "baseline": false,
+  "approved_at": null,
+  "note": "You asked for one new whole character using the current game features, simple cute eyes and the outlined robot style. The front view is ready for your review. The live game is unchanged.",
+  "added_at": "2026-10-06T18:53:11+02:00",
+  "updated_at": "2026-10-06T18:53:11+02:00"
  }
 ]
