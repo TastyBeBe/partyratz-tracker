@@ -9669,14 +9669,14 @@
   "group": "Red Rat concept test",
   "name": "Red Rat compact front-view redesign study",
   "kind": "character",
-  "status": "awaiting",
+  "status": "removed",
   "weight": 0.0,
   "days": 0.0,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "You rejected the compact walk, so this test uses the red rat already in the game and preserves her existing movement. The shoulder and hip joins were cleaned in Aseprite. The original frames are kept in the file, with matching before and after previews. This outline experiment is ready for your review; the game character has not been replaced.",
+  "note": "You said the result does not look very good and asked to forget the experiment. Closed without approval. The existing red rat and her game walk stay in use.",
   "added_at": "2026-10-06T18:53:11+02:00",
-  "updated_at": "2026-10-07T11:07:30+02:00"
+  "updated_at": "2026-10-07T11:28:50+02:00"
  }
 ]
