@@ -768,15 +768,15 @@
   "game": "7.4 Surfing Rats",
   "name": "Surfing Rats rider pose",
   "kind": "character",
-  "status": "awaiting",
+  "status": "approved",
   "weight": 2.0,
   "days": 0.069,
   "count": 4,
   "baseline": false,
-  "approved_at": null,
-  "note": "You preferred standing. All four rats now stand in the middle of their fish, with the thirty percent size increase retained. The lying pose was removed. Four driving recordings and thirty six loop and landing checks passed. Ready for your review.",
+  "approved_at": "2026-10-07T17:21:29+02:00",
+  "note": "You said all looks good. The four standing rats centred on the larger fish are approved.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-07T15:25:29+02:00"
+  "updated_at": "2026-10-07T17:21:29+02:00"
  },
  {
   "id": "mg-ninja",
