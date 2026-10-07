@@ -9716,5 +9716,22 @@
   "note": "Round 2: her knees bend by shortening the legs, the legs stay in a surfer's stance and only open on a hard landing, she tucks through loops, and in the air she keeps her body over the board.",
   "added_at": "2026-10-07T17:17:01+02:00",
   "updated_at": "2026-10-07T19:22:29+02:00"
+ },
+ {
+  "id": "sr-loop-top-rule",
+  "cat": "feel",
+  "group": "7.4 Surfing Rats",
+  "game": "7.4 Surfing Rats",
+  "name": "Surfing Rats — the loop rule: fall back before the top, onto the far side after it",
+  "kind": "task",
+  "status": "awaiting",
+  "weight": 1.0,
+  "days": 0.4545,
+  "count": null,
+  "baseline": false,
+  "approved_at": null,
+  "note": "You asked: until you reach the top centre of a loop, a fall lands you back on the part you came from; once you reach it, a fall lands you on the second part. Built and tested, touching or in the air.",
+  "added_at": "2026-10-07T19:22:36+02:00",
+  "updated_at": "2026-10-07T19:22:36+02:00"
  }
 ]
