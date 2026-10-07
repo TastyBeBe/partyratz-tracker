@@ -6046,8 +6046,9 @@
   "count": 1,
   "baseline": false,
   "approved_at": null,
-  "note": "Also the court for Sudden Death.",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "You liked the simple abstract background direction. The old night court is retired; the revised scene is a concept awaiting your review, not installed.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-07T17:50:50+02:00"
  },
  {
   "id": "cb-cracker",
@@ -6062,8 +6063,9 @@
   "count": 1,
   "baseline": false,
   "approved_at": null,
-  "note": "Also used in Sudden Death.",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "You asked for an edible cracker with no square or rectangle in the middle. The revised plain perforated cracker concept is awaiting your review.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-07T17:50:50+02:00"
  },
  {
   "id": "cb-hoop",
@@ -6078,8 +6080,9 @@
   "count": 2,
   "baseline": false,
   "approved_at": null,
-  "note": "Also used in Sudden Death.",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "A connected ring and diamond net are shown in the revised concept. Playable asset construction and net motion still follow your art review.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-07T17:50:50+02:00"
  },
  {
   "id": "cb-ball",
@@ -6094,8 +6097,9 @@
   "count": 1,
   "baseline": false,
   "approved_at": null,
-  "note": "Also used in Sudden Death.",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "You asked for a basketball made of cheese, with curved panel seams and holes. The revised concept uses the pixel original for identity and the lobby for style; awaiting your review.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-07T17:50:50+02:00"
  },
  {
   "id": "cb-mouth",
