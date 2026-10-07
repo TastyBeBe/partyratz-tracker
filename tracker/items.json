@@ -9690,15 +9690,15 @@
   "game": "7.4 Surfing Rats",
   "name": "Surfing Rats — the fish sliced into parts, moving while you ride",
   "kind": "task",
-  "status": "todo",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.4545,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "You asked for the fish to be sliced up and rebuilt with physics while riding, so they do not look completely stiff.",
+  "note": "Your four fish are now drawn in pieces (body, tail, fins, whiskers) redrawn whole by ChatGPT and fitted back onto your approved drawings; the tail, fins and whiskers swing on their own with every push, landing and jump. Video sent for your look.",
   "added_at": "2026-10-07T17:16:55+02:00",
-  "updated_at": "2026-10-07T17:16:55+02:00"
+  "updated_at": "2026-10-07T18:01:26+02:00"
  },
  {
   "id": "sr-rider-motion",
