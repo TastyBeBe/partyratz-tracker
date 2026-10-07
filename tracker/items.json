@@ -5877,15 +5877,15 @@
   "game": "7.4 Surfing Rats",
   "name": "The four ridden fish (koi, tang, swordfish, pufferfish)",
   "kind": "sprite",
-  "status": "awaiting",
+  "status": "approved",
   "weight": 1.0,
   "days": 0.0617,
   "count": 4,
   "baseline": false,
-  "approved_at": null,
-  "note": "You asked for about fifteen percent less width. Revised fish board 307 is fourteen to seventeen percent shorter at the same height, with thin X eyes retained. Ready for your review; previous drawings preserved.",
+  "approved_at": "2026-10-07T11:31:39+02:00",
+  "note": "You said these fish look way better and asked to add them to the game. All four fish from board 307 are approved: orange carp, golden carp, blue tang and olive catfish.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-07T11:06:59+02:00"
+  "updated_at": "2026-10-07T11:31:39+02:00"
  },
  {
   "id": "sr-flag",
