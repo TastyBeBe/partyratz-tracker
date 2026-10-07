@@ -768,15 +768,15 @@
   "game": "7.4 Surfing Rats",
   "name": "Surfing Rats rider pose",
   "kind": "character",
-  "status": "in-progress",
+  "status": "awaiting",
   "weight": 2.0,
   "days": 0.069,
   "count": 4,
   "baseline": false,
   "approved_at": null,
-  "note": "You want the rats to balance and react to riding, with passive fish motion and no deliberate swimming. The new fish designs come first; rider animation is not implemented yet.",
+  "note": "You asked for fish and rats thirty percent larger and a test of lying on the fish. All four now use the new size and belly-down pose, with a standing toggle. Four recorded drives and 144 loop and landing checks passed. Ready for your visual review; wider passive fish and water motion is still separate.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-06T17:49:24+02:00"
+  "updated_at": "2026-10-07T13:34:46+02:00"
  },
  {
   "id": "mg-ninja",
