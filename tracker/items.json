@@ -9707,14 +9707,14 @@
   "game": "7.4 Surfing Rats",
   "name": "Surfing Rats — the rats move with the fish while riding",
   "kind": "task",
-  "status": "todo",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.4545,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "You said the riders feel super glued with no motion; they should move while driving the fish.",
+  "note": "The riders are now the side-scroller rats' own moving rigs: they lean into speed, crouch on landings, throw their arms out in the air and their tails swing, with their feet kept on the fish. Video sent for your look.",
   "added_at": "2026-10-07T17:17:01+02:00",
-  "updated_at": "2026-10-07T17:17:01+02:00"
+  "updated_at": "2026-10-07T18:01:28+02:00"
  }
 ]
