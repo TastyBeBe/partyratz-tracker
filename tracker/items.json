@@ -9695,5 +9695,22 @@
   "note": "You asked for the fish to be sliced up and rebuilt with physics while riding, so they do not look completely stiff.",
   "added_at": "2026-10-07T17:16:55+02:00",
   "updated_at": "2026-10-07T17:16:55+02:00"
+ },
+ {
+  "id": "sr-rider-motion",
+  "cat": "feel",
+  "group": "7.4 Surfing Rats",
+  "game": "7.4 Surfing Rats",
+  "name": "Surfing Rats — the rats move with the fish while riding",
+  "kind": "task",
+  "status": "todo",
+  "weight": 1.0,
+  "days": 0.4545,
+  "count": null,
+  "baseline": false,
+  "approved_at": null,
+  "note": "You said the riders feel super glued with no motion; they should move while driving the fish.",
+  "added_at": "2026-10-07T17:17:01+02:00",
+  "updated_at": "2026-10-07T17:17:01+02:00"
  }
 ]
