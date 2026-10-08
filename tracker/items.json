@@ -6087,9 +6087,9 @@
   "count": 2,
   "baseline": false,
   "approved_at": null,
-  "note": "The selected cracker, separate front and rear rim, and drawn net are installed. The net stretches with the ball and settles back; the gameplay recording is ready for your review.",
+  "note": "You asked for the original ball and hoop proportions and correct net layering. The hoop size is corrected, rear cords stay behind the ball, and both net sides still deform. Tested baskets and misses in Unity, checked both modes, and updated the editor previews. Ready for your review.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-08T22:02:57+02:00"
+  "updated_at": "2026-10-08T22:52:54+02:00"
  },
  {
   "id": "cb-ball",
