@@ -9799,15 +9799,15 @@
   "game": "7.4 Surfing Rats",
   "name": "Surfing Rats — a Czech flag beside the finish flag",
   "kind": "sprite",
-  "status": "awaiting",
+  "status": "approved",
   "weight": 1.0,
   "days": 0.0811,
   "count": null,
   "baseline": false,
-  "approved_at": null,
-  "note": "You asked for a Czech flag beside it. Two are drawn for your pick, in the same style and line weight. Nothing is installed until you pick.",
+  "approved_at": "2026-10-08T21:56:44+02:00",
+  "note": "You said: I kind of like the Czech flag, so we should do the Czech flag ... I definitely prefer the option B two. Next: a waving animation for it.",
   "added_at": "2026-10-08T15:24:56+02:00",
-  "updated_at": "2026-10-08T19:25:46+02:00"
+  "updated_at": "2026-10-08T21:56:44+02:00"
  },
  {
   "id": "sr-dead-x-eyes",
