@@ -6053,9 +6053,9 @@
   "count": 1,
   "baseline": false,
   "approved_at": null,
-  "note": "Five new background shape versions are ready to compare with your chosen ball number nine. All move ten percent faster than the previous half-speed preview. Choose the shape family you prefer.",
+  "note": "You prefer flowing-puddle shapes with more variety and interaction. The new preview has mixed sizes, changing directions, merging and separating, at your chosen pace.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-08T17:23:15+02:00"
+  "updated_at": "2026-10-08T18:00:45+02:00"
  },
  {
   "id": "cb-cracker",
@@ -6098,15 +6098,15 @@
   "game": "7.5 Cheese Basketball",
   "name": "Cheese-wheel ball",
   "kind": "sprite",
-  "status": "approved",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.0617,
   "count": 1,
   "baseline": false,
-  "approved_at": "2026-10-08T17:14:44+02:00",
-  "note": "You chose number nine from the ten cheese ball colours. Bright gold is the selected ball artwork; installation follows the background review.",
+  "approved_at": null,
+  "note": "Colour nine is retained. The original continuous basketball seams are restored, with outlined-hole and plain-hole versions ready to compare.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-08T17:14:44+02:00"
+  "updated_at": "2026-10-08T18:00:45+02:00"
  },
  {
   "id": "cb-mouth",
@@ -9876,5 +9876,21 @@
   "note": "You chose a pace ten percent faster than half speed: fifty-five percent of the original speed.",
   "added_at": "2026-10-08T16:21:49+02:00",
   "updated_at": "2026-10-08T17:17:09+02:00"
+ },
+ {
+  "id": "lobby-cheese-cloud-holes",
+  "cat": "art-secondary",
+  "group": "Lobby",
+  "name": "Cheese cloud hole outline comparison",
+  "kind": "study",
+  "status": "awaiting",
+  "weight": 0.0,
+  "days": 0.0,
+  "count": null,
+  "baseline": false,
+  "approved_at": null,
+  "note": "You asked to compare the existing cheese cloud with a version that outlines the holes. The lobby itself is unchanged.",
+  "added_at": "2026-10-08T18:00:45+02:00",
+  "updated_at": "2026-10-08T18:00:45+02:00"
  }
 ]
