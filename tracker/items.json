@@ -6046,9 +6046,9 @@
   "count": 1,
   "baseline": false,
   "approved_at": null,
-  "note": "You preferred passing bubbles with more variety. A new thirty-six-second preview has six shapes passing across the whole background with different sizes, speeds and staggered timing. Awaiting your review.",
+  "note": "You approved the six blue background shapes separately. A new thirty-six-second moving preview shows them with the revised ball and cracker, with a clear Play button and direct video links. Animation review remains open.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-08T09:49:22+02:00"
+  "updated_at": "2026-10-08T12:40:38+02:00"
  },
  {
   "id": "cb-cracker",
@@ -6063,9 +6063,9 @@
   "count": 1,
   "baseline": false,
   "approved_at": null,
-  "note": "You asked for an edible cracker with no square or rectangle in the middle. The revised plain perforated cracker concept is awaiting your review.",
+  "note": "You asked for the lobby colour feel. A warmer toasted-gold cracker palette with the orange hoop mount is ready for your review.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-07T17:50:50+02:00"
+  "updated_at": "2026-10-08T12:40:38+02:00"
  },
  {
   "id": "cb-hoop",
@@ -6097,9 +6097,9 @@
   "count": 1,
   "baseline": false,
   "approved_at": null,
-  "note": "You asked for more ball designs matching the lobby. Six new numbered studies now sit beside the actual lobby balloon and trampoline, shown large and small. Your pick is still open; nothing installed.",
+  "note": "You chose ball two colours, drawing style and outlined round holes, with the earlier basketball seam pattern. That combined revision is ready for your review.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-08T09:49:22+02:00"
+  "updated_at": "2026-10-08T12:40:38+02:00"
  },
  {
   "id": "cb-mouth",
@@ -9764,9 +9764,9 @@
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "You asked for at least an extra second before the respawn: the wipeout now stays on screen 2.5 seconds instead of 1.5. Also fixed: a fish landing on its nose no longer skids along standing on it; it tips over, forward over its nose (a wipeout) or back onto its belly. Videos sent for your look.",
+  "note": "You asked for at least an extra second before the respawn: the wipeout now stays on screen 2.5 seconds instead of 1.5. Also fixed: a fish landing on its nose no longer skids along standing on it, it tips over; and falling into a gap you now bob in the foam where you can see it, with the camera on you (before, you sank off the bottom of the screen). Videos sent for your look.",
   "added_at": "2026-10-08T09:02:05+02:00",
-  "updated_at": "2026-10-08T10:39:24+02:00"
+  "updated_at": "2026-10-08T12:40:42+02:00"
  },
  {
   "id": "cb-background-shapes",
