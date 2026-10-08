@@ -4549,9 +4549,9 @@
   "count": 1,
   "baseline": false,
   "approved_at": null,
-  "note": "The intro now says Frozen Sea and how to surf.",
+  "note": "The intro card now just says how to surf: hold to surf, hold in the air to flip, release to land, and that a clean run takes about 40 seconds; the old map names are gone and the sea is called The Deep Blue.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-04T23:04:29+02:00"
+  "updated_at": "2026-10-08T12:43:38+02:00"
  },
  {
   "id": "bug-balloons-play-start",
