@@ -3489,14 +3489,15 @@
   "game": "7.7 Popping Balloons",
   "name": "Balloon Pop HUD",
   "kind": "ui-screen",
-  "status": "in-progress",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.0617,
   "count": 1,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "New target banner and compact score row shown in the sky mockups. Offline review only; the live HUD is unchanged.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-08T23:36:15+02:00"
  },
  {
   "id": "screen-hud-tug-of-war",
@@ -6329,8 +6330,9 @@
   "count": 10,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "New lobby-style balloon study ready for your look, including a quieter black highlight. Offline concepts only; installation follows your choice.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-08T23:36:15+02:00"
  },
  {
   "id": "bp-sky",
@@ -6345,8 +6347,9 @@
   "count": 1,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "Two quiet blue sky concepts ready for your choice: corner clouds or flowing cloud bands. This replaces the old sunset brief.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-08T23:36:15+02:00"
  },
  {
   "id": "bp-fx",
@@ -6355,14 +6358,15 @@
   "game": "7.7 Popping Balloons",
   "name": "Pop burst, rubber shreds, puffs",
   "kind": "effect",
-  "status": "pixel",
+  "status": "awaiting",
   "weight": 1.732,
   "days": 0.1069,
   "count": 3,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "New rubber-piece pop motion shown in a concept video. It still needs your choice and integration into the game.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-08T23:36:15+02:00"
  },
  {
   "id": "bp-code-marks",
