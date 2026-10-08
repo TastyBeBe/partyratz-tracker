@@ -6098,15 +6098,15 @@
   "game": "7.5 Cheese Basketball",
   "name": "Cheese-wheel ball",
   "kind": "sprite",
-  "status": "awaiting",
+  "status": "approved",
   "weight": 1.0,
   "days": 0.0617,
   "count": 1,
   "baseline": false,
-  "approved_at": null,
-  "note": "You asked for ten colours between the bright and muted versions. Ten numbered studies are ready, with the earlier extremes and blue-background comparisons. Choose your number.",
+  "approved_at": "2026-10-08T17:14:44+02:00",
+  "note": "You chose number nine from the ten cheese ball colours. Bright gold is the selected ball artwork; installation follows the background review.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-08T16:28:59+02:00"
+  "updated_at": "2026-10-08T17:14:44+02:00"
  },
  {
   "id": "cb-mouth",
@@ -9872,9 +9872,9 @@
   "days": 0.0,
   "count": null,
   "baseline": false,
-  "approved_at": "2026-10-08T16:21:49+02:00",
-  "note": "You prefer the half-speed preview over normal speed, so half speed is the chosen pace.",
+  "approved_at": "2026-10-08T17:17:09+02:00",
+  "note": "You chose a pace ten percent faster than half speed: fifty-five percent of the original speed.",
   "added_at": "2026-10-08T16:21:49+02:00",
-  "updated_at": "2026-10-08T16:21:49+02:00"
+  "updated_at": "2026-10-08T17:17:09+02:00"
  }
 ]
