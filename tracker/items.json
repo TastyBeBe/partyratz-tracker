@@ -5894,15 +5894,15 @@
   "game": "7.4 Surfing Rats",
   "name": "Finish flag",
   "kind": "sprite",
-  "status": "todo",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.0617,
   "count": 1,
   "baseline": false,
   "approved_at": null,
-  "note": "You asked for a new finish flag that matches our art style and looks better.",
+  "note": "You asked for a finish flag in our art style. Three chequered flags are drawn for your pick, their outline the same weight as the rats' at the size the game shows them (today's flag's outline is about five times too thick). Nothing is installed until you pick.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-08T15:24:56+02:00"
+  "updated_at": "2026-10-08T19:25:44+02:00"
  },
  {
   "id": "sr-ice-shore",
