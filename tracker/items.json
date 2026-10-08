@@ -6053,9 +6053,9 @@
   "count": 1,
   "baseline": false,
   "approved_at": null,
-  "note": "You asked for a lava-lamp feel instead of stiff repeated shapes. A new forty-second preview has fluid blue shapes stretching, merging and separating across the screen. Ready for your review.",
+  "note": "Your half-speed pace is recorded separately as approved. The revised preview uses your older broad shapes with fluid contour changes, keeping them separate to avoid narrow two-bubble forms. Shape review remains open.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-08T15:20:42+02:00"
+  "updated_at": "2026-10-08T16:29:00+02:00"
  },
  {
   "id": "cb-cracker",
@@ -6104,9 +6104,9 @@
   "count": 1,
   "baseline": false,
   "approved_at": null,
-  "note": "You asked for a softer cheese yellow inspired by Adventure Time. The new colour study keeps the basketball seams and five outlined holes, with buttery yellow and muted ochre.",
+  "note": "You asked for ten colours between the bright and muted versions. Ten numbered studies are ready, with the earlier extremes and blue-background comparisons. Choose your number.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-08T15:20:42+02:00"
+  "updated_at": "2026-10-08T16:28:59+02:00"
  },
  {
   "id": "cb-mouth",
@@ -9859,5 +9859,22 @@
   "note": "You showed the gap: its walls end without outlines and the water line runs over them. To be fixed so it all joins up.",
   "added_at": "2026-10-08T15:24:56+02:00",
   "updated_at": "2026-10-08T15:24:56+02:00"
+ },
+ {
+  "id": "cb-background-pace",
+  "cat": "art-secondary",
+  "group": "7.5 Cheese Basketball",
+  "game": "7.5 Cheese Basketball",
+  "name": "Background motion pace",
+  "kind": "motion",
+  "status": "approved",
+  "weight": 0.0,
+  "days": 0.0,
+  "count": null,
+  "baseline": false,
+  "approved_at": "2026-10-08T16:21:49+02:00",
+  "note": "You prefer the half-speed preview over normal speed, so half speed is the chosen pace.",
+  "added_at": "2026-10-08T16:21:49+02:00",
+  "updated_at": "2026-10-08T16:21:49+02:00"
  }
 ]
