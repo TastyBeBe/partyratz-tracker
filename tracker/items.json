@@ -6064,15 +6064,15 @@
   "game": "7.5 Cheese Basketball",
   "name": "Cracker backboard",
   "kind": "sprite",
-  "status": "awaiting",
+  "status": "approved",
   "weight": 1.0,
   "days": 0.0617,
   "count": 1,
   "baseline": false,
-  "approved_at": null,
-  "note": "A keeps the small hole outlines. B removes them. Both are ready side by side for your choice; A remains in the game.",
+  "approved_at": "2026-10-08T21:47:21+02:00",
+  "note": "You chose the cracker without outlines around its small holes.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-08T19:21:50+02:00"
+  "updated_at": "2026-10-08T21:47:21+02:00"
  },
  {
   "id": "cb-hoop",
