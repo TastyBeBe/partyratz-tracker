@@ -5910,14 +5910,15 @@
   "game": "7.4 Surfing Rats",
   "name": "Frozen Sea far-shore strip",
   "kind": "backdrop",
-  "status": "awaiting",
+  "status": "removed",
   "weight": 1.0,
   "days": 0.0617,
   "count": 1,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "You said we keep only this one sea; the old Frozen Sea, Sea Disco and Sea Graveyard maps are gone from the game.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-08T15:24:38+02:00"
  },
  {
   "id": "sr-ice-surface",
@@ -5943,14 +5944,15 @@
   "game": "7.4 Surfing Rats",
   "name": "Sea Disco far-shore strip",
   "kind": "backdrop",
-  "status": "awaiting",
+  "status": "removed",
   "weight": 1.0,
   "days": 0.0617,
   "count": 1,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "You said we keep only this one sea; the old Frozen Sea, Sea Disco and Sea Graveyard maps are gone from the game.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-08T15:24:39+02:00"
  },
  {
   "id": "sr-disco-surface",
@@ -5959,14 +5961,15 @@
   "game": "7.4 Surfing Rats",
   "name": "Sea Disco water tile",
   "kind": "backdrop",
-  "status": "awaiting",
+  "status": "removed",
   "weight": 1.0,
   "days": 0.0617,
   "count": 1,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "You said we keep only this one sea; the old Frozen Sea, Sea Disco and Sea Graveyard maps are gone from the game.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-08T15:24:39+02:00"
  },
  {
   "id": "sr-grave-shore",
@@ -5975,14 +5978,15 @@
   "game": "7.4 Surfing Rats",
   "name": "Sea Graveyard far-shore strip",
   "kind": "backdrop",
-  "status": "unchecked",
+  "status": "removed",
   "weight": 1.0,
   "days": 0.0617,
   "count": 1,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "You said we keep only this one sea; the old Frozen Sea, Sea Disco and Sea Graveyard maps are gone from the game.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-08T15:24:39+02:00"
  },
  {
   "id": "sr-grave-surface",
@@ -5991,14 +5995,15 @@
   "game": "7.4 Surfing Rats",
   "name": "Sea Graveyard water tile",
   "kind": "backdrop",
-  "status": "unchecked",
+  "status": "removed",
   "weight": 1.0,
   "days": 0.0617,
   "count": 1,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "You said we keep only this one sea; the old Frozen Sea, Sea Disco and Sea Graveyard maps are gone from the game.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-08T15:24:39+02:00"
  },
  {
   "id": "sr-edge-arrows",
@@ -9764,9 +9769,9 @@
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "You asked for at least an extra second before the respawn: the wipeout now stays on screen 2.5 seconds instead of 1.5. Also fixed: a fish landing on its nose no longer skids along standing on it, it tips over; and falling into a gap you now bob in the foam where you can see it, with the camera on you (before, you sank off the bottom of the screen). Videos sent for your look.",
+  "note": "You said the wipeout feels way better and the floating in the gap looks great; you asked for more impact: she should bounce and fly off more and keep moving after the hit, and for X eyes like the fish instead of closed eyes. Being made next.",
   "added_at": "2026-10-08T09:02:05+02:00",
-  "updated_at": "2026-10-08T12:40:42+02:00"
+  "updated_at": "2026-10-08T15:24:39+02:00"
  },
  {
   "id": "cb-background-shapes",
