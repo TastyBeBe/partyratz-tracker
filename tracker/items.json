@@ -5901,9 +5901,9 @@
   "count": 1,
   "baseline": false,
   "approved_at": null,
-  "note": "You asked for a finish flag in our art style. Three chequered flags are drawn for your pick, their outline the same weight as the rats' at the size the game shows them (today's flag's outline is about five times too thick). Nothing is installed until you pick.",
+  "note": "You chose the Czech flag (B2b) for the finish; the chequered flags are dropped. It is in the game now and waving - see the Czech flag item.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-08T19:25:44+02:00"
+  "updated_at": "2026-10-08T23:42:19+02:00"
  },
  {
   "id": "sr-ice-shore",
@@ -9820,15 +9820,15 @@
   "game": "7.4 Surfing Rats",
   "name": "Surfing Rats — X eyes for a rat who wipes out",
   "kind": "sprite",
-  "status": "in-progress",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.0811,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "You said the red rat's X eyes are fine; the yellow rat's are fine but should sit slightly higher on her face; the blue rat's right X and the green rat's X's are too large - being redone smaller.",
+  "note": "All four rats now get X eyes when they wipe out. Red as you approved; yellow's X's moved higher on her face, blue's right X now the size of her left one, green's X's smaller and thinner, as you asked. Waiting for your look in the video.",
   "added_at": "2026-10-08T15:24:56+02:00",
-  "updated_at": "2026-10-08T21:56:46+02:00"
+  "updated_at": "2026-10-08T23:42:15+02:00"
  },
  {
   "id": "sr-track-variety",
@@ -9854,15 +9854,15 @@
   "game": "7.4 Surfing Rats",
   "name": "Surfing Rats — the gap's walls and water joined up properly",
   "kind": "task",
-  "status": "in-progress",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.4545,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "You said you can fall through the gap's walls, and the water and splash in it still look atrocious - next: solid walls, and ice spikes in the gap instead of the water, made to fit the game.",
+  "note": "You said you could fall through the gap's walls, especially on the sides. Both walls are solid now: the fish and the wipeout stop against them and drop into the water, never inside a wall (45 test drops at every gap: none ended inside; before the change nearly all did, and some fell right through under the course). The ice spikes you asked for instead of the water are next.",
   "added_at": "2026-10-08T15:24:56+02:00",
-  "updated_at": "2026-10-08T21:56:48+02:00"
+  "updated_at": "2026-10-08T23:42:15+02:00"
  },
  {
   "id": "cb-background-pace",
