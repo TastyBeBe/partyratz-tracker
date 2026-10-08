@@ -9892,5 +9892,22 @@
   "note": "You chose the existing cheese clouds without outlines around their holes.",
   "added_at": "2026-10-08T18:00:45+02:00",
   "updated_at": "2026-10-08T18:40:14+02:00"
+ },
+ {
+  "id": "sr-high-low-split",
+  "cat": "feel",
+  "group": "7.4 Surfing Rats",
+  "game": "7.4 Surfing Rats",
+  "name": "Surfing Rats — the high route further from its ramp",
+  "kind": "task",
+  "status": "awaiting",
+  "weight": 1.0,
+  "days": 0.4545,
+  "count": null,
+  "baseline": false,
+  "approved_at": null,
+  "note": "You asked: at a regular speed you always went up, because the high route sat too close to the hill before it. It now starts further from the ramp, a little differently on each course: at full speed you land on it, and slower you stay on the low road.",
+  "added_at": "2026-10-08T19:15:03+02:00",
+  "updated_at": "2026-10-08T19:15:03+02:00"
  }
 ]
