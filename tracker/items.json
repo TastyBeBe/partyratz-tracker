@@ -9754,9 +9754,9 @@
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "You asked: the spot where you jumped through the track (the high route's left end) is now solid from every side, and a fish you let go of brakes to a stop and stays parked; clicks outside the game and Option+Space no longer count as presses.",
+  "note": "You asked: the spot where you jumped through the track (the high route's left end) is solid from every side; a fish you let go of stops on flat water, and since your answer it slides down any slope steeper than about two degrees instead of parking on it; clicks outside the game and Option+Space no longer count as presses.",
   "added_at": "2026-10-08T07:21:54+02:00",
-  "updated_at": "2026-10-08T07:21:54+02:00"
+  "updated_at": "2026-10-08T17:59:27+02:00"
  },
  {
   "id": "sr-ragdoll-death",
