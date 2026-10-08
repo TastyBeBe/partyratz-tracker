@@ -9750,5 +9750,22 @@
   "note": "You asked: the spot where you jumped through the track (the high route's left end) is now solid from every side, and a fish you let go of brakes to a stop and stays parked; clicks outside the game and Option+Space no longer count as presses.",
   "added_at": "2026-10-08T07:21:54+02:00",
   "updated_at": "2026-10-08T07:21:54+02:00"
+ },
+ {
+  "id": "sr-ragdoll-death",
+  "cat": "feel",
+  "group": "7.4 Surfing Rats",
+  "game": "7.4 Surfing Rats",
+  "name": "Surfing Rats — only the rat touching the floor kills; ragdoll wipeout before the respawn",
+  "kind": "task",
+  "status": "awaiting",
+  "weight": 1.0,
+  "days": 0.4545,
+  "count": null,
+  "baseline": false,
+  "approved_at": null,
+  "note": "You asked: you only die when your rat touches the floor, never the fish, and you see a Happy-Wheels style ragdoll wipeout for about a second and a half before the respawn, harder when you hit harder.",
+  "added_at": "2026-10-08T09:02:05+02:00",
+  "updated_at": "2026-10-08T09:02:05+02:00"
  }
 ]
