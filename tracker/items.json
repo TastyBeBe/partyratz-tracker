@@ -9816,15 +9816,15 @@
   "game": "7.4 Surfing Rats",
   "name": "Surfing Rats — X eyes for a rat who wipes out",
   "kind": "sprite",
-  "status": "todo",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.0811,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "You asked: when a rat dies her eyes become X's like the fish's, with no eyelashes.",
+  "note": "You asked for X eyes like the fish's, no eyelashes. All four rats' faces are drawn with X eyes, everything else unchanged, for your look; after your yes they go into the wipeout and you see them in motion.",
   "added_at": "2026-10-08T15:24:56+02:00",
-  "updated_at": "2026-10-08T15:24:56+02:00"
+  "updated_at": "2026-10-08T19:25:48+02:00"
  },
  {
   "id": "sr-track-variety",
