@@ -9764,8 +9764,8 @@
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "You asked for at least an extra second before the respawn: the wipeout now stays on screen 2.5 s instead of 1.5 s (being built now).",
+  "note": "You asked for at least an extra second before the respawn: the wipeout now stays on screen 2.5 seconds instead of 1.5. Also fixed: a fish landing on its nose no longer skids along standing on it; it tips over, forward over its nose (a wipeout) or back onto its belly. Videos sent for your look.",
   "added_at": "2026-10-08T09:02:05+02:00",
-  "updated_at": "2026-10-08T09:12:07+02:00"
+  "updated_at": "2026-10-08T10:39:24+02:00"
  }
 ]
