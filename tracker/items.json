@@ -6047,15 +6047,15 @@
   "game": "7.5 Cheese Basketball",
   "name": "Night street-court backdrop",
   "kind": "backdrop",
-  "status": "awaiting",
+  "status": "approved",
   "weight": 1.0,
   "days": 0.0617,
   "count": 1,
   "baseline": false,
-  "approved_at": null,
-  "note": "You prefer flowing-puddle shapes with more variety and interaction. The new preview has mixed sizes, changing directions, merging and separating, at your chosen pace.",
+  "approved_at": "2026-10-08T18:40:14+02:00",
+  "note": "You approved the new interacting flowing puddles and asked to add them to the game.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-08T18:00:45+02:00"
+  "updated_at": "2026-10-08T18:40:14+02:00"
  },
  {
   "id": "cb-cracker",
@@ -6098,15 +6098,15 @@
   "game": "7.5 Cheese Basketball",
   "name": "Cheese-wheel ball",
   "kind": "sprite",
-  "status": "awaiting",
+  "status": "approved",
   "weight": 1.0,
   "days": 0.0617,
   "count": 1,
   "baseline": false,
-  "approved_at": null,
-  "note": "Colour nine is retained. The original continuous basketball seams are restored, with outlined-hole and plain-hole versions ready to compare.",
+  "approved_at": "2026-10-08T18:40:14+02:00",
+  "note": "You chose the repaired ball with plain cheese holes and asked to add it to the game.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-08T18:00:45+02:00"
+  "updated_at": "2026-10-08T18:40:14+02:00"
  },
  {
   "id": "cb-mouth",
@@ -9883,14 +9883,14 @@
   "group": "Lobby",
   "name": "Cheese cloud hole outline comparison",
   "kind": "study",
-  "status": "awaiting",
+  "status": "approved",
   "weight": 0.0,
   "days": 0.0,
   "count": null,
   "baseline": false,
-  "approved_at": null,
-  "note": "You asked to compare the existing cheese cloud with a version that outlines the holes. The lobby itself is unchanged.",
+  "approved_at": "2026-10-08T18:40:14+02:00",
+  "note": "You chose the existing cheese clouds without outlines around their holes.",
   "added_at": "2026-10-08T18:00:45+02:00",
-  "updated_at": "2026-10-08T18:00:45+02:00"
+  "updated_at": "2026-10-08T18:40:14+02:00"
  }
 ]
