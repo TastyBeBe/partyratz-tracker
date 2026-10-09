@@ -6331,9 +6331,9 @@
   "count": 10,
   "baseline": false,
   "approved_at": null,
-  "note": "Your original round lobby balloon shapes are now in Balloon Pop, ten percent wider, with the revised lobby colours. Tap areas and spacing grow with them. Tested in Unity and updated in both editor views. Ready for your review.",
+  "note": "The next preview keeps the round lobby shapes, replaces brown with brighter red, and uses normal blue from the lobby banner. Twenty slots are prepared instead of fifteen. This revision is offline while Claude uses Unity; the live palette and count have not changed yet.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-09T11:11:41+02:00"
+  "updated_at": "2026-10-09T12:47:53+02:00"
  },
  {
   "id": "bp-sky",
@@ -6365,9 +6365,9 @@
   "count": 3,
   "baseline": false,
   "approved_at": null,
-  "note": "The pop now tears the actual balloon image into retracting pieces. Normal and half-speed concept video ready; the separate generated scraps are out. Not installed yet.",
+  "note": "The source-image tear is shown again with the round lobby balloons, at normal and half speed. Pieces keep the original colour, highlight and outline. This is an offline animation preview and has not been installed.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-09T10:06:45+02:00"
+  "updated_at": "2026-10-09T12:47:54+02:00"
  },
  {
   "id": "bp-code-marks",
@@ -9948,5 +9948,22 @@
   "note": "You asked to bring back the old rounder lobby shape instead of the elongated drawing. The original lobby silhouette is now installed for review at ten percent greater gameplay width.",
   "added_at": "2026-10-09T10:06:45+02:00",
   "updated_at": "2026-10-09T11:12:14+02:00"
+ },
+ {
+  "id": "bp-warm-cloud-motion",
+  "cat": "art-secondary",
+  "group": "7.7 Popping Balloons",
+  "game": "7.7 Popping Balloons",
+  "name": "Warm evening cloud motion and two alternate shapes",
+  "kind": "visual",
+  "status": "awaiting",
+  "weight": 1.0,
+  "days": 0.0804,
+  "count": null,
+  "baseline": false,
+  "approved_at": null,
+  "note": "Your warm evening colour choice is recorded separately. Three motion previews are ready: your chosen composition, the rose side bank in warm colours, and flowing S-shaped clouds across the sky. Waiting for your look; Unity integration is pending while Claude records Surfing Rats.",
+  "added_at": "2026-10-09T12:48:06+02:00",
+  "updated_at": "2026-10-09T12:48:06+02:00"
  }
 ]
