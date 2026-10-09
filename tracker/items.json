@@ -6342,15 +6342,15 @@
   "game": "7.7 Popping Balloons",
   "name": "Sunset sky in flat bands",
   "kind": "backdrop",
-  "status": "awaiting",
+  "status": "approved",
   "weight": 1.0,
   "days": 0.0617,
   "count": 1,
   "baseline": false,
-  "approved_at": null,
-  "note": "Twelve evening sky options now have clearer blue, rose and peach colour while keeping the simple cloud shapes. These are previews for your choice, not yet installed.",
+  "approved_at": "2026-10-09T12:31:36+02:00",
+  "note": "You chose warm evening number three for its colours. Gentle cloud movement and two alternate shape previews are the next step.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-09T11:11:41+02:00"
+  "updated_at": "2026-10-09T12:31:36+02:00"
  },
  {
   "id": "bp-fx",
