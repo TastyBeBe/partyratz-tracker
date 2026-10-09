@@ -9821,15 +9821,15 @@
   "game": "7.4 Surfing Rats",
   "name": "Surfing Rats — X eyes for a rat who wipes out",
   "kind": "sprite",
-  "status": "awaiting",
+  "status": "approved",
   "weight": 1.0,
   "days": 0.0811,
   "count": null,
   "baseline": false,
-  "approved_at": null,
-  "note": "You asked to see the X's on the rats themselves: each rat's whole picture is now made with every X version on her real face (roll 1, the redo, and the two new ones), next to the red rat for comparison. Your pick next.",
+  "approved_at": "2026-10-09T16:38:24+02:00",
+  "note": "You said: the X's which are currently in the game ... the new ones you sent me, the ChatGPT X - that's what we should keep. The red rat's X's, redrawn alone by ChatGPT, are now the dead face of the yellow, blue and green rats (red keeps her own).",
   "added_at": "2026-10-08T15:24:56+02:00",
-  "updated_at": "2026-10-09T16:34:04+02:00"
+  "updated_at": "2026-10-09T16:38:24+02:00"
  },
  {
   "id": "sr-track-variety",
