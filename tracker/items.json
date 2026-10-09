@@ -6330,9 +6330,9 @@
   "count": 10,
   "baseline": false,
   "approved_at": null,
-  "note": "Eight revised colours plus proposed cyan and brown are ready. Black and white are removed from the proposed set. Colours await your choice before installation.",
+  "note": "You asked for a closer lobby match. All eight body and highlight colours now come directly from the actual lobby balloons. Green is corrected. Proposed turquoise and brown use the lobby heart and fence colours. Preview ready, not installed.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-09T10:06:45+02:00"
+  "updated_at": "2026-10-09T10:24:41+02:00"
  },
  {
   "id": "bp-sky",
@@ -6347,9 +6347,9 @@
   "count": 1,
   "baseline": false,
   "approved_at": null,
-  "note": "Twelve new quiet sky colour and shape choices are ready. The two previous skies were not selected.",
+  "note": "Twelve new simple cervanky evening skies are ready. Each has two or three subdued colours and the same balloons for comparison. Waiting for your preferred number.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-09T10:06:45+02:00"
+  "updated_at": "2026-10-09T10:24:41+02:00"
  },
  {
   "id": "bp-fx",
