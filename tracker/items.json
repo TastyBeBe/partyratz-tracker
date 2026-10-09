@@ -6089,9 +6089,9 @@
   "count": 2,
   "baseline": false,
   "approved_at": null,
-  "note": "You asked for the original ball and hoop proportions and correct net layering. The hoop size is corrected, rear cords stay behind the ball, and both net sides still deform. Tested baskets and misses in Unity, checked both modes, and updated the editor previews. Ready for your review.",
+  "note": "The cracker, mount, rim and net are twenty percent larger. The ball is twenty percent larger at the hoop while its starting size stays the same. The before and after video includes actual shots; net depth and deformation were tested in both modes. Ready for your review.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-08T22:52:54+02:00"
+  "updated_at": "2026-10-09T17:45:56+02:00"
  },
  {
   "id": "cb-ball",
@@ -6331,9 +6331,9 @@
   "count": 10,
   "baseline": false,
   "approved_at": null,
-  "note": "The next preview keeps the round lobby shapes, replaces brown with brighter red, and uses normal blue from the lobby banner. Twenty slots are prepared instead of fifteen. This revision is offline while Claude uses Unity; the live palette and count have not changed yet.",
+  "note": "Twenty round balloons now spawn across the full width rather than fixed lanes. Normal blue and bright red replace dark blue and brown; dark red stays. The live density and pop tests passed.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-09T12:47:53+02:00"
+  "updated_at": "2026-10-09T17:45:56+02:00"
  },
  {
   "id": "bp-sky",
@@ -6365,9 +6365,9 @@
   "count": 3,
   "baseline": false,
   "approved_at": null,
-  "note": "The source-image tear is shown again with the round lobby balloons, at normal and half speed. Pieces keep the original colour, highlight and outline. This is an offline animation preview and has not been installed.",
+  "note": "The balloon now tears into unequal pieces cut from its own drawing. They recoil quickly, tumble and fall. A real game video shows normal speed and a slower closeup. Ready for your review.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-09T12:47:54+02:00"
+  "updated_at": "2026-10-09T17:45:56+02:00"
  },
  {
   "id": "bp-code-marks",
@@ -9956,15 +9956,15 @@
   "game": "7.7 Popping Balloons",
   "name": "Warm evening cloud motion and two alternate shapes",
   "kind": "visual",
-  "status": "in-progress",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.0804,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "You like the flowing swirl drawings. Five different movement choices are being made from those same drawings for your review.",
+  "note": "Your chosen warm evening swirls now have five real game motion options: breeze, float, turn, ripple and mixed. The same balloon arrangement is held still only so you can compare the sky motion. Please pick your favourite.",
   "added_at": "2026-10-09T12:48:06+02:00",
-  "updated_at": "2026-10-09T16:29:51+02:00"
+  "updated_at": "2026-10-09T17:45:55+02:00"
  },
  {
   "id": "bp-swirl-shapes",
