@@ -5895,15 +5895,15 @@
   "game": "7.4 Surfing Rats",
   "name": "Finish flag",
   "kind": "sprite",
-  "status": "awaiting",
+  "status": "in-progress",
   "weight": 1.0,
   "days": 0.0617,
   "count": 1,
   "baseline": false,
   "approved_at": null,
-  "note": "You chose the Czech flag (B2b) for the finish; the chequered flags are dropped. It is in the game now and waving - see the Czech flag item.",
+  "note": "You weren't sure about the wave and saw an outline mismatch between the flag and the water. Next: the lines measured against the rats and fixed, and several wave versions for your pick.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-08T23:42:19+02:00"
+  "updated_at": "2026-10-09T10:00:32+02:00"
  },
  {
   "id": "sr-ice-shore",
@@ -9820,15 +9820,15 @@
   "game": "7.4 Surfing Rats",
   "name": "Surfing Rats — X eyes for a rat who wipes out",
   "kind": "sprite",
-  "status": "awaiting",
+  "status": "in-progress",
   "weight": 1.0,
   "days": 0.0811,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "All four rats now get X eyes when they wipe out. Red as you approved; yellow's X's moved higher on her face, blue's right X now the size of her left one, green's X's smaller and thinner, as you asked. Waiting for your look in the video.",
+  "note": "You said the X's differ too much between the rats. Next: the red rat's X's drawn alone and placed on every rat's eyes, so all four match; every X face made so far is kept for your pick.",
   "added_at": "2026-10-08T15:24:56+02:00",
-  "updated_at": "2026-10-08T23:42:15+02:00"
+  "updated_at": "2026-10-09T10:00:32+02:00"
  },
  {
   "id": "sr-track-variety",
@@ -9854,15 +9854,15 @@
   "game": "7.4 Surfing Rats",
   "name": "Surfing Rats — the gap's walls and water joined up properly",
   "kind": "task",
-  "status": "awaiting",
+  "status": "approved",
   "weight": 1.0,
   "days": 0.4545,
   "count": null,
   "baseline": false,
-  "approved_at": null,
-  "note": "You said you could fall through the gap's walls, especially on the sides. Both walls are solid now: the fish and the wipeout stop against them and drop into the water, never inside a wall (45 test drops at every gap: none ended inside; before the change nearly all did, and some fell right through under the course). The ice spikes you asked for instead of the water are next.",
+  "approved_at": "2026-10-09T10:00:16+02:00",
+  "note": "You said: the walls now seem to work, so that's great. The ice spikes you asked for instead of the gap's water are their own item.",
   "added_at": "2026-10-08T15:24:56+02:00",
-  "updated_at": "2026-10-08T23:42:15+02:00"
+  "updated_at": "2026-10-09T10:00:16+02:00"
  },
  {
   "id": "cb-background-pace",
@@ -9913,5 +9913,22 @@
   "note": "You asked: at a regular speed you always went up, because the high route sat too close to the hill before it. It now starts further from the ramp, a little differently on each course: at full speed you land on it, and slower you stay on the low road.",
   "added_at": "2026-10-08T19:15:03+02:00",
   "updated_at": "2026-10-08T19:15:03+02:00"
+ },
+ {
+  "id": "sr-gap-ice-spikes",
+  "cat": "art-secondary",
+  "group": "7.4 Surfing Rats",
+  "game": "7.4 Surfing Rats",
+  "name": "Surfing Rats — ice spikes in the gap instead of the water",
+  "kind": "task",
+  "status": "todo",
+  "weight": 1.0,
+  "days": 0.0804,
+  "count": null,
+  "baseline": false,
+  "approved_at": null,
+  "note": "You asked for ice spikes in the gap instead of the cold water, drawn so they don't look out of place.",
+  "added_at": "2026-10-09T10:00:32+02:00",
+  "updated_at": "2026-10-09T10:00:32+02:00"
  }
 ]
