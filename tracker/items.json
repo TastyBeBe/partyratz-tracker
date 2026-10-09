@@ -9965,5 +9965,39 @@
   "note": "You like the flowing swirl drawings. Five different movement choices are being made from those same drawings for your review.",
   "added_at": "2026-10-09T12:48:06+02:00",
   "updated_at": "2026-10-09T16:29:51+02:00"
+ },
+ {
+  "id": "bp-swirl-shapes",
+  "cat": "art-secondary",
+  "group": "7.7 Popping Balloons",
+  "game": "7.7 Popping Balloons",
+  "name": "Warm evening swirl drawings",
+  "kind": "task",
+  "status": "approved",
+  "weight": 1.0,
+  "days": 0.0804,
+  "count": null,
+  "baseline": false,
+  "approved_at": "2026-10-09T16:38:32+02:00",
+  "note": "You said you like the swirls very much. Five movement options remain separate and are awaiting your choice.",
+  "added_at": "2026-10-09T16:38:31+02:00",
+  "updated_at": "2026-10-09T16:38:32+02:00"
+ },
+ {
+  "id": "sr-sea-floor-hills",
+  "cat": "feel",
+  "group": "7.4 Surfing Rats",
+  "game": "7.4 Surfing Rats",
+  "name": "Surfing Rats — the sea floor follows the hills",
+  "kind": "task",
+  "status": "in-progress",
+  "weight": 1.0,
+  "days": 0.4545,
+  "count": null,
+  "baseline": false,
+  "approved_at": null,
+  "note": "You saw the ocean floor go flat under a hill, cutting the layers off. The fix is written (the floor now keeps the same depth under the water everywhere); next it is checked in the game and shown to you before and after.",
+  "added_at": "2026-10-09T16:39:00+02:00",
+  "updated_at": "2026-10-09T16:39:00+02:00"
  }
 ]
