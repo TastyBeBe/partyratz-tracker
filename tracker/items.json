@@ -5896,15 +5896,15 @@
   "game": "7.4 Surfing Rats",
   "name": "Finish flag",
   "kind": "sprite",
-  "status": "in-progress",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.0617,
   "count": 1,
   "baseline": false,
   "approved_at": null,
-  "note": "You weren't sure about the wave and saw an outline mismatch between the flag and the water. Next: the lines measured against the rats and fixed, and several wave versions for your pick.",
+  "note": "You asked whether the flag or the floor had the wrong outline: it was the floor. The flag's line is 1.1 times the rats' line, so it stays as drawn. The sea's top line was 2.6 times the rats' line; every line of the course is now thinned to match the rats. Four waves are filmed for your pick: A as it is now, B slower and bigger, C a quick small flutter, D two ripples. A stays until you choose.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-09T10:00:32+02:00"
+  "updated_at": "2026-10-09T13:12:22+02:00"
  },
  {
   "id": "sr-ice-shore",
