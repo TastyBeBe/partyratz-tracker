@@ -10016,5 +10016,22 @@
   "note": "You said the thinner track outline might be too thin now, and asked to make the outline on the track the same thickness as the sea floor's line, which you said is fine. Done: the track's outline now measures 0.99 of the sea floor's line in the game (it was 0.41), the sea floor's line is untouched, and the foam band's line keeps its usual share. A close-up with the red rat on her fish sent for your look.",
   "added_at": "2026-10-10T12:29:31+02:00",
   "updated_at": "2026-10-10T12:29:31+02:00"
+ },
+ {
+  "id": "sr-trick-bubble-words",
+  "cat": "feel",
+  "group": "7.4 Surfing Rats",
+  "game": "7.4 Surfing Rats",
+  "name": "Surfing Rats — bubble words that congratulate a double or triple flip",
+  "kind": "task",
+  "status": "todo",
+  "weight": 1.0,
+  "days": 0.4545,
+  "count": null,
+  "baseline": false,
+  "approved_at": null,
+  "note": "You asked for words that congratulate you after a flip, made of bubbles rather than sea foam, replacing the line at the top of the screen.",
+  "added_at": "2026-10-10T13:19:18+02:00",
+  "updated_at": "2026-10-10T13:19:18+02:00"
  }
 ]
