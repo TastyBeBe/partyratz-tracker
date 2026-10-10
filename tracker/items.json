@@ -9956,15 +9956,15 @@
   "game": "7.7 Popping Balloons",
   "name": "Warm evening cloud motion and two alternate shapes",
   "kind": "visual",
-  "status": "in-progress",
+  "status": "approved",
   "weight": 1.0,
   "days": 0.0804,
   "count": null,
   "baseline": false,
-  "approved_at": null,
-  "note": "You said the curling background is probably fine and good enough, as long as it never looks repetitive. That check is being made before it comes back to you.",
+  "approved_at": "2026-10-10T17:28:55+02:00",
+  "note": "You said the mathematical swirl background is good enough as long as it is not repetitive. It now starts at a different phase each round. Four separate three minute checks found no repeated shape sequence, and the gameplay recording moves throughout.",
   "added_at": "2026-10-09T12:48:06+02:00",
-  "updated_at": "2026-10-10T16:52:47+02:00"
+  "updated_at": "2026-10-10T17:28:55+02:00"
  },
  {
   "id": "bp-swirl-shapes",
