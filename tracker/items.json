@@ -9804,15 +9804,15 @@
   "game": "7.4 Surfing Rats",
   "name": "Surfing Rats — a Czech flag beside the finish flag",
   "kind": "sprite",
-  "status": "approved",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.0811,
   "count": null,
   "baseline": false,
-  "approved_at": "2026-10-08T21:56:44+02:00",
-  "note": "You said: I kind of like the Czech flag, so we should do the Czech flag ... I definitely prefer the option B two. Next: a waving animation for it.",
+  "approved_at": null,
+  "note": "You said (10 Oct): \"the flag itself should be ten percent smaller, but not the pole\" - done: the cloth hangs from the same spot, ten percent smaller, the pole and its ball as before. Waiting for your look.",
   "added_at": "2026-10-08T15:24:56+02:00",
-  "updated_at": "2026-10-08T21:56:44+02:00"
+  "updated_at": "2026-10-10T19:06:48+02:00"
  },
  {
   "id": "sr-dead-x-eyes",
