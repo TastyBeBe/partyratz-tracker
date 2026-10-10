@@ -6325,15 +6325,15 @@
   "game": "7.7 Popping Balloons",
   "name": "Ten Sunset-10 balloons",
   "kind": "sprite",
-  "status": "awaiting",
+  "status": "approved",
   "weight": 1.0,
   "days": 0.0617,
   "count": 10,
   "baseline": false,
-  "approved_at": null,
-  "note": "Twenty round balloons now spawn across the full width rather than fixed lanes. Normal blue and bright red replace dark blue and brown; dark red stays. The live density and pop tests passed.",
+  "approved_at": "2026-10-10T18:57:28+02:00",
+  "note": "You said (10 Oct): \"most of the stuff with GPT is approved. The balloon stuff, the balloon popping stuff, and the basketball stuff is approved.\"",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-09T17:45:56+02:00"
+  "updated_at": "2026-10-10T18:57:28+02:00"
  },
  {
   "id": "bp-sky",
