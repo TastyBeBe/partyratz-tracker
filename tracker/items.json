@@ -10033,5 +10033,22 @@
   "note": "You asked for words that congratulate you after a flip, made of bubbles rather than sea foam, replacing the line at the top of the screen.",
   "added_at": "2026-10-10T13:19:18+02:00",
   "updated_at": "2026-10-10T13:19:18+02:00"
+ },
+ {
+  "id": "sr-finish-dance",
+  "cat": "feel",
+  "group": "7.4 Surfing Rats",
+  "game": "7.4 Surfing Rats",
+  "name": "Surfing Rats — the rats dance after passing the finish flag",
+  "kind": "task",
+  "status": "todo",
+  "weight": 1.0,
+  "days": 0.4545,
+  "count": null,
+  "baseline": false,
+  "approved_at": null,
+  "note": "You said: after the rats drive past the flag there should be a celebration, probably a dance. For later.",
+  "added_at": "2026-10-10T13:19:20+02:00",
+  "updated_at": "2026-10-10T13:19:20+02:00"
  }
 ]
