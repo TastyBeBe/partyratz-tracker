@@ -4561,15 +4561,15 @@
   "game": "7.7 Popping Balloons",
   "name": "Popping Balloons throws an error the moment play starts",
   "kind": "bug",
-  "status": "awaiting",
+  "status": "approved",
   "weight": 1.5,
   "days": 0.2778,
   "count": 1,
   "baseline": false,
-  "approved_at": null,
-  "note": "Fixed the stale position cache when the fifteen balloon slots are created. The live run started without errors; correct and wrong tap checks passed. Ready for your confirmation.",
+  "approved_at": "2026-10-10T18:57:34+02:00",
+  "note": "You said (10 Oct): \"most of the stuff with GPT is approved. The balloon stuff, the balloon popping stuff, and the basketball stuff is approved.\"",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-09T11:11:41+02:00"
+  "updated_at": "2026-10-10T18:57:34+02:00"
  },
  {
   "id": "bug-quickdraw-intro",
