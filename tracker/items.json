@@ -6359,15 +6359,15 @@
   "game": "7.7 Popping Balloons",
   "name": "Pop burst, rubber shreds, puffs",
   "kind": "effect",
-  "status": "awaiting",
+  "status": "approved",
   "weight": 1.732,
   "days": 0.1069,
   "count": 3,
   "baseline": false,
-  "approved_at": null,
-  "note": "You asked for POP lettering like the lobby double jump. The same drawn letters and animation now accompany correct pops; normal and half-speed Unity proof ready for your review.",
+  "approved_at": "2026-10-10T18:57:33+02:00",
+  "note": "You said (10 Oct): \"most of the stuff with GPT is approved. The balloon stuff, the balloon popping stuff, and the basketball stuff is approved.\"",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-10T17:53:10+02:00"
+  "updated_at": "2026-10-10T18:57:33+02:00"
  },
  {
   "id": "bp-code-marks",
