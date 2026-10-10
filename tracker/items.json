@@ -10067,5 +10067,22 @@
   "note": "Rebuilt by ChatGPT on 5 Oct as one connected sea: wave bands with cream rims, round layered loops with the sea floor raised under them, and only bubbles left under the water. The sea floor and the gap walls are approved as their own items. Waiting for your yes on the sea and track as a whole.",
   "added_at": "2026-10-10T16:52:20+02:00",
   "updated_at": "2026-10-10T16:52:20+02:00"
+ },
+ {
+  "id": "cb-longer-rounds",
+  "cat": "mechanics",
+  "group": "7.5 Cheese Basketball",
+  "game": "7.5 Cheese Basketball",
+  "name": "Cheese Basketball — fifty percent more time to shoot each round",
+  "kind": "task",
+  "status": "in-progress",
+  "weight": 1.0,
+  "days": 0.2172,
+  "count": null,
+  "baseline": false,
+  "approved_at": null,
+  "note": "You said the time for shooting is too short and asked for each round to be fifty percent longer. Being built.",
+  "added_at": "2026-10-10T16:52:53+02:00",
+  "updated_at": "2026-10-10T16:52:53+02:00"
  }
 ]
