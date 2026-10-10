@@ -9838,15 +9838,15 @@
   "game": "7.4 Surfing Rats",
   "name": "Surfing Rats — more track variety (a huge hill for many flips, and more)",
   "kind": "task",
-  "status": "in-progress",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.4545,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "You said the big hill is fine. Next: the kicker hill gets small launch slopes all the way down its far side, the spine an extra launch slope on its far side, and a new very steep mountain that throws you high for many flips. Also next: the landing bounce that made the fish spin instead of drive.",
+  "note": "You asked for launch slopes on the kicker hill and the spine, and a new steep mountain. Built and filmed: the kicker hill now has two small kickers down its far side, about one second of air each - one flip on each at full speed (their run-ups were made longer after testing, so the second one now gives a flip every time); the spine has a new ramp after its landing (one flip); the new flip mountain throws you about two and a half seconds - three flips at full speed, and without a flip you crash. The big hill you liked is unchanged. Waiting for your look.",
   "added_at": "2026-10-08T15:24:56+02:00",
-  "updated_at": "2026-10-10T18:57:53+02:00"
+  "updated_at": "2026-10-10T23:21:40+02:00"
  },
  {
   "id": "sr-gap-visuals",
