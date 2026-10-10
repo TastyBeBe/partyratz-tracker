@@ -9956,15 +9956,15 @@
   "game": "7.7 Popping Balloons",
   "name": "Warm evening cloud motion and two alternate shapes",
   "kind": "visual",
-  "status": "awaiting",
+  "status": "in-progress",
   "weight": 1.0,
   "days": 0.0804,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "You asked for mathematical swirls. The warm evening ribbons now curl and change shape continuously. A twenty-four-second real game video is ready for your review.",
+  "note": "You said the curling background is probably fine and good enough, as long as it never looks repetitive. That check is being made before it comes back to you.",
   "added_at": "2026-10-09T12:48:06+02:00",
-  "updated_at": "2026-10-10T13:27:30+02:00"
+  "updated_at": "2026-10-10T16:52:47+02:00"
  },
  {
   "id": "bp-swirl-shapes",
