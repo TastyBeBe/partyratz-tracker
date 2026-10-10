@@ -10050,5 +10050,22 @@
   "note": "You said: after the rats drive past the flag there should be a celebration, probably a dance. For later.",
   "added_at": "2026-10-10T13:19:20+02:00",
   "updated_at": "2026-10-10T13:19:20+02:00"
+ },
+ {
+  "id": "sr-sea-and-track",
+  "cat": "art-secondary",
+  "group": "7.4 Surfing Rats",
+  "game": "7.4 Surfing Rats",
+  "name": "Surfing Rats — the sea and the track: wave bands, cream rims, round loops",
+  "kind": "backdrop",
+  "status": "awaiting",
+  "weight": 1.0,
+  "days": 0.0804,
+  "count": null,
+  "baseline": false,
+  "approved_at": null,
+  "note": "Rebuilt by ChatGPT on 5 Oct as one connected sea: wave bands with cream rims, round layered loops with the sea floor raised under them, and only bubbles left under the water. The sea floor and the gap walls are approved as their own items. Waiting for your yes on the sea and track as a whole.",
+  "added_at": "2026-10-10T16:52:20+02:00",
+  "updated_at": "2026-10-10T16:52:20+02:00"
  }
 ]
