@@ -6359,15 +6359,15 @@
   "game": "7.7 Popping Balloons",
   "name": "Pop burst, rubber shreds, puffs",
   "kind": "effect",
-  "status": "in-progress",
+  "status": "awaiting",
   "weight": 1.732,
   "days": 0.1069,
   "count": 3,
   "baseline": false,
   "approved_at": null,
-  "note": "You asked for a pop like the one in Bloons TD 6, adapted to our style, instead of the falling rubber pieces. Being remade.",
+  "note": "The new short cream flash is based on the Bloons TD six pop, with original art in our style. The balloon disappears immediately and the flash opens into small tips. Normal speed and slow motion gameplay are ready for your review.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-10T16:52:42+02:00"
+  "updated_at": "2026-10-10T17:28:58+02:00"
  },
  {
   "id": "bp-code-marks",
