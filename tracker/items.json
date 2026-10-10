@@ -10075,14 +10075,14 @@
   "game": "7.5 Cheese Basketball",
   "name": "Cheese Basketball — fifty percent more time to shoot each round",
   "kind": "task",
-  "status": "in-progress",
+  "status": "approved",
   "weight": 1.0,
   "days": 0.2172,
   "count": null,
   "baseline": false,
-  "approved_at": null,
-  "note": "You said the time for shooting is too short and asked for each round to be fifty percent longer. Being built.",
+  "approved_at": "2026-10-10T18:57:39+02:00",
+  "note": "You said (10 Oct): \"most of the stuff with GPT is approved. The balloon stuff, the balloon popping stuff, and the basketball stuff is approved.\"",
   "added_at": "2026-10-10T16:52:53+02:00",
-  "updated_at": "2026-10-10T16:52:53+02:00"
+  "updated_at": "2026-10-10T18:57:39+02:00"
  }
 ]
