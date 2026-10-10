@@ -10084,5 +10084,22 @@
   "note": "You said (10 Oct): \"most of the stuff with GPT is approved. The balloon stuff, the balloon popping stuff, and the basketball stuff is approved.\"",
   "added_at": "2026-10-10T16:52:53+02:00",
   "updated_at": "2026-10-10T18:57:39+02:00"
+ },
+ {
+  "id": "sr-landing-tolerance",
+  "cat": "feel",
+  "group": "7.4 Surfing Rats",
+  "game": "7.4 Surfing Rats",
+  "name": "Surfing Rats — holding during a landing bounce drives instead of spinning",
+  "kind": "task",
+  "status": "awaiting",
+  "weight": 1.0,
+  "days": 0.4545,
+  "count": null,
+  "baseline": false,
+  "approved_at": null,
+  "note": "You said that holding during the bounce after a landing spun the fish into the water instead of driving. Now a hop too short for a flip never spins: holding there drives along with the water as it does on the water, and a fresh press in the air still flips as before. Filmed on one ride: the old fish died this way in 3 of 6 tries; with the change, 0 of 2, and no hop spun. Waiting for you to feel it.",
+  "added_at": "2026-10-10T23:21:42+02:00",
+  "updated_at": "2026-10-10T23:21:42+02:00"
  }
 ]
