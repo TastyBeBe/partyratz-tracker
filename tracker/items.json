@@ -6083,15 +6083,15 @@
   "game": "7.5 Cheese Basketball",
   "name": "Hoop ring (back arc + front lip)",
   "kind": "sprite",
-  "status": "awaiting",
+  "status": "in-progress",
   "weight": 1.0,
   "days": 0.0617,
   "count": 2,
   "baseline": false,
   "approved_at": null,
-  "note": "The cracker, rim and net are another ten percent larger than the last video. The ball matches that increase at the hoop and stays the same size at the start. Both modes passed shot and net-depth checks; the comparison video is ready.",
+  "note": "You said the hoop and cracker were better at the earlier size, so that size is coming back with the ball matched to it at the hoop. The back net covering a falling ball, which you saw again, is being fixed too.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-10T13:27:35+02:00"
+  "updated_at": "2026-10-10T16:52:36+02:00"
  },
  {
   "id": "cb-ball",
