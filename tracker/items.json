@@ -9922,15 +9922,15 @@
   "game": "7.4 Surfing Rats",
   "name": "Surfing Rats — ice spikes in the gap instead of the water",
   "kind": "task",
-  "status": "todo",
+  "status": "in-progress",
   "weight": 1.0,
   "days": 0.0804,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "You asked for ice spikes in the gap instead of the cold water, drawn so they don't look out of place.",
+  "note": "You asked for ice spikes in the gap instead of the water. First step done: five different ice-spike designs drawn in the game's style, each shown standing in a real gap of the game for your pick. After you pick, the chosen one is redrawn with the right outline, made deadly to touch, and filmed.",
   "added_at": "2026-10-09T10:00:32+02:00",
-  "updated_at": "2026-10-09T10:00:32+02:00"
+  "updated_at": "2026-10-10T12:43:10+02:00"
  },
  {
   "id": "bp-balloon-shape",
