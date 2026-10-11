@@ -10110,14 +10110,14 @@
   "game": "7.7 Popping Balloons",
   "name": "Balloon physics where balloons touch, and the pop by math with variation",
   "kind": "effect",
-  "status": "awaiting",
+  "status": "approved",
   "weight": 1.0,
   "days": 0.0804,
   "count": null,
   "baseline": false,
-  "approved_at": null,
-  "note": "You asked for better balloon physics and a pop drawn by math with variation: the balloons now touch, squash and pass without jumps; the pop comes in two looks by math beside today's snap - your pick (videos sent).",
+  "approved_at": "2026-10-11T22:28:13+02:00",
+  "note": "You said: the balloon movement looks great; for the popping we go with option B (the Snap drawn by math, different every pop).",
   "added_at": "2026-10-11T16:54:48+02:00",
-  "updated_at": "2026-10-11T19:33:46+02:00"
+  "updated_at": "2026-10-11T22:28:13+02:00"
  }
 ]
