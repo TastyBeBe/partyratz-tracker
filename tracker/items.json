@@ -9923,15 +9923,15 @@
   "game": "7.4 Surfing Rats",
   "name": "Surfing Rats — ice spikes in the gap instead of the water",
   "kind": "task",
-  "status": "in-progress",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.0804,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "Your pick: the void. You said everything looks great except the walls' tops: the water stays at the top, only the thin strips running down the steep faces become sea floor - being fixed next.",
+  "note": "Your pick: the void. You asked for the water to stay over the walls' tops and only the thin strips down the steep faces to become sea floor: done, the water now runs over each top and ends where the strip began; before-and-after pictures sent for your look.",
   "added_at": "2026-10-09T10:00:32+02:00",
-  "updated_at": "2026-10-11T17:13:34+02:00"
+  "updated_at": "2026-10-11T17:49:29+02:00"
  },
  {
   "id": "bp-balloon-shape",
