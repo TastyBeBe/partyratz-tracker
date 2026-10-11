@@ -9922,15 +9922,15 @@
   "game": "7.4 Surfing Rats",
   "name": "Surfing Rats — ice spikes in the gap instead of the water",
   "kind": "task",
-  "status": "todo",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.0804,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "You disliked the first ice spikes (they did not fit in and were too repetitive). Next: one more attempt drawn with math like the rest of the floor, varied, never one repeated piece.",
+  "note": "One more attempt, done with math as you asked: clumps of ice crystals standing in every gap's water, different in every gap and every race, in the sea's own colours and line. Touching one is a wipeout, falling between them lands in the water as before. Waiting for your look.",
   "added_at": "2026-10-09T10:00:32+02:00",
-  "updated_at": "2026-10-10T13:19:15+02:00"
+  "updated_at": "2026-10-11T11:38:29+02:00"
  },
  {
   "id": "bp-balloon-shape",
