@@ -10031,9 +10031,9 @@
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "You asked for words that congratulate you after a flip, made of bubbles rather than sea foam, replacing the line at the top of the screen.",
+  "note": "You asked for words that congratulate you after a double or triple flip, made of bubbles rather than sea foam, replacing the line at the top of the screen - and (12 Oct) their own words, different from Balloon Pop's. A lettering board comes first for your pick.",
   "added_at": "2026-10-10T13:19:18+02:00",
-  "updated_at": "2026-10-10T13:19:18+02:00"
+  "updated_at": "2026-10-12T00:17:17+02:00"
  },
  {
   "id": "sr-finish-dance",
@@ -10119,5 +10119,56 @@
   "note": "You said: the balloon movement looks great; for the popping we go with option B (the Snap drawn by math, different every pop).",
   "added_at": "2026-10-11T16:54:48+02:00",
   "updated_at": "2026-10-11T22:28:13+02:00"
+ },
+ {
+  "id": "bp-pop-words",
+  "cat": "art-secondary",
+  "group": "7.7 Popping Balloons",
+  "game": "7.7 Popping Balloons",
+  "name": "Words that sometimes pop up around a popped balloon (beside the pop, never instead of it)",
+  "kind": "effect",
+  "status": "todo",
+  "weight": 1.0,
+  "days": 0.25,
+  "count": null,
+  "baseline": false,
+  "approved_at": null,
+  "note": "You asked (12 Oct) for words in both games, each game its own words: here they sometimes appear around a balloon you pop, and the pop itself stays. A lettering board comes first for your pick.",
+  "added_at": "2026-10-12T00:17:10+02:00",
+  "updated_at": "2026-10-12T00:17:10+02:00"
+ },
+ {
+  "id": "bp-balloon-colours",
+  "cat": "art-secondary",
+  "group": "7.7 Popping Balloons",
+  "game": "7.7 Popping Balloons",
+  "name": "Balloon colours that are all clearly different (no mint)",
+  "kind": "art",
+  "status": "in-progress",
+  "weight": 1.0,
+  "days": 0.15,
+  "count": null,
+  "baseline": false,
+  "approved_at": null,
+  "note": "You said (12 Oct) some colours look the same - the mint and the light blue - and that you dislike the mint. New colour sets are being made for your pick, the current one beside them.",
+  "added_at": "2026-10-12T00:17:11+02:00",
+  "updated_at": "2026-10-12T00:17:11+02:00"
+ },
+ {
+  "id": "bp-balloon-spread",
+  "cat": "feel",
+  "group": "7.7 Popping Balloons",
+  "game": "7.7 Popping Balloons",
+  "name": "Balloons spread over the whole screen (no empty bottom half)",
+  "kind": "task",
+  "status": "in-progress",
+  "weight": 1.0,
+  "days": 0.2,
+  "count": null,
+  "baseline": false,
+  "approved_at": null,
+  "note": "You said (12 Oct) the balloons sometimes leave the bottom half almost empty. Being fixed so they cover the whole screen; a gap left by a popped balloon stays, as you said.",
+  "added_at": "2026-10-12T00:17:11+02:00",
+  "updated_at": "2026-10-12T00:17:11+02:00"
  }
 ]
