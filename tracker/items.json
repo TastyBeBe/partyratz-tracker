@@ -10110,14 +10110,14 @@
   "game": "7.7 Popping Balloons",
   "name": "Balloon physics where balloons touch, and the pop by math with variation",
   "kind": "effect",
-  "status": "todo",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.0804,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "You asked (11 Oct): the balloons feel weird when they touch - give their physics real effort; and the pop made with math, with variation, in the spirit of Bloons TD6's pop. Next after the void.",
+  "note": "You asked for better balloon physics and a pop drawn by math with variation: the balloons now touch, squash and pass without jumps; the pop comes in two looks by math beside today's snap - your pick (videos sent).",
   "added_at": "2026-10-11T16:54:48+02:00",
-  "updated_at": "2026-10-11T16:54:48+02:00"
+  "updated_at": "2026-10-11T19:33:46+02:00"
  }
 ]
