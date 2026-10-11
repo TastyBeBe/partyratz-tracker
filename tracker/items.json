@@ -9923,15 +9923,15 @@
   "game": "7.4 Surfing Rats",
   "name": "Surfing Rats — ice spikes in the gap instead of the water",
   "kind": "task",
-  "status": "in-progress",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.0804,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "You liked the style, but: no water under the spikes, spikes across the whole gap, the rat and her fish impaled when they fall - and you want to see an abyss too (a much deeper gap, spikes on its sides and maybe its bottom, or falling off the screen). Versions for your pick come next.",
+  "note": "Four versions for your pick (11 Oct): today's ice clumps in the water, a spike floor with no water, the abyss (deep, spikes on its walls and floor), the void (no bottom, you fall out of the picture). The rat and her fish get impaled in the last three.",
   "added_at": "2026-10-09T10:00:32+02:00",
-  "updated_at": "2026-10-11T12:09:17+02:00"
+  "updated_at": "2026-10-11T14:23:48+02:00"
  },
  {
   "id": "bp-balloon-shape",
