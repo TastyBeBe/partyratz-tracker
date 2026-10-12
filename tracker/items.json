@@ -10025,15 +10025,15 @@
   "game": "7.4 Surfing Rats",
   "name": "Surfing Rats — bubble words that congratulate a double or triple flip",
   "kind": "task",
-  "status": "awaiting",
+  "status": "in-progress",
   "weight": 1.0,
   "days": 0.4545,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "Words that congratulate a double or triple flip, made of bubbles, replacing the line at the top - their own words, not Balloon Pop's (your answer, 12 Oct). A board of five bubble styles of DOUBLE! is waiting for your pick.",
+  "note": "Being drawn in board style 2 (DOUBLE!, TRIPLE!), shown as just the text - no banner, as you asked (12 Oct).",
   "added_at": "2026-10-10T13:19:18+02:00",
-  "updated_at": "2026-10-12T02:13:30+02:00"
+  "updated_at": "2026-10-12T10:02:23+02:00"
  },
  {
   "id": "sr-finish-dance",
@@ -10110,15 +10110,15 @@
   "game": "7.7 Popping Balloons",
   "name": "Balloon physics where balloons touch, and the pop by math with variation",
   "kind": "effect",
-  "status": "approved",
+  "status": "in-progress",
   "weight": 1.0,
   "days": 0.0804,
   "count": null,
   "baseline": false,
-  "approved_at": "2026-10-11T22:28:13+02:00",
-  "note": "You said: the balloon movement looks great; for the popping we go with option B (the Snap drawn by math, different every pop).",
+  "approved_at": null,
+  "note": "You approved the movement and picked pop B (11 Oct). On 12 Oct you asked for the pop slightly smaller and noticed balloons that look as if they teleport when they touch - both being fixed, then back to you.",
   "added_at": "2026-10-11T16:54:48+02:00",
-  "updated_at": "2026-10-11T22:28:13+02:00"
+  "updated_at": "2026-10-12T10:02:15+02:00"
  },
  {
   "id": "bp-pop-words",
@@ -10127,15 +10127,15 @@
   "game": "7.7 Popping Balloons",
   "name": "Words that sometimes pop up around a popped balloon (beside the pop, never instead of it)",
   "kind": "effect",
-  "status": "awaiting",
+  "status": "in-progress",
   "weight": 1.0,
   "days": 0.25,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "You asked (12 Oct) for words in both games, each its own: here they appear now and then around a balloon you pop, beside the pop. A board of five lettering styles (BANG!, no bubbles) is waiting for your pick, and the words: BANG!, BAM!, WOW!, YAY!, NICE!, BOOM! suggested.",
+  "note": "You asked (12 Oct) where the words are: they are being drawn now in board style 1 (BANG!, BAM!, WOW!, YAY!, NICE!, BOOM!) and then put in, appearing now and then beside a pop.",
   "added_at": "2026-10-12T00:17:10+02:00",
-  "updated_at": "2026-10-12T02:13:30+02:00"
+  "updated_at": "2026-10-12T10:02:23+02:00"
  },
  {
   "id": "bp-balloon-colours",
@@ -10144,15 +10144,15 @@
   "game": "7.7 Popping Balloons",
   "name": "Balloon colours that are all clearly different (no mint)",
   "kind": "art",
-  "status": "awaiting",
+  "status": "in-progress",
   "weight": 1.0,
   "days": 0.15,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "Three colour sets are waiting for your pick, on the real sky at game size: the current one, A (ten basic colours - it brings back the black and white you removed on 9 Oct) and B (eight bright colours, no mint). Red and pink are the closest pair in both new sets.",
+  "note": "You asked (12 Oct) for the colours to be fixed: set B (eight bright colours, no mint) is going in.",
   "added_at": "2026-10-12T00:17:11+02:00",
-  "updated_at": "2026-10-12T02:13:30+02:00"
+  "updated_at": "2026-10-12T10:02:16+02:00"
  },
  {
   "id": "bp-balloon-spread",
@@ -10161,14 +10161,48 @@
   "game": "7.7 Popping Balloons",
   "name": "Balloons spread over the whole screen (no empty bottom half)",
   "kind": "task",
-  "status": "awaiting",
+  "status": "in-progress",
   "weight": 1.0,
   "days": 0.2,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "The spread is built: with nothing popped the screen stays even the whole round (never fewer than 7 of 20 in a half). In a real round, though, every popped balloon comes back from the bottom, so the top thins (as few as 4 at the top against 15 at the bottom). Waiting for your look and your choice of how new balloons come in.",
+  "note": "You said (12 Oct) the gap is not fixed: in your game the bottom half was nearly empty, with balloons arriving in waves. Being fixed for real play with pops (a new balloon rises fast to the emptiest part).",
   "added_at": "2026-10-12T00:17:11+02:00",
-  "updated_at": "2026-10-12T03:01:11+02:00"
+  "updated_at": "2026-10-12T10:02:15+02:00"
+ },
+ {
+  "id": "sr-landing-snap-bobs",
+  "cat": "feel",
+  "group": "7.4 Surfing Rats",
+  "game": "7.4 Surfing Rats",
+  "name": "Landing snap only for the little bobs (never on a flip you could make, never on a nose landing, never noticeable)",
+  "kind": "task",
+  "status": "in-progress",
+  "weight": 1.0,
+  "days": 0.3,
+  "count": null,
+  "baseline": false,
+  "approved_at": null,
+  "note": "You said (12 Oct) the snap after a small bounce is too much: on small bumps at low speed it stops a flip you should be able to make, and it snaps on nose landings. Being changed so it only calms the little bobs.",
+  "added_at": "2026-10-12T10:02:15+02:00",
+  "updated_at": "2026-10-12T10:02:15+02:00"
+ },
+ {
+  "id": "sr-trick-text-plain",
+  "cat": "feel",
+  "group": "7.4 Surfing Rats",
+  "game": "7.4 Surfing Rats",
+  "name": "Trick text without its banner, smaller - just the text",
+  "kind": "task",
+  "status": "in-progress",
+  "weight": 1.0,
+  "days": 0.1,
+  "count": null,
+  "baseline": false,
+  "approved_at": null,
+  "note": "You said (12 Oct) the Surfing text should not sit inside the banner; smaller, just the text.",
+  "added_at": "2026-10-12T10:02:23+02:00",
+  "updated_at": "2026-10-12T10:02:23+02:00"
  }
 ]
