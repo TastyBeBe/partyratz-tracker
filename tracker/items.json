@@ -10110,15 +10110,15 @@
   "game": "7.7 Popping Balloons",
   "name": "Balloon physics where balloons touch, and the pop by math with variation",
   "kind": "effect",
-  "status": "in-progress",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.0804,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "You approved the movement and picked pop B (11 Oct). On 12 Oct you asked for the pop slightly smaller and noticed balloons that look as if they teleport when they touch - both being fixed, then back to you.",
+  "note": "Done as you asked (12 Oct): the pop 15 % smaller, and the teleport look fixed at its causes (a popped balloon's push now fades evenly; a fast-rising new balloon never overtakes a slow one in its column) - sudden jumps 0 in every test round. Waiting for your look.",
   "added_at": "2026-10-11T16:54:48+02:00",
-  "updated_at": "2026-10-12T10:02:15+02:00"
+  "updated_at": "2026-10-12T17:14:33+02:00"
  },
  {
   "id": "bp-pop-words",
