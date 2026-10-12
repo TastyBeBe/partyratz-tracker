@@ -10025,15 +10025,15 @@
   "game": "7.4 Surfing Rats",
   "name": "Surfing Rats — bubble words that congratulate a double or triple flip",
   "kind": "task",
-  "status": "in-progress",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.4545,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "You said (12 Oct) the drawn words are too much: DOUBLE! and TRIPLE! are being made with the game's font and a code animation instead, just the text.",
+  "note": "Built as you asked (12 Oct): DOUBLE! and TRIPLE! in the game's font, animated by code, just the text over the sea after a double or triple flip. Waiting for your look.",
   "added_at": "2026-10-10T13:19:18+02:00",
-  "updated_at": "2026-10-12T13:09:06+02:00"
+  "updated_at": "2026-10-12T17:32:04+02:00"
  },
  {
   "id": "sr-finish-dance",
@@ -10178,15 +10178,15 @@
   "game": "7.4 Surfing Rats",
   "name": "Landing snap only for the little bobs (never on a flip you could make, never on a nose landing, never noticeable)",
   "kind": "task",
-  "status": "in-progress",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.3,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "You said (12 Oct) the snap after a small bounce is too much: on small bumps at low speed it stops a flip you should be able to make, and it snaps on nose landings. Being changed so it only calms the little bobs.",
+  "note": "Done (12 Oct): the snap now only calms the little bobs - it never turns her in the air, never blocks a flip she can make, and a flip that would hit the slope ahead becomes a held bob (slow crest presses: 18 crashes down to 0). Waiting for your look.",
   "added_at": "2026-10-12T10:02:15+02:00",
-  "updated_at": "2026-10-12T10:02:15+02:00"
+  "updated_at": "2026-10-12T17:32:04+02:00"
  },
  {
   "id": "sr-trick-text-plain",
@@ -10195,15 +10195,15 @@
   "game": "7.4 Surfing Rats",
   "name": "Trick text without its banner, smaller - just the text",
   "kind": "task",
-  "status": "in-progress",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.1,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "You said (12 Oct) the Surfing text should not sit inside the banner; smaller, just the text.",
+  "note": "Done as you asked (12 Oct): the trick text is plain, smaller and without its banner. Waiting for your look.",
   "added_at": "2026-10-12T10:02:23+02:00",
-  "updated_at": "2026-10-12T10:02:23+02:00"
+  "updated_at": "2026-10-12T17:32:04+02:00"
  },
  {
   "id": "sr-impale-blood",
