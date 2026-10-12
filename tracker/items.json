@@ -10144,15 +10144,15 @@
   "game": "7.7 Popping Balloons",
   "name": "Balloon colours that are all clearly different (no mint)",
   "kind": "art",
-  "status": "in-progress",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.15,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "You asked (12 Oct) for the colours to be fixed: set B (eight bright colours, no mint) is going in.",
+  "note": "Set B is in (12 Oct): red, orange, yellow, green, sky blue, blue, purple, pink - mint gone, and the colours are dealt evenly (never more than 3 of one). Waiting for your look.",
   "added_at": "2026-10-12T00:17:11+02:00",
-  "updated_at": "2026-10-12T10:02:16+02:00"
+  "updated_at": "2026-10-12T17:14:37+02:00"
  },
  {
   "id": "bp-balloon-spread",
