@@ -10031,9 +10031,9 @@
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "Being drawn in board style 2 (DOUBLE!, TRIPLE!), shown as just the text - no banner, as you asked (12 Oct).",
+  "note": "You said (12 Oct) the drawn words are too much: DOUBLE! and TRIPLE! are being made with the game's font and a code animation instead, just the text.",
   "added_at": "2026-10-10T13:19:18+02:00",
-  "updated_at": "2026-10-12T10:02:23+02:00"
+  "updated_at": "2026-10-12T13:09:06+02:00"
  },
  {
   "id": "sr-finish-dance",
@@ -10133,9 +10133,9 @@
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "You asked (12 Oct) where the words are: they are being drawn now in board style 1 (BANG!, BAM!, WOW!, YAY!, NICE!, BOOM!) and then put in, appearing now and then beside a pop.",
+  "note": "You said (12 Oct) the drawn words are too much: they are being made with the game's font and a code animation instead (like the lobby's letters move), appearing now and then beside a pop.",
   "added_at": "2026-10-12T00:17:10+02:00",
-  "updated_at": "2026-10-12T10:02:23+02:00"
+  "updated_at": "2026-10-12T13:09:06+02:00"
  },
  {
   "id": "bp-balloon-colours",
@@ -10204,5 +10204,22 @@
   "note": "You said (12 Oct) the Surfing text should not sit inside the banner; smaller, just the text.",
   "added_at": "2026-10-12T10:02:23+02:00",
   "updated_at": "2026-10-12T10:02:23+02:00"
+ },
+ {
+  "id": "sr-impale-blood",
+  "cat": "art-secondary",
+  "group": "7.4 Surfing Rats",
+  "game": "7.4 Surfing Rats",
+  "name": "Blood when the rat or the fish is impaled (drawn by code, in the game's style)",
+  "kind": "effect",
+  "status": "in-progress",
+  "weight": 1.0,
+  "days": 0.4,
+  "count": null,
+  "baseline": false,
+  "approved_at": null,
+  "note": "You asked (12 Oct) for some blood coming out when the rat or the fish gets impaled on a spike, matching the game's style and its other effects. Researched first, then built.",
+  "added_at": "2026-10-12T13:09:06+02:00",
+  "updated_at": "2026-10-12T13:09:06+02:00"
  }
 ]
