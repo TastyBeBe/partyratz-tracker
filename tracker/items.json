@@ -10161,14 +10161,14 @@
   "game": "7.7 Popping Balloons",
   "name": "Balloons spread over the whole screen (no empty bottom half)",
   "kind": "task",
-  "status": "in-progress",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.2,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "You said the balloons sometimes leave the bottom half almost empty. The opening of a round is fixed (the gap that travelled round the screen is gone); a smarter flight planner that keeps every half of the screen filled through the whole round is going in now. Gaps from pops stay, as you said.",
+  "note": "The spread is built: with nothing popped the screen stays even the whole round (never fewer than 7 of 20 in a half). In a real round, though, every popped balloon comes back from the bottom, so the top thins (as few as 4 at the top against 15 at the bottom). Waiting for your look and your choice of how new balloons come in.",
   "added_at": "2026-10-12T00:17:11+02:00",
-  "updated_at": "2026-10-12T02:13:30+02:00"
+  "updated_at": "2026-10-12T03:01:11+02:00"
  }
 ]
