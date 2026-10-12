@@ -10127,15 +10127,15 @@
   "game": "7.7 Popping Balloons",
   "name": "Words that sometimes pop up around a popped balloon (beside the pop, never instead of it)",
   "kind": "effect",
-  "status": "in-progress",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.25,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "You said (12 Oct) the drawn words are too much: they are being made with the game's font and a code animation instead (like the lobby's letters move), appearing now and then beside a pop.",
+  "note": "Built as you asked (12 Oct): simple words in the game's font, animated by code like the lobby's letters, beside about 1 in 4 right pops. Waiting for your look.",
   "added_at": "2026-10-12T00:17:10+02:00",
-  "updated_at": "2026-10-12T13:09:06+02:00"
+  "updated_at": "2026-10-12T17:14:39+02:00"
  },
  {
   "id": "bp-balloon-colours",
