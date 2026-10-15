@@ -10306,5 +10306,39 @@
   "note": "Your simple circle alternative is ready to try: draw around a central dot, release for an experimental score and draw again. Browser checks passed. The score is this preview approximation, and this does not approve replacing the minigame or prove it on a physical phone.",
   "added_at": "2026-10-15T18:40:45+02:00",
   "updated_at": "2026-10-15T18:40:45+02:00"
+ },
+ {
+  "id": "tw-redesign-2026-10-15",
+  "cat": "mechanics",
+  "group": "7.8 Tug of War",
+  "game": "7.8 Tug of War",
+  "name": "Full rebuild with the existing rats preserved",
+  "kind": "task",
+  "status": "in-progress",
+  "weight": 1.0,
+  "days": 0.0,
+  "count": null,
+  "baseline": false,
+  "approved_at": null,
+  "note": "You asked to redo the background, rope, layout and game while keeping the existing rats standing face to face. The source audit and setting pictures are ready; runtime repairs and production work remain open. The established tapping and scoring rules are preserved.",
+  "added_at": "2026-10-15T22:58:11+02:00",
+  "updated_at": "2026-10-15T22:58:11+02:00"
+ },
+ {
+  "id": "tw-scene-choice-2026-10-15",
+  "cat": "art-secondary",
+  "group": "7.8 Tug of War",
+  "game": "7.8 Tug of War",
+  "name": "Choose the rebuilt setting",
+  "kind": "design",
+  "status": "awaiting",
+  "weight": 1.0,
+  "days": 0.0,
+  "count": null,
+  "baseline": false,
+  "approved_at": null,
+  "note": "Choose one setting: birthday-cake ravine, grassy creek banks or split party table. The pictures use your existing rats facing each other and a thinner new rope. These are design choices, not a repaired game; no option has been approved or installed.",
+  "added_at": "2026-10-15T22:58:11+02:00",
+  "updated_at": "2026-10-15T22:58:11+02:00"
  }
 ]
