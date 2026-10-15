@@ -10252,9 +10252,9 @@
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "You accepted the revised drawing style and hen appearance only. All three cut targets must become the primary focus, even when their characters are cropped. The woman needs a straight head-focused view on the table, the brain needs natural integration, and the dolphin must look unborn. The plain-circle design test is built and browser-checked; no final scene or game is approved.",
+  "note": "Three target-focused closeup pictures and the playable plain-circle alternative now await your review. Only the revised drawing style and mother hen appearance are accepted so far. Scene and target verdicts, the game direction and remaining subject scope come next; nothing has been installed in the game.",
   "added_at": "2026-10-15T18:01:30+02:00",
-  "updated_at": "2026-10-15T18:23:14+02:00"
+  "updated_at": "2026-10-15T18:40:45+02:00"
  },
  {
   "id": "co-redesign-style-hen-2026-10-15",
@@ -10272,5 +10272,39 @@
   "note": "You said the revised style matches and the hen looks great. This accepts only the drawing style and hen appearance. The egg, brain and fetus must dominate their images; scene layouts, target appearance and the whole game remain unapproved.",
   "added_at": "2026-10-15T18:23:14+02:00",
   "updated_at": "2026-10-15T18:23:14+02:00"
+ },
+ {
+  "id": "co-target-closeups-review-2026-10-15",
+  "cat": "art-secondary",
+  "group": "7.6 Perfect Cut Out",
+  "game": "7.6 Perfect Cut Out",
+  "name": "Three target-focused closeup design pictures",
+  "kind": "design",
+  "status": "awaiting",
+  "weight": 1.0,
+  "days": 0.0,
+  "count": null,
+  "baseline": false,
+  "approved_at": null,
+  "note": "Your revised brain, unborn dolphin and egg closeups are ready to judge, with characters, targets and backgrounds kept separately. This review is for the scene compositions and target appearance. Your earlier drawing-style and hen-appearance acceptance is preserved; these scenes are not yet approved.",
+  "added_at": "2026-10-15T18:40:45+02:00",
+  "updated_at": "2026-10-15T18:40:45+02:00"
+ },
+ {
+  "id": "co-circle-design-test-2026-10-15",
+  "cat": "mechanics",
+  "group": "7.6 Perfect Cut Out",
+  "game": "7.6 Perfect Cut Out",
+  "name": "Plain-circle playable design experiment",
+  "kind": "design-test",
+  "status": "awaiting",
+  "weight": 1.0,
+  "days": 0.0,
+  "count": null,
+  "baseline": false,
+  "approved_at": null,
+  "note": "Your simple circle alternative is ready to try: draw around a central dot, release for an experimental score and draw again. Browser checks passed. The score is this preview approximation, and this does not approve replacing the minigame or prove it on a physical phone.",
+  "added_at": "2026-10-15T18:40:45+02:00",
+  "updated_at": "2026-10-15T18:40:45+02:00"
  }
 ]
