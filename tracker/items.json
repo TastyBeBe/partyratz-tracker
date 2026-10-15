@@ -10252,8 +10252,25 @@
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "You rejected all first concepts. The dolphin, woman on a surgical table and seated hen are being redesigned to match the game, with natural transparent anatomy and separate characters, targets and backgrounds. A simple circle alternative is also being researched and tested. No current concept is approved.",
+  "note": "You accepted the revised drawing style and hen appearance only. All three cut targets must become the primary focus, even when their characters are cropped. The woman needs a straight head-focused view on the table, the brain needs natural integration, and the dolphin must look unborn. The plain-circle design test is built and browser-checked; no final scene or game is approved.",
   "added_at": "2026-10-15T18:01:30+02:00",
-  "updated_at": "2026-10-15T18:01:30+02:00"
+  "updated_at": "2026-10-15T18:23:14+02:00"
+ },
+ {
+  "id": "co-redesign-style-hen-2026-10-15",
+  "cat": "art-secondary",
+  "group": "7.6 Perfect Cut Out",
+  "game": "7.6 Perfect Cut Out",
+  "name": "Revised drawing style and mother hen appearance only",
+  "kind": "design",
+  "status": "approved",
+  "weight": 1.0,
+  "days": 0.0,
+  "count": null,
+  "baseline": false,
+  "approved_at": "2026-10-15T18:23:14+02:00",
+  "note": "You said the revised style matches and the hen looks great. This accepts only the drawing style and hen appearance. The egg, brain and fetus must dominate their images; scene layouts, target appearance and the whole game remain unapproved.",
+  "added_at": "2026-10-15T18:23:14+02:00",
+  "updated_at": "2026-10-15T18:23:14+02:00"
  }
 ]
