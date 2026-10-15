@@ -10320,9 +10320,9 @@
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "Keep the cake setting, no trees, and separate cakes from the backdrop. You rejected all first concept artwork for style and outlines. A small isolated cake-style trial is being prepared; your permission to try code applies to cakes only. Art approval and the full game rebuild remain open.",
+  "note": "You chose the cake setting and rejected the first concept artwork. The corrected separate cakes, plain backdrop and warm outlined rope are now ready for your review. This is a picture check only; art approval and the full game rebuild remain open.",
   "added_at": "2026-10-15T22:58:11+02:00",
-  "updated_at": "2026-10-15T23:17:23+02:00"
+  "updated_at": "2026-10-15T23:43:29+02:00"
  },
  {
   "id": "tw-scene-choice-2026-10-15",
@@ -10340,5 +10340,22 @@
   "note": "You chose the cake setting only, with no trees and the cakes separate from the backdrop. This approves the setting decision only. You rejected all previous concept artwork, including the cake picture and rope, for not following the game art style and outline rules.",
   "added_at": "2026-10-15T22:58:11+02:00",
   "updated_at": "2026-10-15T23:17:23+02:00"
+ },
+ {
+  "id": "tw-cake-style-proof-2026-10-15",
+  "cat": "art-secondary",
+  "group": "7.8 Tug of War",
+  "game": "7.8 Tug of War",
+  "name": "Corrected cake art and warm outlined rope",
+  "kind": "design",
+  "status": "awaiting",
+  "weight": 1.0,
+  "days": 0.0,
+  "count": null,
+  "baseline": false,
+  "approved_at": null,
+  "note": "The revised cake picture is ready for your review, with no trees, separate cakes and backdrop, your existing rats and a warm outlined rope. File checks passed. The artwork and layout still need your verdict; the full game rebuild remains open.",
+  "added_at": "2026-10-15T23:43:29+02:00",
+  "updated_at": "2026-10-15T23:43:29+02:00"
  }
 ]
