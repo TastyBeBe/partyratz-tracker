@@ -10229,14 +10229,14 @@
   "game": "7.4 Surfing Rats",
   "name": "The spikes impale naturally - only from the point, no magnet, still most of the time",
   "kind": "mechanic",
-  "status": "in-progress",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.5,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "You asked: get impaled when you fly at the point, never by the flat side, and never pulled onto a spike like a magnet - still brutal. Being built and checked now.",
+  "note": "You asked to be impaled only from the point, never by the flat side, never pulled like a magnet, and still most of the time. Now the legs and tail can be pierced too, so about 3 in 4 falls into the void end on a spike, with no pull and no flank pierces. Five films wait for your look.",
   "added_at": "2026-10-15T12:38:29+02:00",
-  "updated_at": "2026-10-15T12:38:29+02:00"
+  "updated_at": "2026-10-15T15:14:16+02:00"
  }
 ]
