@@ -10320,9 +10320,9 @@
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "You accepted all four patterned backgrounds and rejected all ten cheesecake designs. The next cakes must be unmistakably cake-like and match the lobby art, with a straight, less colorful rope. The three rat grip poses remain unapproved choices. No live game changes are complete; the full rebuild remains open.",
+  "note": "Your three new lobby-style cake choices and straight muted rope are ready for review. All four patterned backgrounds remain accepted. The earlier cheesecake family remains rejected. Cake, rope and pose verdicts are still pending, and the full game rebuild remains open.",
   "added_at": "2026-10-15T22:58:11+02:00",
-  "updated_at": "2026-10-16T11:31:51+02:00"
+  "updated_at": "2026-10-16T12:02:56+02:00"
  },
  {
   "id": "tw-scene-choice-2026-10-15",
@@ -10391,5 +10391,22 @@
   "note": "You said: So the backgrounds look fine. I think we can use honestly any of these. All four are accepted, with no single choice required. This approves the backgrounds only.",
   "added_at": "2026-10-16T11:31:50+02:00",
   "updated_at": "2026-10-16T11:31:51+02:00"
+ },
+ {
+  "id": "tw-lobby-cakes-2026-10-16",
+  "cat": "art-secondary",
+  "group": "7.8 Tug of War",
+  "game": "7.8 Tug of War",
+  "name": "Three lobby-style cakes and straight rope previews",
+  "kind": "design",
+  "status": "awaiting",
+  "weight": 1.0,
+  "days": 0.0,
+  "count": null,
+  "baseline": false,
+  "approved_at": null,
+  "note": "Three cake choices and their full scene previews are ready for your review, with a straight muted rope, both-hand grips and an accepted background. Static picture checks passed. No cake, rope or pose has been approved, and no live game changes are complete.",
+  "added_at": "2026-10-16T12:02:56+02:00",
+  "updated_at": "2026-10-16T12:02:56+02:00"
  }
 ]
