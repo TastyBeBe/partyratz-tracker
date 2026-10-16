@@ -10476,5 +10476,22 @@
   "note": "The Tug design is now in the screens app as an editable review with independent sprites. You can adjust the composition there. Your chosen cheesecake and backgrounds stay approved. Rope option one is preferred but its exact source is unresolved; rope bendiness and outline review remain unfinished. This is a review screen, not live game integration.",
   "added_at": "2026-10-16T20:56:52+02:00",
   "updated_at": "2026-10-16T21:48:37+02:00"
+ },
+ {
+  "id": "pc-cut-look-crumbs",
+  "cat": "art-secondary",
+  "group": "7.6 Perfect Cut Out",
+  "game": "7.6 Perfect Cut Out",
+  "name": "Perfect Circle cut look - the groove with crumbs (look 2)",
+  "kind": "task",
+  "status": "approved",
+  "weight": 1.0,
+  "days": 0.0804,
+  "count": null,
+  "baseline": false,
+  "approved_at": "2026-10-16T21:49:14+02:00",
+  "note": "Your pick: 'I for sure like the look two the most' - the carved groove with crumbs; the percentage and the X are being changed next.",
+  "added_at": "2026-10-16T21:49:14+02:00",
+  "updated_at": "2026-10-16T21:49:14+02:00"
  }
 ]
