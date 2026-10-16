@@ -10320,9 +10320,9 @@
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "You asked to prioritize access to all assets and an editable screen, then hand the remaining work over. Your chosen cheesecake and backgrounds stay approved. Rope option one is preferred, with its exact source still being resolved. The rope needs bendiness and an outline review. An editable preview is being prepared; live game integration and rope physics are unfinished.",
+  "note": "All assets are saved for the hand-back, and an editable Tug review is installed in the screens app. Your chosen cheesecake and backgrounds remain approved. The remaining work is resolving rope option one, reviewing its outline and adding bendiness, then completing any needed live game and editor integration. The full rebuild is still open.",
   "added_at": "2026-10-15T22:58:11+02:00",
-  "updated_at": "2026-10-16T21:41:37+02:00"
+  "updated_at": "2026-10-16T21:48:37+02:00"
  },
  {
   "id": "tw-scene-choice-2026-10-15",
@@ -10473,8 +10473,8 @@
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "The corrected static preview has a longer slimmer rope, lower grip and upright cake points facing the gap. Your chosen cheesecake and backgrounds stay approved. The new rope, pose and full layout await your review. The rope end seams retain a recorded thickness limitation. Live game and editor integration are still pending shared access.",
+  "note": "The Tug design is now in the screens app as an editable review with independent sprites. You can adjust the composition there. Your chosen cheesecake and backgrounds stay approved. Rope option one is preferred but its exact source is unresolved; rope bendiness and outline review remain unfinished. This is a review screen, not live game integration.",
   "added_at": "2026-10-16T20:56:52+02:00",
-  "updated_at": "2026-10-16T20:56:52+02:00"
+  "updated_at": "2026-10-16T21:48:37+02:00"
  }
 ]
