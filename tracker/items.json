@@ -10229,15 +10229,15 @@
   "game": "7.4 Surfing Rats",
   "name": "The spikes impale naturally - only from the point, no magnet, still most of the time",
   "kind": "mechanic",
-  "status": "in-progress",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.5,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "You said falls onto the spikes still pierced you from the side, and sometimes the sharp end did not pierce. Round 3 now judges each touch once, by your own fall within 35 degrees of the spike's line: in 90 checked takes no clear side pierce and no clear missed point were seen, but when a foot or leg is pinned the rest of the rat still tears and snaps, so it is back in progress before you look again.",
+  "note": "Ready for you to try. You said the rats never got pierced even flying at the sharp end. Round 5 judges where the spike meets the rat: the point must reach her first and her outline must face it within 60 degrees; the angle is wider (60 degrees, was 35) and the hat no longer blocks the point. In a quick look of 15 falls the rat was pierced in 10, never through the side. Fall onto the points at an angle and land across a spike, and tell me how it feels.",
   "added_at": "2026-10-15T12:38:29+02:00",
-  "updated_at": "2026-10-16T10:27:04+02:00"
+  "updated_at": "2026-10-16T21:05:29+02:00"
  },
  {
   "id": "co-redesign-2026-10-15",
