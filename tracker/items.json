@@ -6409,14 +6409,15 @@
   "game": "7.8 Tug of War",
   "name": "Twisted party rope tile",
   "kind": "sprite",
-  "status": "awaiting",
+  "status": "approved",
   "weight": 1.0,
   "days": 0.0617,
   "count": 1,
   "baseline": false,
-  "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "approved_at": "2026-10-17T12:50:09+02:00",
+  "note": "You picked number five: your own twisted rope at about two thirds of the old thickness, drawn the same way as the rats. Its outline reads a little lighter than the rats' and you chose it as it is.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-17T12:50:09+02:00"
  },
  {
   "id": "tw-rope-marks",
