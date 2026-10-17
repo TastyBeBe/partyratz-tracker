@@ -10494,5 +10494,22 @@
   "note": "Your pick: 'I for sure like the look two the most' - the carved groove with crumbs; the percentage and the X are being changed next.",
   "added_at": "2026-10-16T21:49:14+02:00",
   "updated_at": "2026-10-16T21:49:14+02:00"
+ },
+ {
+  "id": "pc-bg-zoomed-out",
+  "cat": "art-secondary",
+  "group": "7.6 Perfect Cut Out",
+  "game": "7.6 Perfect Cut Out",
+  "name": "Perfect Circle cheese zoomed out to show its darker spots",
+  "kind": "task",
+  "status": "awaiting",
+  "weight": 1.0,
+  "days": 0.0,
+  "count": null,
+  "baseline": false,
+  "approved_at": null,
+  "note": "You asked to zoom out the cheese so its darker spots show. A 16:9 screen now shows almost all of the board (96 percent), all eleven spots - it showed the middle two thirds. The picture keeps its size; past the board's edges it is mirrored, which shows as twin spots only on screens wider or narrower than 16:9. Ready for your try.",
+  "added_at": "2026-10-17T18:33:32+02:00",
+  "updated_at": "2026-10-17T18:33:32+02:00"
  }
 ]
