@@ -10473,9 +10473,9 @@
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "Ready for you to try again. You asked: you sent the rope we are going for, said the rope in the film looked way too thick, and that its bending and the rats' movement felt super glitchy. The rope you sent is the same drawing the game runs, at the same proportions to its length; it reads thick because it is as wide as the rats' fists (0.91 times a fist). Thinner is your call - 16 or 12.5 px instead of 19, each with its line redrawn thicker. The glitches are fixed: every tap used to jump the team and snap the rope in one frame; now the rats and the rope ease in and out (the rats' largest step a frame 31.8 to 5.1 px, the sag's 12.9 to 3.5 px). Nothing approved yet - you took back your yes on the rope.",
+  "note": "You asked for the rope a bit thinner, then to see every thickness in the game with the rats holding it. You picked number five: the rope at about two thirds of today's thickness (12.5 px instead of 19.8). It is being redrawn at that thickness so its outline matches the rats'. Nothing approved yet.",
   "added_at": "2026-10-16T20:56:52+02:00",
-  "updated_at": "2026-10-17T10:39:28+02:00"
+  "updated_at": "2026-10-17T11:50:26+02:00"
  },
  {
   "id": "pc-cut-look-crumbs",
