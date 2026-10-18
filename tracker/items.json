@@ -10485,15 +10485,15 @@
   "game": "7.6 Perfect Cut Out",
   "name": "Perfect Circle cut look - the groove with crumbs (look 2)",
   "kind": "task",
-  "status": "awaiting",
+  "status": "approved",
   "weight": 1.0,
   "days": 0.0804,
   "count": null,
   "baseline": false,
-  "approved_at": null,
-  "note": "You found the cut pixelated, the X too perfect and the colour not matching where the circle closes. Fixed on 18 Oct: the cut is drawn smooth at any screen resolution, one width all round, both ends the same groove so the join matches, the X cut as two hand strokes, the inside of the cut in the cheese's darker orange. Ready for your try - the pale cut floor you approved on 16 Oct can come back if you prefer it.",
+  "approved_at": "2026-10-18T11:44:03+02:00",
+  "note": "You picked the new orange cut floor from the film and close-ups, over the pale floor of 16 Oct; it comes with the smooth line, one width all round, the X cut by hand and the matching colour where the circle closes.",
   "added_at": "2026-10-16T21:49:14+02:00",
-  "updated_at": "2026-10-18T11:18:08+02:00"
+  "updated_at": "2026-10-18T11:44:03+02:00"
  },
  {
   "id": "pc-bg-zoomed-out",
