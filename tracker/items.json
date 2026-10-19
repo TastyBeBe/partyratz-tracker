@@ -7986,14 +7986,15 @@
   "game": "7.23 Cake Stacking",
   "name": "Chef's arm, cuff and hand",
   "kind": "sprite",
-  "status": "todo",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.0617,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "Replaced (19 Oct): the code arm and hand are gone; a swing on two ropes carries the next layer instead. Its plank and ropes are placeholders until the drawn swing (board CS-P1) lands. Waiting for your try.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-19T21:19:48+02:00"
  },
  {
   "id": "cs-chef-mouse",
@@ -8002,14 +8003,15 @@
   "game": "7.23 Cake Stacking",
   "name": "Chef's mouse riding the wrist",
   "kind": "sprite",
-  "status": "todo",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.0617,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "Done as you asked (19 Oct): the code mouse is gone; the rat whose turn it is (her own side-scroller rig) now rides a swing that sweeps where the hand was, facing the way it travels. Waiting for your try.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-19T21:19:47+02:00"
  },
  {
   "id": "cs-effects",
