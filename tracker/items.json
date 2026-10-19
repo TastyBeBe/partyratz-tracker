@@ -6465,9 +6465,9 @@
   "count": 1,
   "baseline": false,
   "approved_at": null,
-  "note": "You picked option 2, the violet brush-stroke backdrop (19 Oct); the slight movement you asked for comes next, so the strokes move a little but not too much. Waiting for your yes on the moving version.",
+  "note": "Built (20 Oct): your option 2, the violet brush-stroke backdrop, now moves slightly - only the edges of the strokes drift, about 4 pixels, on a slow 9-second cycle; the middle of each band stays still. Draw-Off is pixel art again with no rats, as you asked. Waiting for your yes on the moving version.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-19T22:39:07+02:00"
+  "updated_at": "2026-10-20T01:45:10+02:00"
  },
  {
   "id": "do-swatches",
@@ -7945,9 +7945,9 @@
   "count": 1,
   "baseline": false,
   "approved_at": null,
-  "note": "You picked option 3, the coral puddles on cream (19 Oct); the slight movement you asked for comes next, just a little. Waiting for your yes on the moving version.",
+  "note": "Built (20 Oct): your option 3, the coral puddles on cream, now fills the whole view in place of the wallpaper tile and moves slightly - only the puddles' edges drift, about 4 pixels, slowly; the coral field stays still and the backdrop stays with the camera as the tower climbs. Waiting for your yes on the moving version.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-19T22:39:09+02:00"
+  "updated_at": "2026-10-20T01:45:10+02:00"
  },
  {
   "id": "cs-cake-layers",
@@ -7994,9 +7994,9 @@
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "Replaced (19 Oct): the code arm and hand are gone; a swing on two ropes carries the next layer instead. Its plank and ropes are placeholders until the drawn swing (board CS-P1) lands. Waiting for your try.",
+  "note": "Replaced (20 Oct): the swing is now a trapeze - a bar on two ropes swinging like a pendulum from a point above the tower. The bar and ropes are placeholders until the drawn trapeze lands. Waiting for your try.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-19T21:19:48+02:00"
+  "updated_at": "2026-10-20T01:45:10+02:00"
  },
  {
   "id": "cs-chef-mouse",
@@ -8011,9 +8011,9 @@
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "Done as you asked (19 Oct): the code mouse is gone; the rat whose turn it is (her own side-scroller rig) now rides a swing that sweeps where the hand was, facing the way it travels. Waiting for your try.",
+  "note": "Done as you asked (20 Oct): the rat whose turn it is now hangs upside down from a trapeze by her back paws, the layer in her hands, and swings like a pendulum - slow at each end, fastest in the middle, her body trailing slightly. Two films for your pick: the dropped layer carrying the swing's motion, or falling straight down. Waiting for your try.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-19T21:19:47+02:00"
+  "updated_at": "2026-10-20T01:45:10+02:00"
  },
  {
   "id": "cs-effects",
