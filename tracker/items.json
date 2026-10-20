@@ -7990,15 +7990,15 @@
   "game": "7.23 Cake Stacking",
   "name": "Chef's arm, cuff and hand",
   "kind": "sprite",
-  "status": "awaiting",
+  "status": "approved",
   "weight": 1.0,
   "days": 0.0617,
   "count": null,
   "baseline": false,
-  "approved_at": null,
-  "note": "Done (20 Oct): the drawn trapeze bar you said yes to is in the game, the ropes running on from its drawn stubs; the drawn plate, stand, dashed line and red flag are in too, the stand kept clear of the back button. Waiting for your try.",
+  "approved_at": "2026-10-20T21:40:36+02:00",
+  "note": "Approved for now on your word (20 Oct) - your full review is saved; any agent can show it to you when you ask.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-20T10:12:37+02:00"
+  "updated_at": "2026-10-20T21:40:36+02:00"
  },
  {
   "id": "cs-chef-mouse",
