@@ -7972,14 +7972,15 @@
   "game": "7.23 Cake Stacking",
   "name": "Cake stand and plate",
   "kind": "sprite",
-  "status": "todo",
+  "status": "approved",
   "weight": 1.0,
   "days": 0.0617,
   "count": null,
   "baseline": false,
-  "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "approved_at": "2026-10-20T09:42:32+02:00",
+  "note": "You said \"Yes, use them\" (20 Oct) to the drawn cake stand and plate (with the trapeze bar, the flag and the beat-line dash). They go into the game next.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-20T09:42:32+02:00"
  },
  {
   "id": "cs-chef-hand",
