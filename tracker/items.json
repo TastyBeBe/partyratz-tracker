@@ -10525,15 +10525,15 @@
   "game": "7.23 Cake Stacking",
   "name": "The winner on the cake at the round's end",
   "kind": "mechanic",
-  "status": "awaiting",
+  "status": "approved",
   "weight": 1.0,
   "days": 0.2092,
   "count": null,
   "baseline": false,
-  "approved_at": null,
-  "note": "Filmed (19 Oct): the winner stands on the plate playing her victory and the swing is gone. Found on the film: when the last rat topples the tower there is no cake, and ROUND OVER hides the winner - not fixed yet. Waiting for your try.",
+  "approved_at": "2026-10-20T21:40:39+02:00",
+  "note": "Approved for now on your word (20 Oct) - your full review is saved; any agent can show it to you when you ask.",
   "added_at": "2026-10-19T22:09:14+02:00",
-  "updated_at": "2026-10-19T22:09:14+02:00"
+  "updated_at": "2026-10-20T21:40:39+02:00"
  },
  {
   "id": "do-canvas",
