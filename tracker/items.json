@@ -7939,15 +7939,15 @@
   "game": "7.23 Cake Stacking",
   "name": "Bakery wallpaper tile",
   "kind": "backdrop",
-  "status": "awaiting",
+  "status": "approved",
   "weight": 1.0,
   "days": 0.0617,
   "count": 1,
   "baseline": false,
-  "approved_at": null,
-  "note": "Built (20 Oct): your option 3, the coral puddles on cream, now fills the whole view in place of the wallpaper tile and moves slightly - only the puddles' edges drift, about 4 pixels, slowly; the coral field stays still and the backdrop stays with the camera as the tower climbs. Waiting for your yes on the moving version.",
+  "approved_at": "2026-10-20T21:40:32+02:00",
+  "note": "Approved for now on your word (20 Oct) - your full review is saved; any agent can show it to you when you ask.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-20T01:45:10+02:00"
+  "updated_at": "2026-10-20T21:40:32+02:00"
  },
  {
   "id": "cs-cake-layers",
