@@ -7956,14 +7956,15 @@
   "game": "7.23 Cake Stacking",
   "name": "The 31 Čapek cake layers",
   "kind": "sprite",
-  "status": "todo",
+  "status": "awaiting",
   "weight": 5.568,
   "days": 0.3437,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "Redrawn as you asked (20 Oct): in every layer the pieces are clumped and piled on each other, uneven, no rows - a heap of bones, tumbled cheeses, a fluffed pile of feathers, a lumpy flour heap; the chocolate stays a rectangle bar. Waiting for your pick.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-20T10:12:37+02:00"
  },
  {
   "id": "cs-stand-and-plate",
@@ -7995,9 +7996,9 @@
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "Replaced (20 Oct): the swing is now a trapeze - a bar on two ropes swinging like a pendulum from a point above the tower. The bar and ropes are placeholders until the drawn trapeze lands. Waiting for your try.",
+  "note": "Done (20 Oct): the drawn trapeze bar you said yes to is in the game, the ropes running on from its drawn stubs; the drawn plate, stand, dashed line and red flag are in too, the stand kept clear of the back button. Waiting for your try.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-20T01:45:10+02:00"
+  "updated_at": "2026-10-20T10:12:37+02:00"
  },
  {
   "id": "cs-chef-mouse",
@@ -8012,9 +8013,9 @@
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "Done as you asked (20 Oct): the rat whose turn it is now hangs upside down from a trapeze by her back paws, the layer in her hands, and swings like a pendulum - slow at each end, fastest in the middle, her body trailing slightly. Two films for your pick: the dropped layer carrying the swing's motion, or falling straight down. Waiting for your try.",
+  "note": "Done as you asked (20 Oct): the layer now drops straight down from her paws, level - it no longer carries the swing. She still hangs upside down from the trapeze and swings like a pendulum. Waiting for your try.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-20T01:45:10+02:00"
+  "updated_at": "2026-10-20T10:12:37+02:00"
  },
  {
   "id": "cs-effects",
