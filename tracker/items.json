@@ -7956,15 +7956,15 @@
   "game": "7.23 Cake Stacking",
   "name": "The 31 Čapek cake layers",
   "kind": "sprite",
-  "status": "awaiting",
+  "status": "approved",
   "weight": 5.568,
   "days": 0.3437,
   "count": null,
   "baseline": false,
-  "approved_at": null,
-  "note": "Redrawn as you asked (20 Oct): in every layer the pieces are clumped and piled on each other, uneven, no rows - a heap of bones, tumbled cheeses, a fluffed pile of feathers, a lumpy flour heap; the chocolate stays a rectangle bar. Waiting for your pick.",
+  "approved_at": "2026-10-20T21:40:41+02:00",
+  "note": "Approved for now on your word (20 Oct) - your full review is saved; any agent can show it to you when you ask.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-20T10:12:37+02:00"
+  "updated_at": "2026-10-20T21:40:41+02:00"
  },
  {
   "id": "cs-stand-and-plate",
