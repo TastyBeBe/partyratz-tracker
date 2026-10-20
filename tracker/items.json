@@ -8007,15 +8007,15 @@
   "game": "7.23 Cake Stacking",
   "name": "Chef's mouse riding the wrist",
   "kind": "sprite",
-  "status": "awaiting",
+  "status": "approved",
   "weight": 1.0,
   "days": 0.0617,
   "count": null,
   "baseline": false,
-  "approved_at": null,
-  "note": "Done as you asked (20 Oct): the layer now drops straight down from her paws, level - it no longer carries the swing. She still hangs upside down from the trapeze and swings like a pendulum. Waiting for your try.",
+  "approved_at": "2026-10-20T21:40:34+02:00",
+  "note": "Approved for now on your word (20 Oct) - your full review is saved; any agent can show it to you when you ask.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-20T10:12:37+02:00"
+  "updated_at": "2026-10-20T21:40:34+02:00"
  },
  {
   "id": "cs-effects",
