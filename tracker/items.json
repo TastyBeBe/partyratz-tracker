@@ -2199,14 +2199,15 @@
   "group": "Playtesting",
   "name": "First iOS + Android builds",
   "kind": "playtest",
-  "status": "todo",
+  "status": "awaiting",
   "weight": 2.0,
   "days": 0.48,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "Built (20 Oct): the first iPhone build is made and installed on your iPhone 14 Pro - unlock it and tap krysy4life to try it. The iPhone 12 mini is skipped for now, as you asked; Android is not built yet. Waiting for your try.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-20T22:51:04+02:00"
  },
  {
   "id": "pt-real-phones",
