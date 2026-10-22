@@ -912,14 +912,15 @@
   "group": "Music",
   "name": "Lobby - backyard party loop",
   "kind": "music",
-  "status": "todo",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.1667,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "Made 22 Oct in the K64 style and sent to you as a link: K92, the lobby (3:49). Waiting for your ear.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-22T13:45:34+02:00"
  },
  {
   "id": "music-selection",
@@ -1003,14 +1004,15 @@
   "game": "7.1 Split or Steal",
   "name": "Split or Steal - game-show tension",
   "kind": "music",
-  "status": "todo",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.1667,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "Made 22 Oct in the K64 style and sent to you as a link: K93 (3:15). Waiting for your ear.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-22T13:45:34+02:00"
  },
  {
   "id": "music-cutting-things",
@@ -1019,14 +1021,15 @@
   "game": "7.2 Cutting Things",
   "name": "Cutting Things - party kitchen",
   "kind": "music",
-  "status": "todo",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.1667,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "Made 22 Oct in the K64 style and sent to you as a link: K94 (2:30). Waiting for your ear.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-22T13:45:34+02:00"
  },
  {
   "id": "music-surfing-frozen-sea",
@@ -1035,14 +1038,15 @@
   "game": "7.4 Surfing Rats",
   "name": "Surfing Rats - Frozen Sea map",
   "kind": "music",
-  "status": "todo",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.1667,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "Made 22 Oct in the K64 style and sent to you as a link: K96 (2:05), one Surfing Rats track for all three maps so far. Waiting for your ear.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-22T13:45:34+02:00"
  },
  {
   "id": "music-surfing-sea-disco",
@@ -1051,14 +1055,15 @@
   "game": "7.4 Surfing Rats",
   "name": "Surfing Rats - Sea Disco map",
   "kind": "music",
-  "status": "todo",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.1667,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "Made 22 Oct in the K64 style and sent to you as a link: K96 (2:05), one Surfing Rats track for all three maps so far. Waiting for your ear.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-22T13:45:35+02:00"
  },
  {
   "id": "music-surfing-sea-graveyard",
@@ -1067,14 +1072,15 @@
   "game": "7.4 Surfing Rats",
   "name": "Surfing Rats - Sea Graveyard map",
   "kind": "music",
-  "status": "todo",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.1667,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "Made 22 Oct in the K64 style and sent to you as a link: K96 (2:05), one Surfing Rats track for all three maps so far. Waiting for your ear.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-22T13:45:35+02:00"
  },
  {
   "id": "music-cheese-basketball",
@@ -1083,14 +1089,15 @@
   "game": "7.5 Cheese Basketball",
   "name": "Cheese Basketball (+ Sudden Death variant)",
   "kind": "music",
-  "status": "todo",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.1667,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "Made 22 Oct in the K64 style and sent to you as a link: K97 for the game (2:14) and K116 for its Sudden Death (3:29). Waiting for your ear.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-22T13:45:35+02:00"
  },
  {
   "id": "music-cut-out",
@@ -1099,14 +1106,15 @@
   "game": "7.6 Perfect Cut Out",
   "name": "Cut Out (Perfect Cut Out)",
   "kind": "music",
-  "status": "todo",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.1667,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "Made 22 Oct in the K64 style and sent to you as a link: K98 (3:00). Waiting for your ear.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-22T13:45:35+02:00"
  },
  {
   "id": "music-balloon-pop",
@@ -1115,14 +1123,15 @@
   "game": "7.7 Popping Balloons",
   "name": "Balloon Pop - sunset sky",
   "kind": "music",
-  "status": "todo",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.1667,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "Made 22 Oct in the K64 style and sent to you as a link: K99 (1:45). Waiting for your ear.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-22T13:45:35+02:00"
  },
  {
   "id": "music-tug-of-war",
@@ -1131,14 +1140,15 @@
   "game": "7.8 Tug of War",
   "name": "Tug of War - birthday-cake crack",
   "kind": "music",
-  "status": "todo",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.1667,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "Made 22 Oct in the K64 style and sent to you as a link: K100 (1:54). Waiting for your ear.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-22T13:45:35+02:00"
  },
  {
   "id": "music-draw-off",
@@ -1147,14 +1157,15 @@
   "game": "7.9 Drawing Contest",
   "name": "Draw-Off (Drawing Contest)",
   "kind": "music",
-  "status": "todo",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.1667,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "Made 22 Oct in the K64 style and sent to you as a link: K101 (4:00). Waiting for your ear.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-22T13:45:35+02:00"
  },
  {
   "id": "music-sumo",
@@ -1163,14 +1174,15 @@
   "game": "7.10 Sumo",
   "name": "Sumo - DJ turntable record",
   "kind": "music",
-  "status": "todo",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.1667,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "Made 22 Oct in the K64 style and sent to you as a link: K102 (2:59). Waiting for your ear.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-22T13:45:35+02:00"
  },
  {
   "id": "music-classic-tag",
@@ -1179,14 +1191,15 @@
   "game": "7.11 Classic Tag",
   "name": "Classic Tag - house-party chase",
   "kind": "music",
-  "status": "todo",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.1667,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "Made 22 Oct in the K64 style and sent to you as a link: K103 (2:14). Waiting for your ear.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-22T13:45:42+02:00"
  },
  {
   "id": "music-bomb-tag",
@@ -1195,14 +1208,15 @@
   "game": "7.12 Bomb Tag",
   "name": "Bomb Tag - ticking chaos",
   "kind": "music",
-  "status": "todo",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.1667,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "Made 22 Oct in the K64 style and sent to you as a link: K104 (1:59). Waiting for your ear.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-22T13:45:42+02:00"
  },
  {
   "id": "music-hill-king",
@@ -1211,14 +1225,15 @@
   "game": "7.13 King of the Hill",
   "name": "Hill King (King of the Hill)",
   "kind": "music",
-  "status": "todo",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.1667,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "Made 22 Oct in the K64 style and sent to you as a link: K105 (2:25). Waiting for your ear.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-22T13:45:42+02:00"
  },
  {
   "id": "music-pouring-booze",
@@ -1227,14 +1242,15 @@
   "game": "7.14 Pouring Booze",
   "name": "Pouring Booze - blind pour",
   "kind": "music",
-  "status": "todo",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.1667,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "Made 22 Oct in the K64 style and sent to you as a link: K106 (3:44). Waiting for your ear.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-22T13:45:42+02:00"
  },
  {
   "id": "music-tanks",
@@ -1243,14 +1259,15 @@
   "game": "7.15 Rat Tanks: Hot Zone",
   "name": "Rat Tanks (Hot Zone + Tank Duel)",
   "kind": "music",
-  "status": "todo",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.1667,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "Made 22 Oct in the K64 style and sent to you as a link: K107 for Hot Zone (2:45) and K108 for the Showdown (2:35). Waiting for your ear.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-22T13:45:42+02:00"
  },
  {
   "id": "music-snowballs",
@@ -1259,14 +1276,15 @@
   "game": "7.17 Snowball Fight",
   "name": "Snowballs - hot-chocolate lake",
   "kind": "music",
-  "status": "todo",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.1667,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "Made 22 Oct in the K64 style and sent to you as a link: K109 (3:10). Waiting for your ear.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-22T13:45:42+02:00"
  },
  {
   "id": "music-ninja-rats",
@@ -1275,14 +1293,15 @@
   "game": "7.18 Ninja Rats",
   "name": "Ninja Rats - paper-lantern dojo",
   "kind": "music",
-  "status": "todo",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.1667,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "Made 22 Oct in the K64 style and sent to you as a link: K110 (2:55). Waiting for your ear.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-22T13:45:42+02:00"
  },
  {
   "id": "music-tnt-run",
@@ -1291,14 +1310,15 @@
   "game": "7.19 TNT Run",
   "name": "TNT Run - Minecraft-like void",
   "kind": "music",
-  "status": "todo",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.1667,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "Made 22 Oct in the K64 style and sent to you as a link: K111 (1:50). Waiting for your ear.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-22T13:45:43+02:00"
  },
  {
   "id": "music-balloon-ascent",
@@ -1307,14 +1327,15 @@
   "game": "7.20 Balloon Ascent",
   "name": "Balloon Ascent - sunset sky climb",
   "kind": "music",
-  "status": "todo",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.1667,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "Made 22 Oct in the K64 style and sent to you as a link: K112 (3:19). Waiting for your ear.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-22T13:45:43+02:00"
  },
  {
   "id": "music-laser-limbo",
@@ -1323,14 +1344,15 @@
   "game": "7.21 Laser Limbo",
   "name": "Laser Limbo - club rig, LOCKED at 128 BPM",
   "kind": "music",
-  "status": "todo",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.1667,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "Made 22 Oct in the K64 style and sent to you as a link: K113 (2:10), asked for at 128 BPM to match the lasers. Waiting for your ear.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-22T13:45:43+02:00"
  },
  {
   "id": "music-quick-draw",
@@ -1339,14 +1361,15 @@
   "game": "7.22 Quick Draw",
   "name": "Quick Draw - backyard western",
   "kind": "music",
-  "status": "todo",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.1667,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "Made 22 Oct in the K64 style and sent to you as a link: K114 (3:40). Waiting for your ear.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-22T13:45:43+02:00"
  },
  {
   "id": "music-cake-stacking",
@@ -1355,14 +1378,15 @@
   "game": "7.23 Cake Stacking",
   "name": "Cake Stacking - Čapek's dog-and-cat cake",
   "kind": "music",
-  "status": "todo",
+  "status": "awaiting",
   "weight": 1.0,
   "days": 0.1667,
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "Made 22 Oct in the K64 style and sent to you as a link: K115 (3:55), its second press - the first came out 40 s short. Waiting for your ear.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-22T13:45:43+02:00"
  },
  {
   "id": "sfx-ui",
@@ -1920,8 +1944,9 @@
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "",
-  "added_at": "2026-09-27T13:37:00+02:00"
+  "note": "Code complete for iPhone and Android. Not felt on a phone yet: the first iPhone build (20 Oct) is on your iPhone 14 Pro, waiting for your try; Android is not built yet.",
+  "added_at": "2026-09-27T13:37:00+02:00",
+  "updated_at": "2026-10-22T13:45:43+02:00"
  },
  {
   "id": "feel-ui-haptic",
