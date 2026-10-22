@@ -10552,5 +10552,21 @@
   "note": "Built (19 Oct): every stroke now reads drawn, not pixel art. Checked between two players: a large drawing reached the other one exactly, 25 messages in 2 frames, both ways. Waiting for your try.",
   "added_at": "2026-10-19T22:09:14+02:00",
   "updated_at": "2026-10-19T22:09:14+02:00"
+ },
+ {
+  "id": "music-anchor",
+  "cat": "music",
+  "group": "Music",
+  "name": "The music anchor - the production style every track follows",
+  "kind": "task",
+  "status": "approved",
+  "weight": 1.0,
+  "days": 0.1667,
+  "count": null,
+  "baseline": false,
+  "approved_at": "2026-10-22T12:29:23+02:00",
+  "note": "You picked K64 as the anchor (22 Oct): \"my favorite production style and theme is the K64, so that's our anchor, and based on that we will do the rest of the music.\"",
+  "added_at": "2026-10-22T12:29:23+02:00",
+  "updated_at": "2026-10-22T12:29:23+02:00"
  }
 ]
