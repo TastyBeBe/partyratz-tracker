@@ -918,9 +918,9 @@
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "You asked (25 Oct) for new melodies: K92 reused K64's melody, so the lobby track is being redone - a new melody in K64's production. The new take comes to you as a link.",
+  "note": "Test versions made 26 Oct - waiting for your ear.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-25T18:21:37+01:00"
+  "updated_at": "2026-10-26T11:13:10+01:00"
  },
  {
   "id": "music-selection",
@@ -1299,9 +1299,9 @@
   "count": null,
   "baseline": false,
   "approved_at": null,
-  "note": "You asked (25 Oct) for new melodies: K110 reused K64's melody, so it is being redone - a new melody in K64's production, themed to the game. The new take comes to you as a link.",
+  "note": "Test versions made 26 Oct - waiting for your ear.",
   "added_at": "2026-09-27T13:37:00+02:00",
-  "updated_at": "2026-10-25T18:21:45+01:00"
+  "updated_at": "2026-10-26T11:13:10+01:00"
  },
  {
   "id": "music-tnt-run",
